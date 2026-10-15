@@ -1,0 +1,2187 @@
+[
+  {
+    "id": "int-gestion-01",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Más que sueldos",
+    "situacion": "En una reunión, un gerente comercial dice que el área de Recursos Humanos «es la que liquida los sueldos y nada más».",
+    "pregunta": "¿Qué le respondés sobre qué es la gestión de RRHH?",
+    "respuestaCorrecta": "Un sistema de estrategias y actividades para conducir a las personas hacia los objetivos",
+    "respuestasIncorrectas": [
+      "Un área administrativa que se ocupa solo de liquidar sueldos, licencias y legajos del personal",
+      "Un conjunto de reglas de disciplina para controlar que los empleados cumplan su horario de trabajo",
+      "Un servicio externo que la empresa contrata solo cuando necesita despedir a alguien del personal",
+      "Una oficina que representa a los trabajadores frente a la empresa en los reclamos de sueldo",
+      "Un sistema de premios en dinero que se reparte entre los empleados al final de cada año"
+    ],
+    "pista": "Pensá si RRHH trabaja solo en los trámites o también en hacia dónde va la empresa.",
+    "explicacion": "La gestión de RRHH es un sistema de estrategias y actividades para conducir con éxito a los empleados, en todos los niveles, hacia los objetivos de la organización. Liquidar sueldos es una de sus tareas, pero no la única.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "int-gestion-02",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Ferias de empleo",
+    "situacion": "Una empresa de software empieza a participar en ferias de empleo de universidades y publica sus búsquedas en redes sociales.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "respuestaCorrecta": "Atraer",
+    "respuestasIncorrectas": [
+      "Retener",
+      "Motivar",
+      "Desvincular",
+      "Compensar",
+      "Evaluar"
+    ],
+    "pista": "Las personas a las que apunta todavía no trabajan en la empresa.",
+    "explicacion": "Busca que personas de afuera quieran sumarse a la empresa: eso es atraer talento.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "int-gestion-03",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Que no se vayan",
+    "situacion": "Los mejores vendedores de una empresa reciben ofertas de la competencia. RRHH mejora su propuesta de carrera y beneficios para que se queden.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "respuestaCorrecta": "Retener",
+    "respuestasIncorrectas": [
+      "Atraer",
+      "Motivar",
+      "Reclutar",
+      "Capacitar",
+      "Seleccionar"
+    ],
+    "pista": "Los vendedores ya trabajan en la empresa. ¿Qué quiere evitar RRHH?",
+    "explicacion": "Busca que personas valiosas que ya están en la empresa no se vayan: eso es retener talento.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "int-gestion-04",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "El reconocimiento del mes",
+    "situacion": "Un equipo de atención al cliente está desganado. RRHH propone reconocer cada mes los mejores aportes y dar más autonomía para organizar el trabajo.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "respuestaCorrecta": "Motivar",
+    "respuestasIncorrectas": [
+      "Atraer",
+      "Retener",
+      "Seleccionar",
+      "Planificar",
+      "Desvincular"
+    ],
+    "pista": "Nadie amenaza con irse: el problema son las ganas de trabajar.",
+    "explicacion": "Busca que las personas tengan más ganas de dar lo mejor en su trabajo: eso es motivar.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "int-ulrich-01",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "En la mesa del directorio",
+    "situacion": "La gerenta de RRHH participa de las reuniones de directorio para armar el plan del año, trabaja junto a los gerentes de cada área y cuida la imagen de la empresa.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "respuestaCorrecta": "Socio estratégico",
+    "respuestasIncorrectas": [
+      "Agente de cambio",
+      "Experto en administración y gestión",
+      "Líder de efectividad y socio de trabajadores",
+      "Consultor externo de la organización",
+      "Representante gremial del personal"
+    ],
+    "pista": "Mira al futuro de la empresa y trabaja sobre el plan, no sobre personas puntuales.",
+    "explicacion": "Participar del plan estratégico, trabajar como socio de las áreas del negocio y cuidar la cultura y la imagen son tareas del socio estratégico: enfoque estratégico y orientado a procesos.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "int-ulrich-02",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Encuesta y plan de acción",
+    "situacion": "RRHH hace una encuesta entre los empleados, arma un plan de acción con los resultados y rediseña el organigrama de un área que no funcionaba.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "respuestaCorrecta": "Agente de cambio",
+    "respuestasIncorrectas": [
+      "Socio estratégico",
+      "Experto en administración y gestión",
+      "Líder de efectividad y socio de trabajadores",
+      "Auditor externo de la organización",
+      "Administrador de sueldos y legajos"
+    ],
+    "pista": "Está transformando cómo trabaja la gente, con la mirada puesta en lo que viene.",
+    "explicacion": "Las encuestas con su plan de acción y el diseño organizacional son responsabilidades del agente de cambio: enfoque estratégico y orientado a personas.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "int-ulrich-03",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Sueldos y beneficios",
+    "situacion": "Un equipo de RRHH liquida los sueldos todos los meses, administra los beneficios del personal y mantiene al día el sistema de información de los empleados.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "respuestaCorrecta": "Experto en administración y gestión",
+    "respuestasIncorrectas": [
+      "Socio estratégico",
+      "Agente de cambio",
+      "Líder de efectividad y socio de trabajadores",
+      "Responsable de cultura e imagen",
+      "Coordinador de formación y desarrollo"
+    ],
+    "pista": "Son tareas del día a día que dependen de que los sistemas funcionen bien.",
+    "explicacion": "Compensación, beneficios, sistemas de información y cumplimiento son responsabilidades del experto en administración y gestión: enfoque operativo y orientado a procesos.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "int-ulrich-04",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Los reclamos de la planta",
+    "situacion": "Una analista de RRHH recibe los reclamos de los operarios, coordina con el delegado del sindicato y revisa con ellos las medidas de seguridad de la planta.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "respuestaCorrecta": "Líder de efectividad y socio de trabajadores",
+    "respuestasIncorrectas": [
+      "Socio estratégico",
+      "Agente de cambio",
+      "Experto en administración y gestión",
+      "Responsable del plan estratégico",
+      "Diseñador de la estructura organizacional"
+    ],
+    "pista": "Es tarea del día a día, y en el centro están la gente y sus vínculos.",
+    "explicacion": "Las relaciones con los trabajadores, las relaciones laborales y la seguridad y prevención son responsabilidades del líder de efectividad y socio de trabajadores: enfoque operativo y orientado a personas.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "int-ulrich-05",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Ubicar el cuadrante",
+    "situacion": "Un compañero dibuja el modelo de Ulrich y pone al socio estratégico en el cuadrante de abajo a la derecha: enfoque operativo y orientación a personas.",
+    "pregunta": "¿Qué le corregís?",
+    "respuestaCorrecta": "Que el socio estratégico tiene enfoque estratégico y está orientado a procesos",
+    "respuestasIncorrectas": [
+      "Nada: el socio estratégico resuelve el día a día de las personas",
+      "Que el socio estratégico tiene enfoque operativo y orientación a procesos",
+      "Que el socio estratégico está fuera del modelo, porque es un consultor externo",
+      "Que el modelo de Ulrich no tiene ejes: los cuatro roles están al mismo nivel",
+      "Que el socio estratégico ocupa los cuatro cuadrantes a la vez, según el caso"
+    ],
+    "pista": "El nombre del rol ya dice hacia dónde mira en el eje vertical.",
+    "explicacion": "El socio estratégico está arriba a la izquierda: enfoque estratégico (mira al futuro) y orientación a procesos. Abajo a la derecha está el líder de efectividad y socio de trabajadores.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "int-mckinsey-01",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "El centro del modelo",
+    "situacion": "Estás estudiando el modelo de McKinsey sobre cómo los líderes de RRHH preparan a la organización para el cambio.",
+    "pregunta": "¿Qué tres ideas están en el centro de ese modelo?",
+    "respuestaCorrecta": "El propósito, el valor y la cultura",
+    "respuestasIncorrectas": [
+      "El control, la disciplina y el horario",
+      "El sueldo, los premios y las sanciones",
+      "La tecnología, los datos y la plataforma",
+      "Los clientes, los precios y las ventas",
+      "La estructura, el talento y el ecosistema"
+    ],
+    "pista": "Son tres ideas sobre para qué existe la organización y cómo vive su gente.",
+    "explicacion": "McKinsey plantea que los líderes de RRHH preparan a la organización para el cambio enfocándose en el propósito, el valor y la cultura. Estructura, talento, ecosistema y plataforma son elementos que están alrededor.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "int-mckinsey-02",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Menos jefes, más equipos",
+    "situacion": "Una empresa elimina dos niveles de jefaturas y arma equipos que deciden rápido por su cuenta. Su lema es que las personas son el capital más escaso.",
+    "pregunta": "¿Sobre qué dimensión del modelo de McKinsey está trabajando?",
+    "respuestaCorrecta": "Cómo operamos",
+    "respuestasIncorrectas": [
+      "Quiénes somos",
+      "Cómo crecemos",
+      "Qué vendemos",
+      "Dónde competimos",
+      "Cuánto pagamos"
+    ],
+    "pista": "El cambio está en la forma de organizarse y de tomar decisiones.",
+    "explicacion": "Aplanar la organización con equipos que deciden rápido y tratan a las personas como el capital más escaso es la dimensión «cómo operamos».",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "int-mckinsey-03",
+    "unidad": "introduccion",
+    "tipo": "clasificar",
+    "titulo": "Aprender antes que el resto",
+    "situacion": "Una empresa invierte en que sus equipos aprendan más rápido que la competencia, usa los datos para decidir y trabaja en red con proveedores y socios.",
+    "pregunta": "¿Sobre qué dimensión del modelo de McKinsey está trabajando?",
+    "respuestaCorrecta": "Cómo crecemos",
+    "respuestasIncorrectas": [
+      "Cómo operamos",
+      "Quiénes somos",
+      "Cómo cobramos",
+      "Dónde vendemos",
+      "Qué fabricamos"
+    ],
+    "pista": "El foco está en adelantarse a los demás y sostener esa ventaja.",
+    "explicacion": "Adelantarse aprendiendo más rápido, sacar valor de los datos y aprovechar el ecosistema es la dimensión «cómo crecemos».",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "int-proceso-01",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Por dónde empezar",
+    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH de la cursada.",
+    "pregunta": "¿Con qué etapa empieza ese proceso?",
+    "respuestaCorrecta": "Con la planificación de RRHH",
+    "respuestasIncorrectas": [
+      "Con el reclutamiento de candidatos",
+      "Con la evaluación de desempeño",
+      "Con la capacitación del personal",
+      "Con la desvinculación de empleados",
+      "Con la compensación y los beneficios"
+    ],
+    "pista": "Antes de buscar a alguien, hay que saber qué personas se necesitan.",
+    "explicacion": "El proceso empieza por la planificación de RRHH: definir qué personas va a necesitar la organización. De ahí salen dos caminos: incorporar gente (reclutamiento) o desvincularla.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "int-proceso-02",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Recién elegidos",
+    "situacion": "Una empresa terminó de elegir a las tres personas que van a ingresar el mes que viene.",
+    "pregunta": "Según el proceso de gestión de RRHH, ¿qué etapas siguen?",
+    "respuestaCorrecta": "La orientación y después la capacitación",
+    "respuestasIncorrectas": [
+      "El reclutamiento y después la selección",
+      "La evaluación de desempeño y la desvinculación",
+      "La planificación de RRHH y el reclutamiento",
+      "El desarrollo de carrera y la compensación",
+      "La desvinculación y después la orientación"
+    ],
+    "pista": "Ya está elegida la gente: ahora hay que recibirla y prepararla.",
+    "explicacion": "Después de la selección viene la orientación (recibir e integrar a quien ingresa) y la capacitación (enseñarle lo que necesita). El resultado son empleados adaptados y competentes.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "int-proceso-03",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "El último tramo",
+    "situacion": "Una empresa evalúa el desempeño de su gente, arma planes de carrera y ajusta la compensación y los beneficios.",
+    "pregunta": "¿Qué resultado busca ese tramo del proceso de gestión de RRHH?",
+    "respuestaCorrecta": "Empleados competentes y de alto rendimiento",
+    "respuestasIncorrectas": [
+      "Candidatos identificados para una búsqueda",
+      "Empleados recién adaptados a su puesto",
+      "Una planificación de puestos para el año",
+      "Personas desvinculadas sin conflictos",
+      "Un listado de postulantes preseleccionados"
+    ],
+    "pista": "Es la última parte del proceso: la gente ya está adentro y capacitada.",
+    "explicacion": "Evaluación de desempeño, desarrollo de carrera y compensación y beneficios buscan empleados competentes y de alto rendimiento. Antes, la selección da empleados competentes, y la orientación y la capacitación, empleados adaptados.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "int-proceso-04",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Buscar y elegir",
+    "situacion": "Un compañero dice que «reclutar» y «seleccionar» son lo mismo y que se pueden hacer en cualquier orden.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que reclutar es buscar candidatos y seleccionar es elegir entre ellos, en ese orden",
+    "respuestasIncorrectas": [
+      "Que tiene razón: son dos nombres para la misma etapa del proceso",
+      "Que seleccionar es buscar candidatos y reclutar es elegir entre ellos",
+      "Que la selección va primero y el reclutamiento se hace después de contratar",
+      "Que reclutar es capacitar a los nuevos y seleccionar es evaluar su desempeño",
+      "Que reclutar solo se usa para puestos jerárquicos y seleccionar para el resto"
+    ],
+    "pista": "Para poder elegir, primero tiene que haber entre quiénes elegir.",
+    "explicacion": "Primero se recluta (se buscan y atraen candidatos) y después se selecciona (se elige entre ellos). El resultado es identificar y elegir empleados competentes.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "int-agile-01",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Quién lidera el cambio",
+    "situacion": "Una empresa quiere que todas sus áreas trabajen en equipos que se organizan solos, cambiando sus valores y su forma de organizarse.",
+    "pregunta": "Según el material de RRHH Agile, ¿quién lidera este tipo de agilidad?",
+    "respuestaCorrecta": "RRHH, porque es agilidad organizacional",
+    "respuestasIncorrectas": [
+      "El CIO o el CTO, porque es agilidad técnica",
+      "El área de ventas, porque trata con clientes",
+      "Un consultor externo, porque es un proyecto",
+      "El CEO solo, sin intervención de las áreas",
+      "Cada empleado por su cuenta, sin un líder"
+    ],
+    "pista": "No se trata de cambiar métodos de trabajo, sino valores y forma de organizarse.",
+    "explicacion": "Cuando lo que cambia son los valores y la forma de organizarse, es agilidad organizacional, y la lidera RRHH. La agilidad técnica, que cambia metodologías, la lideran el CIO o el CTO.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "int-agile-02",
+    "unidad": "introduccion",
+    "tipo": "concepto",
+    "titulo": "Qué genera el valor",
+    "situacion": "En una charla sobre RRHH Agile, te preguntan qué genera el valor en la agilidad organizacional, a diferencia de la agilidad técnica.",
+    "pregunta": "¿Qué respondés?",
+    "respuestaCorrecta": "Las personas, que se organizan solas; en la técnica, seguir los procesos",
+    "respuestasIncorrectas": [
+      "Seguir los procesos; en la técnica, las personas que se organizan solas",
+      "Los jefes que controlan; en la técnica, los sistemas de información",
+      "El presupuesto del área; en la técnica, la cantidad de empleados",
+      "La antigüedad del personal; en la técnica, las horas trabajadas",
+      "Los manuales de puestos; en la técnica, las órdenes del directorio"
+    ],
+    "pista": "Una de las dos agilidades pone a las personas en el centro.",
+    "explicacion": "En la agilidad organizacional el valor lo generan las personas, con autogobierno. En la agilidad técnica, el valor viene de seguir los procesos y las metodologías.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "est-preg-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Solo online",
+    "situacion": "El directorio de una marca de ropa decide vender solo por su tienda online y dejar de vender en supermercados.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "respuestaCorrecta": "¿Dónde jugaremos?",
+    "respuestasIncorrectas": [
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Cómo jugaremos?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Cuál es nuestra cultura?"
+    ],
+    "pista": "La decisión es sobre el canal por el que llega el producto al cliente.",
+    "explicacion": "Elegir canales de venta, clientes, productos o zonas es responder «dónde jugaremos». Dejar los supermercados también es parte de esa elección: decidir dónde NO jugar.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-preg-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "El más barato",
+    "situacion": "Una cadena de electrodomésticos define que va a ganarle a la competencia ofreciendo siempre el precio más bajo del mercado.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "respuestaCorrecta": "¿Cómo jugaremos?",
+    "respuestasIncorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué stakeholders tenemos?"
+    ],
+    "pista": "La decisión explica de qué manera va a ganar, no dónde.",
+    "explicacion": "Definir cómo se le gana a la competencia es responder «cómo jugaremos»: es la ventaja competitiva. En este caso, por costo.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-preg-03",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Para qué existimos",
+    "situacion": "Una empresa de telecomunicaciones declara: «Existimos para que cualquier familia del país pueda conectarse a internet».",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "respuestaCorrecta": "¿Cuál es nuestra aspiración ganadora?",
+    "respuestasIncorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué ventaja competitiva tenemos?"
+    ],
+    "pista": "La frase habla del propósito, no de clientes ni de precios.",
+    "explicacion": "Decir para qué existe la organización y qué significa ganar para ella es la aspiración ganadora: el propósito que guía a todo lo demás.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-preg-04",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Lo que hay que saber hacer",
+    "situacion": "Para vender online, una empresa necesita armar una logística propia de envíos y un equipo que programe y mantenga su tienda virtual.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "respuestaCorrecta": "¿Qué capacidades debemos tener?",
+    "respuestasIncorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué clientes queremos atender?"
+    ],
+    "pista": "Habla de actividades que la empresa tiene que dominar para cumplir lo que ya eligió.",
+    "explicacion": "Las capacidades son las actividades que permiten hacer realidad dónde jugar y cómo ganar. La logística y la programación son capacidades.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-preg-05",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Tableros y reglas",
+    "situacion": "Una empresa arma un tablero con indicadores, define procesos de seguimiento mensual y reglas claras para evaluar el desempeño de cada área.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "respuestaCorrecta": "¿Qué sistemas de gestión necesitamos?",
+    "respuestasIncorrectas": [
+      "¿Qué capacidades debemos tener?",
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué cultura queremos tener?"
+    ],
+    "pista": "Son procesos, estructuras y reglas que sostienen y miden lo que se decidió.",
+    "explicacion": "Los sistemas de gestión son los procesos, estructuras y reglas que construyen las capacidades y refuerzan y miden la estrategia.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-ventaja-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Más caro, pero único",
+    "situacion": "Una marca de zapatillas cobra bastante más que sus competidores y aun así vende mucho, porque sus clientes sienten que su diseño no se consigue en otro lado.",
+    "pregunta": "¿Qué tipo de ventaja competitiva tiene?",
+    "respuestaCorrecta": "Diferenciación",
+    "respuestasIncorrectas": [
+      "Costo",
+      "Aspiración ganadora",
+      "Sistema de gestión",
+      "Capacidad logística",
+      "Cultura organizacional"
+    ],
+    "pista": "No gana por precio: gana porque su producto se percibe distinto.",
+    "explicacion": "Ganar porque el producto se percibe como único es una ventaja por diferenciación. La ventaja por costo es ganar vendiendo más barato.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-def-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "La definición de Mintzberg",
+    "situacion": "En un examen te piden la definición de estrategia que da Henry Mintzberg para las organizaciones.",
+    "pregunta": "¿Cuál es?",
+    "respuestaCorrecta": "El patrón o plan que integra las metas y políticas y ordena la secuencia de acciones",
+    "respuestasIncorrectas": [
+      "El arte de dirigir las operaciones militares para vencer al adversario",
+      "El conjunto de valores y creencias que comparten los integrantes de un grupo",
+      "La lista de tareas diarias que cada empleado debe cumplir en su puesto",
+      "El presupuesto anual que aprueba el directorio para cada una de las áreas",
+      "El reglamento interno que fija los horarios y las sanciones del personal"
+    ],
+    "pista": "Hay una definición militar y otra para las organizaciones: buscás la segunda.",
+    "explicacion": "Mintzberg define la estrategia como el patrón o plan que integra las principales metas y políticas de una organización y establece la secuencia coherente de acciones. «Dirigir operaciones militares» es el sentido militar de la palabra.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-def-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "No abrir en el interior",
+    "situacion": "Una empresa decide no abrir sucursales fuera de Buenos Aires para concentrar todos sus recursos en la ciudad. Un gerente dice que eso «no es estrategia, porque es no hacer nada».",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Que decidir dónde no competir también es parte de elegir dónde jugar",
+    "respuestasIncorrectas": [
+      "Que tiene razón: la estrategia solo incluye lo que la empresa va a hacer",
+      "Que esa decisión corresponde a la cultura y no a la estrategia",
+      "Que es una decisión de capacidades, porque depende de la logística",
+      "Que es la aspiración ganadora, porque define para qué existe la empresa",
+      "Que no es estrategia, sino un sistema de gestión para medir sucursales"
+    ],
+    "pista": "Pensá qué pasa si una empresa intenta estar en todos lados a la vez.",
+    "explicacion": "Elegir dónde jugar incluye decidir dónde NO jugar. Eso evita dispersar esfuerzos y es tan estratégico como elegir dónde sí competir.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "est-rrhh-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "Antes de seguir",
+    "situacion": "Un equipo ya definió las acciones de RRHH para cumplir el plan estratégico. Antes de pasar a controlar el avance, el gerente pregunta si falta algo.",
+    "pregunta": "¿Qué fase falta en la construcción del plan?",
+    "respuestaCorrecta": "Comunicar el plan estratégico a todos los stakeholders",
+    "respuestasIncorrectas": [
+      "Diseñar el proceso de planeamiento estratégico",
+      "Monitorear el progreso del plan cada mes",
+      "Identificar las brechas de RRHH de la empresa",
+      "Definir la aspiración ganadora de la empresa",
+      "Contratar a un consultor para reemplazar el plan"
+    ],
+    "pista": "El plan ya está armado, pero todavía no lo conoce nadie fuera del equipo.",
+    "explicacion": "La construcción termina con comunicar el plan a todos los stakeholders. Recién después viene el seguimiento: monitorear su progreso.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "est-rrhh-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "Decidir por intuición",
+    "situacion": "Un director quiere definir los aumentos y los ascensos del año «por intuición», sin mirar ninguna información.",
+    "pregunta": "¿Qué componente clave de una estrategia de RRHH le recordás?",
+    "respuestaCorrecta": "Usar datos y analytics para tomar las decisiones",
+    "respuestasIncorrectas": [
+      "Rediseñar la estructura de RRHH para que sea más chica",
+      "Gestionar las redes de trabajo entre las áreas",
+      "Comunicar el plan a todos los stakeholders",
+      "Definir la aspiración ganadora de la empresa",
+      "Dejar que cada gerente decida sin criterios comunes"
+    ],
+    "pista": "El problema es la falta de información para decidir.",
+    "explicacion": "Uno de los componentes clave de una estrategia de RRHH es usar datos y analytics para mejorar la toma de decisiones estratégicas.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "est-rrhh-03",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "Lo que falta",
+    "situacion": "La empresa quiere crecer en ventas online, pero RRHH detecta que no tiene suficientes programadores para lograrlo.",
+    "pregunta": "En la construcción de la estrategia de RRHH, ¿qué está identificando?",
+    "respuestaCorrecta": "Una brecha de RRHH",
+    "respuestasIncorrectas": [
+      "La aspiración ganadora",
+      "Un sistema de gestión",
+      "Un mensaje cultural",
+      "Una ventaja competitiva",
+      "El seguimiento del plan"
+    ],
+    "pista": "Es la distancia entre lo que la estrategia necesita y lo que hay hoy.",
+    "explicacion": "Una brecha es la diferencia entre lo que la estrategia necesita y lo que la organización tiene. Identificarla es parte de la construcción del plan, antes de definir acciones.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "est-cultura-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "Cultura en una reunión",
+    "situacion": "Un CEO anuncia: «El lunes nos juntamos dos horas, diseñamos la nueva cultura y el martes ya la tenemos funcionando».",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que la cultura no se diseña: emerge, aunque se puede entender y modelar",
+    "respuestasIncorrectas": [
+      "Que tiene razón: la cultura se diseña en una reunión y se comunica",
+      "Que la cultura la define solo RRHH con un manual de valores",
+      "Que la cultura no se puede cambiar de ninguna manera, ni modelar",
+      "Que la cultura depende solo del sueldo que se le paga a la gente",
+      "Que la cultura es lo mismo que la estrategia y se decide igual"
+    ],
+    "pista": "Pensá de dónde sale la cultura: ¿de un documento o del día a día?",
+    "explicacion": "La cultura no se diseña: emerge del día a día de la organización. Pero se puede entender y modelar, por ejemplo con el ejemplo de los líderes, los sistemas y los símbolos.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "est-cultura-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "La cultura del ejemplo",
+    "situacion": "Estás repasando el modelo de Carolyn Taylor, «La cultura del ejemplo».",
+    "pregunta": "¿Cuáles son las tres fuentes que transmiten la cultura?",
+    "respuestaCorrecta": "Líderes, sistemas y procesos, y símbolos y rituales",
+    "respuestasIncorrectas": [
+      "Sueldos, beneficios y vacaciones del personal",
+      "Clientes, proveedores y competidores del mercado",
+      "Estrategia, capacidades y sistemas de gestión",
+      "Reclutamiento, selección y capacitación",
+      "Misión, visión y presupuesto de cada área"
+    ],
+    "pista": "Una fuente son personas, otra son reglas y otra es lo que se ve o se cuenta.",
+    "explicacion": "Para Carolyn Taylor la cultura se transmite por tres fuentes: los líderes, los sistemas y procesos, y los símbolos y rituales.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "est-mensaje-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Mails a las 2 de la mañana",
+    "situacion": "El gerente general repite que valora el equilibrio entre la vida y el trabajo, pero manda mails a su equipo a las 2 de la mañana y espera respuesta.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural que recibe el equipo?",
+    "respuestaCorrecta": "De los comportamientos: lo que se dice no coincide con lo que se hace",
+    "respuestasIncorrectas": [
+      "De los sistemas: el sistema de evaluación premia trabajar de noche",
+      "De los símbolos: la oficina del gerente es más grande que las demás",
+      "De la estructura: el organigrama tiene demasiados niveles de jefes",
+      "Del presupuesto: el área gasta más de lo que tiene asignado",
+      "De los rituales: la empresa festeja todos los fines de año"
+    ],
+    "pista": "El mensaje sale de lo que hace una persona, no de una regla.",
+    "explicacion": "Los mensajes culturales también salen de los comportamientos: lo que hacen los líderes y si lo que dicen coincide con lo que hacen. Acá, el ejemplo contradice el discurso.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "est-mensaje-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "Estacionamiento para pocos",
+    "situacion": "En una empresa, solo los directores tienen lugar de estacionamiento y oficina con ventana. El resto trabaja en un espacio abierto.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural?",
+    "respuestaCorrecta": "De los símbolos",
+    "respuestasIncorrectas": [
+      "De los comportamientos",
+      "De los sistemas de desempeño",
+      "De la planificación",
+      "De la medición",
+      "De la aspiración ganadora"
+    ],
+    "pista": "Es algo que se ve todos los días, aunque nadie lo diga.",
+    "explicacion": "Las oficinas, los lugares de estacionamiento y los títulos son símbolos: transmiten quién importa en la organización.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "est-mensaje-03",
+    "unidad": "estrategia_cultura",
+    "tipo": "clasificar",
+    "titulo": "El bono individual",
+    "situacion": "Una empresa dice que valora el trabajo en equipo, pero su sistema de bonos premia solo las ventas que logra cada vendedor por su cuenta.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural?",
+    "respuestaCorrecta": "De los sistemas: el desempeño y el reconocimiento",
+    "respuestasIncorrectas": [
+      "De los símbolos: las oficinas y los títulos",
+      "De los comportamientos: los mails del gerente",
+      "De los rituales: las historias de la empresa",
+      "De la aspiración ganadora de la empresa",
+      "De la ventaja competitiva de la empresa"
+    ],
+    "pista": "El mensaje sale de una regla que decide quién cobra más.",
+    "explicacion": "Los sistemas de desempeño y reconocimiento mandan mensajes culturales. Si el bono premia lo individual, la gente aprende que eso es lo que vale, más allá de lo que se diga.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "est-drucker-01",
+    "unidad": "estrategia_cultura",
+    "tipo": "concepto",
+    "titulo": "El desayuno",
+    "situacion": "En una charla, el orador cita a Peter Drucker: «La cultura se come a la estrategia en el desayuno». Un compañero te pregunta qué quiso decir.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que una buena estrategia falla si la cultura no la sostiene",
+    "respuestasIncorrectas": [
+      "Que la estrategia no sirve y alcanza con tener buena cultura",
+      "Que la cultura hay que cambiarla cada mañana según la estrategia",
+      "Que la estrategia la define la cultura del área de compras",
+      "Que las reuniones de estrategia deben hacerse por la mañana",
+      "Que la cultura depende solo de los beneficios que se dan"
+    ],
+    "pista": "Pensá qué pasa con un buen plan si la gente valora otra cosa.",
+    "explicacion": "La frase dice que se puede tener una buena estrategia, pero si la cultura no da soporte a los sistemas que la ponen en marcha, la estrategia va a fallar. No dice que la estrategia no sirva.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cultura y estrategia",
+      "entradaLibro": "est_cultura_estrategia"
+    }
+  },
+  {
+    "id": "est-drucker-02",
+    "unidad": "estrategia_cultura",
+    "tipo": "caso",
+    "titulo": "Innovar con miedo",
+    "situacion": "Una empresa lanza una estrategia para innovar, pero cada vez que un proyecto nuevo falla, se sanciona al responsable. Al año, nadie propone ideas.",
+    "pregunta": "¿Qué explica que la estrategia no funcione?",
+    "respuestaCorrecta": "Que la cultura castiga el error que la estrategia de innovar necesita",
+    "respuestasIncorrectas": [
+      "Que la estrategia estaba mal escrita y había que redactarla de nuevo",
+      "Que faltó elegir dónde jugar: la empresa no tenía clientes definidos",
+      "Que la empresa no tenía aspiración ganadora y por eso nadie innova",
+      "Que innovar no es una estrategia posible para una empresa grande",
+      "Que el problema fue de comunicación: nadie conocía la estrategia"
+    ],
+    "pista": "Fijate qué aprende la gente cuando ve lo que pasa con quien se equivoca.",
+    "explicacion": "La estrategia pide innovar, pero la cultura castiga el error. La gente cree en lo que ve que pasa, así que deja de proponer: la cultura se come a la estrategia.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cultura y estrategia",
+      "entradaLibro": "est_cultura_estrategia"
+    }
+  },
+  {
+    "id": "tra-iceberg-01",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Arriba o abajo del agua",
+    "situacion": "Estás ordenando elementos de la cultura de una empresa en el iceberg. Te tocan los beneficios que reciben los empleados y el entorno físico de la oficina.",
+    "pregunta": "¿En qué parte del iceberg van?",
+    "respuestaCorrecta": "En la parte visible: lo que la gente ve",
+    "respuestasIncorrectas": [
+      "En la parte que no se ve, debajo del agua",
+      "En la base del iceberg, junto con la misión",
+      "Fuera del iceberg, porque no son cultura",
+      "Una arriba y otra abajo, según la empresa",
+      "En el centro, junto con valores y creencias"
+    ],
+    "pista": "Son cosas que cualquiera puede observar al entrar a la empresa.",
+    "explicacion": "Los beneficios y el entorno físico están en la punta del iceberg, junto con las personas, las prácticas, las conductas y las estrategias: es lo que la gente ve.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "tra-iceberg-02",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Lo que pesa debajo",
+    "situacion": "En una empresa, todos creen que equivocarse está mal visto, aunque nadie lo dijo nunca en voz alta.",
+    "pregunta": "¿En qué parte del iceberg de la cultura está esa creencia?",
+    "respuestaCorrecta": "En la parte que no se ve, debajo del agua",
+    "respuestasIncorrectas": [
+      "En la parte visible, junto con los beneficios",
+      "En la punta, junto con el entorno físico",
+      "Fuera del iceberg, porque nadie la dijo",
+      "En la parte visible, porque todos la conocen",
+      "En las prácticas escritas de la empresa"
+    ],
+    "pista": "Nadie la ve escrita ni la dice, pero todos la sienten.",
+    "explicacion": "Las creencias, igual que los valores, las normas y el propósito, están debajo del agua: no se ven, pero pesan mucho en cómo se comporta la gente.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "tra-forma-01",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "La idea de los dueños",
+    "situacion": "Los dos dueños que fundaron una empresa repetían que «el cliente siempre tiene la razón». Treinta años después, esa idea sigue marcando cómo trabaja todo el personal.",
+    "pregunta": "¿Qué factor formó esa parte de la cultura?",
+    "respuestaCorrecta": "La filosofía de los fundadores",
+    "respuestasIncorrectas": [
+      "Los criterios de selección",
+      "La socialización de los nuevos",
+      "Las encuestas de clima",
+      "El sistema de compensaciones",
+      "La transformación estructural"
+    ],
+    "pista": "Fijate quién instaló la idea y cuándo.",
+    "explicacion": "La filosofía de los fundadores es uno de los factores que forman la cultura, junto con los criterios de selección, la socialización y la alta gerencia.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "tra-forma-02",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "La primera semana",
+    "situacion": "Cuando alguien entra a la empresa, pasa su primera semana con un compañero que le muestra «cómo se hacen las cosas acá».",
+    "pregunta": "¿Qué factor de formación de la cultura está en juego?",
+    "respuestaCorrecta": "La socialización",
+    "respuestasIncorrectas": [
+      "Los criterios de selección",
+      "La filosofía de los fundadores",
+      "La alta gerencia",
+      "El diagnóstico cultural",
+      "El gatopardismo"
+    ],
+    "pista": "Le pasa a la persona después de haber sido elegida.",
+    "explicacion": "La socialización es el proceso por el que los nuevos aprenden cómo funciona la organización. Es uno de los factores que forman la cultura.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "tra-forma-03",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Elegir parecidos",
+    "situacion": "RRHH solo contrata candidatos que, en la entrevista, muestran que comparten los valores de la empresa.",
+    "pregunta": "¿Qué factor de formación de la cultura está en juego?",
+    "respuestaCorrecta": "Los criterios de selección",
+    "respuestasIncorrectas": [
+      "La socialización",
+      "La filosofía de los fundadores",
+      "La alta gerencia",
+      "Los rituales",
+      "El lenguaje"
+    ],
+    "pista": "Pasa antes de que la persona entre a la empresa.",
+    "explicacion": "A quién se elige moldea la cultura: los criterios de selección son uno de los factores que la forman.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "tra-hatum-01",
+    "unidad": "transformacion",
+    "tipo": "caso",
+    "titulo": "Hasta las 10 de la noche",
+    "situacion": "Un gerente promociona siempre a quien se queda en la oficina hasta las 10 de la noche, aunque esa persona no lidere a nadie ni tenga mejores resultados.",
+    "pregunta": "Según Andrés Hatum, ¿qué está haciendo con la cultura?",
+    "respuestaCorrecta": "La destruye: premia parecer ocupado en lugar de los resultados",
+    "respuestasIncorrectas": [
+      "La fortalece: muestra que la empresa valora el compromiso",
+      "Nada: los ascensos no tienen relación con la cultura",
+      "La transforma: pasa de la jerarquía a la agilidad",
+      "La diagnostica: mide quién trabaja más horas",
+      "La socializa: enseña a los nuevos cómo se trabaja"
+    ],
+    "pista": "Pensá qué aprende el resto del equipo al ver a quién se asciende.",
+    "explicacion": "Es el primer paso de «cómo destruir la cultura» de Hatum: promocionar al que se queda hasta tarde premia parecer ocupado, no liderar ni dar resultados.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "entradaLibro": "tra_destruir"
+    }
+  },
+  {
+    "id": "tra-hatum-02",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Todo cambia, nada cambia",
+    "situacion": "Una empresa habla todo el tiempo de innovación en sus comunicados, pero ningún proceso cambia y las ideas nuevas quedan en un cajón.",
+    "pregunta": "¿Cómo se llama esa conducta en el material de la cursada?",
+    "respuestaCorrecta": "Gatopardismo",
+    "respuestasIncorrectas": [
+      "Socialización",
+      "Agilidad organizacional",
+      "Diagnóstico cultural",
+      "Reskilling",
+      "Transformación estructural"
+    ],
+    "pista": "Es parecer que se cambia, sin cambiar nada.",
+    "explicacion": "Hablar de innovación para que parezca que todo cambia, mientras todo sigue igual, es gatopardismo: el cuarto paso de «cómo destruir la cultura».",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "entradaLibro": "tra_destruir"
+    }
+  },
+  {
+    "id": "tra-hatum-03",
+    "unidad": "transformacion",
+    "tipo": "caso",
+    "titulo": "Feedback en público",
+    "situacion": "Una jefa reta a un empleado delante de todo el equipo y después dice que «solo le estaba dando feedback».",
+    "pregunta": "¿Qué efecto tiene esa conducta sobre la cultura?",
+    "respuestaCorrecta": "La daña: usa el feedback como excusa para retar en público",
+    "respuestasIncorrectas": [
+      "La mejora: el feedback siempre ayuda, se dé como se dé",
+      "Ninguno: el feedback no tiene relación con la cultura",
+      "La transforma: es un paso hacia un liderazgo de mentoría",
+      "La fortalece: muestra que la empresa es transparente",
+      "La diagnostica: permite medir el clima del equipo"
+    ],
+    "pista": "Fijate en la forma y el lugar en que se dio la devolución.",
+    "explicacion": "Usar la palabra «feedback» como excusa para retar a la gente en público es uno de los pasos para destruir la cultura según Hatum: no construye aprendizaje y daña las relaciones.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "entradaLibro": "tra_destruir"
+    }
+  },
+  {
+    "id": "tra-def-01",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Del presente al futuro",
+    "situacion": "Un gerente te pregunta qué es exactamente una «transformación organizacional», porque la empresa la anunció para el año que viene.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Un método estratégico para llevar a la empresa del presente a lo que proyecta",
+    "respuestasIncorrectas": [
+      "Un cambio de logo y de colores para modernizar la imagen de la empresa",
+      "Una reducción de personal para bajar los costos del año siguiente",
+      "La compra de un sistema informático nuevo para todas las áreas",
+      "Un evento anual para que los empleados conozcan los objetivos",
+      "Una auditoría externa que revisa las cuentas de la empresa"
+    ],
+    "pista": "Tiene que ver con el futuro de toda la empresa, no con un cambio puntual.",
+    "explicacion": "La transformación organizacional es un método estratégico para llevar a la empresa desde el presente hasta sus proyecciones a futuro, mirando cómo interactúan las personas.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "tra-como-01",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Sobre qué trabajar",
+    "situacion": "Una empresa quiere transformarse y te pide que le digas sobre qué tres aspectos tiene que trabajar, según la clase.",
+    "pregunta": "¿Cuáles son?",
+    "respuestaCorrecta": "Cultura, estructura y tecnología",
+    "respuestasIncorrectas": [
+      "Precios, publicidad y ventas",
+      "Sueldos, horarios y vacaciones",
+      "Logo, oficinas y uniformes",
+      "Clientes, proveedores y bancos",
+      "Reclutamiento, selección y despidos"
+    ],
+    "pista": "Uno es sobre la gente, otro sobre cómo se organiza y otro sobre herramientas.",
+    "explicacion": "La transformación trabaja sobre la cultura, la estructura y la tecnología.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "tra-como-02",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "De a una",
+    "situacion": "Una empresa cambia primero cómo hace sus reuniones, después cómo evalúa el desempeño y, recién después, cómo arma sus equipos.",
+    "pregunta": "¿Qué estrategia de transformación está usando?",
+    "respuestaCorrecta": "Actualizar las prácticas una a una",
+    "respuestasIncorrectas": [
+      "Transformar toda la organización a la vez",
+      "Transformar un área o unidad de negocios",
+      "Hacer experimentos aislados",
+      "Cambiar solo el organigrama",
+      "Contratar una empresa externa"
+    ],
+    "pista": "No cambia un sector: va cambiando de a una cosa en toda la empresa.",
+    "explicacion": "Ir cambiando de a una las prácticas (reuniones, evaluaciones, equipos) es la estrategia de actualizar las prácticas una a una.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "tra-como-03",
+    "unidad": "transformacion",
+    "tipo": "caso",
+    "titulo": "Organigrama nuevo, gente igual",
+    "situacion": "Una empresa cambió todo su organigrama hace un año, pero la gente sigue trabajando, decidiendo y relacionándose exactamente igual que antes.",
+    "pregunta": "¿Qué le faltó a la transformación?",
+    "respuestaCorrecta": "Que las personas cambien su forma de pensar, trabajar y relacionarse",
+    "respuestasIncorrectas": [
+      "Cambiar el organigrama otra vez, con más niveles de jefatura",
+      "Anunciar el cambio con un evento más grande y más fotos",
+      "Comprar más tecnología, porque el problema es el sistema",
+      "Esperar más tiempo: los organigramas tardan años en funcionar",
+      "Nada: cambiar el organigrama ya es una transformación completa"
+    ],
+    "pista": "Pensá en la frase de la clase sobre quiénes se transforman.",
+    "explicacion": "«Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones.» Cambiar el organigrama no alcanza si la gente trabaja igual.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "tra-estructura-01",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Sin pirámide",
+    "situacion": "Un equipo deja de tener un jefe de proyecto arriba que reparte las tareas y pasa a organizarse solo, con una persona que ayuda y facilita.",
+    "pregunta": "¿Qué rol cumple esa persona en la nueva estructura?",
+    "respuestaCorrecta": "Un líder que sirve y facilita, en lugar de mandar",
+    "respuestasIncorrectas": [
+      "Un jefe que reparte las tareas y controla a cada uno",
+      "Un supervisor que evalúa a todos al final del año",
+      "Un representante del sindicato dentro del equipo",
+      "Un consultor externo que audita el trabajo del equipo",
+      "Un gerente que decide todo y el equipo solo ejecuta"
+    ],
+    "pista": "En la nueva forma, el equipo decide: esa persona no está arriba.",
+    "explicacion": "En la transformación estructural, la pirámide con un jefe arriba se reemplaza por equipos autoorganizados con un líder que sirve y facilita.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "tra-diag-01",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Antes de cambiar",
+    "situacion": "El directorio quiere lanzar ya mismo un cambio cultural en toda la empresa. Te piden opinión sobre por dónde empezar.",
+    "pregunta": "Según la clase, ¿qué hay que hacer primero?",
+    "respuestaCorrecta": "Un diagnóstico de la cultura actual",
+    "respuestasIncorrectas": [
+      "Un evento de lanzamiento para todo el personal",
+      "Un cambio completo del organigrama",
+      "Una nueva frase de valores en las paredes",
+      "Una reducción de personal en las áreas",
+      "Un aumento de sueldos para todos"
+    ],
+    "pista": "Antes de recetar, hay que revisar al paciente.",
+    "explicacion": "El cambio cultural empieza por un diagnóstico: entender qué cultura hay, qué mensajes transmite, qué refuerza y qué frena el cambio.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "entradaLibro": "tra_diagnostico"
+    }
+  },
+  {
+    "id": "tra-diag-02",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Cercanos o distantes",
+    "situacion": "En el diagnóstico cultural, RRHH pregunta si los jefes son cercanos o distantes y si generan vínculos de confianza.",
+    "pregunta": "¿Qué eje del diagnóstico está evaluando?",
+    "respuestaCorrecta": "Liderazgo",
+    "respuestasIncorrectas": [
+      "Ambiente",
+      "Creencias",
+      "Comunicación",
+      "Estructura y procesos",
+      "Actitudes y comportamientos"
+    ],
+    "pista": "Las preguntas son sobre los jefes.",
+    "explicacion": "Preguntar si los líderes son cercanos o distantes, si generan confianza y si son transformacionales o conservadores es diagnosticar el eje de liderazgo.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "entradaLibro": "tra_diagnostico"
+    }
+  },
+  {
+    "id": "tra-diag-03",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Horizontal o vertical",
+    "situacion": "En el diagnóstico cultural, RRHH pregunta si la empresa es más horizontal o vertical y si cada persona tiene claro qué se espera de su rol.",
+    "pregunta": "¿Qué eje del diagnóstico está evaluando?",
+    "respuestaCorrecta": "Estructura y procesos",
+    "respuestasIncorrectas": [
+      "Liderazgo",
+      "Ambiente",
+      "Creencias",
+      "Comunicación",
+      "Actitudes y comportamientos"
+    ],
+    "pista": "Las preguntas son sobre cómo está armada la organización.",
+    "explicacion": "Preguntar si la estructura es horizontal o vertical, si hay procesos que ordenen el trabajo y si los roles están claros es el eje de estructura y procesos.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "entradaLibro": "tra_diagnostico"
+    }
+  },
+  {
+    "id": "tra-farma-01",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Los roles nuevos",
+    "situacion": "Estudiás el caso de Farmacity, que pasó de una estructura jerárquica a un enfoque ágil basado en habilidades.",
+    "pregunta": "¿Qué roles incorporó su nuevo modelo?",
+    "respuestaCorrecta": "Sponsor, owner, miembro de equipo y mentor",
+    "respuestasIncorrectas": [
+      "Gerente, jefe, supervisor y operario",
+      "Director, auditor, delegado y cajero",
+      "Socio estratégico, agente de cambio y experto",
+      "Reclutador, seleccionador, capacitador y evaluador",
+      "Presidente, vicepresidente, tesorero y vocal"
+    ],
+    "pista": "Son roles pensados para trabajar sin una pirámide de jefes.",
+    "explicacion": "El modelo ágil de Farmacity incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "entradaLibro": "tra_farmacity"
+    }
+  },
+  {
+    "id": "tra-farma-02",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "De controlar a acompañar",
+    "situacion": "En el caso Farmacity, un directivo cuenta que antes tenían un liderazgo muy jerárquico y que ahora el líder «en vez de ubicarse arriba, se encarga de acompañar».",
+    "pregunta": "¿Qué cambio de liderazgo describe?",
+    "respuestaCorrecta": "De un liderazgo de control a uno de mentoría y autonomía",
+    "respuestasIncorrectas": [
+      "De un liderazgo de mentoría a uno de control y disciplina",
+      "De un liderazgo autónomo a uno con más niveles de jefes",
+      "De un liderazgo de equipo a uno de un solo gerente general",
+      "De un liderazgo cercano a uno distante y conservador",
+      "De un liderazgo de confianza a uno de supervisión diaria"
+    ],
+    "pista": "El líder deja de estar arriba de los demás.",
+    "explicacion": "Farmacity pasó de un liderazgo de control a uno de mentoría y autonomía: el líder acompaña para que el otro pueda desarrollarse.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "entradaLibro": "tra_farmacity"
+    }
+  },
+  {
+    "id": "tra-farma-03",
+    "unidad": "transformacion",
+    "tipo": "concepto",
+    "titulo": "Paso a paso",
+    "situacion": "Un compañero dice que Farmacity cambió todas sus áreas al mismo tiempo, de un día para el otro.",
+    "pregunta": "¿Qué le corregís?",
+    "respuestaCorrecta": "Que fue gradual: empezó por algunos sectores y después avanzó",
+    "respuestasIncorrectas": [
+      "Nada: cambió todas sus áreas el mismo día por decisión del directorio",
+      "Que nunca terminó: quedó solo como un experimento en un local",
+      "Que primero cambió los sistemas y la gente nunca participó",
+      "Que la transformación la hizo una consultora sin el personal",
+      "Que volvió a la estructura jerárquica después de un mes"
+    ],
+    "pista": "La clase destaca cómo se implementó, no solo qué se cambió.",
+    "explicacion": "La implementación en Farmacity fue gradual: comenzó en sectores específicos y avanzó hacia una transformación de toda la empresa.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "entradaLibro": "tra_farmacity"
+    }
+  },
+  {
+    "id": "tra-temas-01",
+    "unidad": "transformacion",
+    "tipo": "clasificar",
+    "titulo": "Mismo puesto, mejores habilidades",
+    "situacion": "Una empresa capacita a sus analistas contables en nuevas herramientas para que hagan mejor el mismo trabajo que ya hacen.",
+    "pregunta": "¿Qué práctica está aplicando?",
+    "respuestaCorrecta": "Upskilling",
+    "respuestasIncorrectas": [
+      "Reskilling",
+      "ENPS",
+      "Gatopardismo",
+      "Socialización",
+      "Diagnóstico cultural"
+    ],
+    "pista": "Las personas siguen en el mismo puesto.",
+    "explicacion": "Upskilling es mejorar las habilidades para hacer mejor el mismo trabajo. Reskilling es aprender habilidades nuevas para pasar a otro puesto.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "entradaLibro": "tra_temas"
+    }
+  },
+  {
+    "id": "cli-def-01",
+    "unidad": "clima_evp",
+    "tipo": "concepto",
+    "titulo": "¿Cultura o clima?",
+    "situacion": "Un gerente usa «clima laboral» y «cultura organizacional» como si fueran lo mismo. Te pide que le expliques qué es el clima.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "El ambiente psicológico, organizacional y humano de las relaciones de trabajo",
+    "respuestasIncorrectas": [
+      "Los valores y creencias que fundaron la empresa y se transmiten por historias",
+      "El conjunto de beneficios que la empresa ofrece a cambio del trabajo",
+      "La temperatura y la ventilación de la oficina, según las normas de seguridad",
+      "El plan estratégico que define dónde compite la empresa y cómo gana",
+      "La imagen que tiene la empresa como lugar para trabajar en el mercado"
+    ],
+    "pista": "Pensá en cómo se siente la gente en el día a día de su trabajo.",
+    "explicacion": "El clima laboral es el ambiente psicológico, organizacional y humano donde se desarrollan las relaciones laborales. Los valores y creencias compartidos son la cultura; los beneficios ofrecidos, el EVP.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "cli-carac-01",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Sin salida de emergencia",
+    "situacion": "En una oficina no hay ventilación, la salida de emergencia no está señalizada y faltan elementos de protección.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "respuestaCorrecta": "El espacio de trabajo adecuado",
+    "respuestasIncorrectas": [
+      "La comunicación interna",
+      "Las relaciones laborales",
+      "La organización de procesos",
+      "El salario emocional",
+      "La filosofía institucional"
+    ],
+    "pista": "Todo lo que falla es físico y tiene que ver con la seguridad.",
+    "explicacion": "La ventilación, la iluminación, la seguridad, las rutas de evacuación y la protección son parte del espacio de trabajo adecuado.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "cli-carac-02",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Nadie sabe qué hacer",
+    "situacion": "En un área nueva nadie sabe bien quién hace cada tarea, no hay un organigrama y cada uno trabaja con sus propias planillas.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "respuestaCorrecta": "La organización y estandarización de procesos",
+    "respuestasIncorrectas": [
+      "El espacio de trabajo adecuado y seguro",
+      "La comunicación interna entre las áreas",
+      "Las relaciones laborales y el buen trato",
+      "El salario emocional del personal",
+      "La encuesta de clima de cada año"
+    ],
+    "pista": "Lo que falta es orden: quién hace cada cosa y cómo.",
+    "explicacion": "Definir un organigrama, roles y responsabilidades, y estandarizar los procesos con las herramientas necesarias, es la organización y estandarización de procesos.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "cli-carac-03",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Me enteré por el diario",
+    "situacion": "Los empleados de una empresa se enteran por los medios de que va a mudar su planta, y no tienen ningún canal para hacer preguntas.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "respuestaCorrecta": "La comunicación interna",
+    "respuestasIncorrectas": [
+      "El espacio de trabajo adecuado",
+      "Las relaciones laborales",
+      "La organización de procesos",
+      "La política de compensaciones",
+      "La filosofía institucional"
+    ],
+    "pista": "La información no llegó a tiempo y no hay forma de responder.",
+    "explicacion": "La comunicación interna pide informar a tiempo, por los líderes, correos o boletines, y abrir canales para que la gente pueda opinar y recibir respuestas.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "cli-imp-01",
+    "unidad": "clima_evp",
+    "tipo": "concepto",
+    "titulo": "¿Para qué gastar en clima?",
+    "situacion": "Un director dice que invertir en el clima laboral «es un gasto sin retorno». Te pide un argumento económico.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Que un buen clima baja la rotación y el ausentismo, y con eso los costos",
+    "respuestasIncorrectas": [
+      "Que tiene razón: el clima mejora el ánimo, pero no los resultados",
+      "Que un buen clima permite bajar los sueldos sin que nadie se queje",
+      "Que el clima solo importa para cumplir con las normas de seguridad",
+      "Que un buen clima elimina la necesidad de tener un área de RRHH",
+      "Que el clima solo influye en la imagen de la empresa en las redes"
+    ],
+    "pista": "Pensá qué cuesta cada vez que alguien se va y hay que reemplazarlo.",
+    "explicacion": "Un buen clima reduce la rotación y el ausentismo, y con eso baja los costos de contratar, entrevistar y capacitar gente nueva. Además mejora la productividad.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "entradaLibro": "cli_importancia"
+    }
+  },
+  {
+    "id": "cli-imp-02",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Llevar a los chicos",
+    "situacion": "Una empresa permite que su gente entre más tarde dos días por semana para poder llevar a sus hijos a la escuela.",
+    "pregunta": "¿Qué factor del clima está trabajando?",
+    "respuestaCorrecta": "El salario emocional",
+    "respuestasIncorrectas": [
+      "La política de compensaciones",
+      "La estructura organizativa",
+      "Los procesos y normativas",
+      "Los espacios y elementos físicos",
+      "La filosofía institucional"
+    ],
+    "pista": "No es plata, pero la gente lo valora mucho.",
+    "explicacion": "El salario emocional es lo que la persona valora más allá del sueldo, como poder combinar su trabajo con sus objetivos personales y familiares.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "entradaLibro": "cli_importancia"
+    }
+  },
+  {
+    "id": "cli-imp-03",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Hacer partícipes",
+    "situacion": "Antes de cambiar el horario de atención, una empresa consulta a sus equipos y tiene en cuenta sus propuestas para decidir.",
+    "pregunta": "¿Qué factor del clima está trabajando?",
+    "respuestaCorrecta": "Los procesos de toma de decisiones",
+    "respuestasIncorrectas": [
+      "El salario emocional",
+      "La política de compensaciones",
+      "Los espacios y elementos físicos",
+      "La estructura organizativa",
+      "Los procesos y normativas"
+    ],
+    "pista": "La clave está en a quién se consulta antes de resolver.",
+    "explicacion": "Hacer partícipes a las personas de las decisiones refuerza su sentido de pertenencia y mejora el clima: es el factor de los procesos de toma de decisiones.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "entradaLibro": "cli_importancia"
+    }
+  },
+  {
+    "id": "cli-enc-01",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Del 1 al 10",
+    "situacion": "RRHH manda una encuesta donde cada empleado responde del 1 al 10 cuánto se siente parte de su equipo.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "respuestaCorrecta": "De escala numérica",
+    "respuestasIncorrectas": [
+      "Con casillas",
+      "Formal",
+      "Específica",
+      "De salida",
+      "ENPS"
+    ],
+    "pista": "Fijate cómo se responde.",
+    "explicacion": "Responder con un número, por ejemplo del 1 al 10, es una encuesta de escala numérica: mide la opinión de forma cuantificable.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-enc-02",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Casi siempre",
+    "situacion": "En una encuesta, cada pregunta tiene opciones para marcar: «nunca», «a veces», «casi siempre» y «siempre».",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "respuestaCorrecta": "Con casillas",
+    "respuestasIncorrectas": [
+      "De escala numérica",
+      "Formal",
+      "Específica",
+      "De desempeño",
+      "De selección"
+    ],
+    "pista": "Las respuestas no son números, sino opciones con un significado.",
+    "explicacion": "Marcar opciones con significado, como «casi siempre» o «estoy de acuerdo», es una encuesta con casillas: fácil de interpretar y con datos menos subjetivos.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-enc-03",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Cada año, todo",
+    "situacion": "Todos los años, en la misma fecha, una empresa hace un relevamiento completo de su organización con distintos tipos de preguntas, para comparar la evolución.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "respuestaCorrecta": "Formal",
+    "respuestasIncorrectas": [
+      "Específica",
+      "Con casillas",
+      "De escala numérica",
+      "De ingreso",
+      "De competencia"
+    ],
+    "pista": "Es completa, programada y se repite para ver tendencias.",
+    "explicacion": "La encuesta formal busca un informe completo, se programa y se repite periódicamente para ver la evolución de la empresa.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-enc-04",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Solo sobre los jefes",
+    "situacion": "RRHH arma una encuesta virtual que pregunta únicamente qué opina el personal de sus jefes directos.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "respuestaCorrecta": "Específica",
+    "respuestasIncorrectas": [
+      "Formal",
+      "Con casillas",
+      "De escala numérica",
+      "De salida",
+      "De desempeño"
+    ],
+    "pista": "Se concentra en un solo tema.",
+    "explicacion": "La encuesta específica se enfoca en un área puntual, como la opinión sobre los jefes, los directivos, las instalaciones o los compañeros.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-enc-05",
+    "unidad": "clima_evp",
+    "tipo": "caso",
+    "titulo": "Nadie contesta",
+    "situacion": "En una empresa, casi nadie responde la encuesta de clima. En los pasillos se dice que «los jefes después saben quién escribió cada cosa».",
+    "pregunta": "¿Qué buena práctica de la encuesta de clima falta?",
+    "respuestaCorrecta": "Garantizar el anonimato de las respuestas",
+    "respuestasIncorrectas": [
+      "Ofrecer incentivos más grandes para responder",
+      "Hacer la encuesta más larga y más completa",
+      "Que la encuesta la responda solo la Dirección",
+      "Hacer la encuesta una sola vez y no repetirla",
+      "Pedir a cada jefe que revise las respuestas"
+    ],
+    "pista": "El problema es el miedo a que se sepa qué respondió cada uno.",
+    "explicacion": "Garantizar el anonimato permite que la gente comparta su opinión sin miedo a represalias. Sin anonimato, nadie responde con sinceridad.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-enc-06",
+    "unidad": "clima_evp",
+    "tipo": "caso",
+    "titulo": "¿Y los resultados?",
+    "situacion": "Hace tres años que una empresa hace la encuesta de clima, pero nunca contó los resultados ni cambió nada. Cada año responde menos gente.",
+    "pregunta": "¿Qué buena práctica le falta?",
+    "respuestaCorrecta": "Dar feedback de los resultados y actuar sobre ellos",
+    "respuestasIncorrectas": [
+      "Garantizar que la encuesta sea anónima",
+      "Mandar más recordatorios para responder",
+      "Hacer la encuesta en papel en lugar de online",
+      "Cambiar el tipo de encuesta cada año",
+      "Hacer la encuesta fuera del horario laboral"
+    ],
+    "pista": "La gente responde, pero nunca ve que su opinión sirva para algo.",
+    "explicacion": "Dar feedback y actuar sobre los resultados muestra que las opiniones se valoran. Si nunca pasa nada, la gente deja de responder.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "cli-evp-01",
+    "unidad": "clima_evp",
+    "tipo": "concepto",
+    "titulo": "Qué es el EVP",
+    "situacion": "Un candidato en una entrevista te pregunta qué significa que la empresa tenga un «EVP fuerte».",
+    "pregunta": "¿Qué es el EVP?",
+    "respuestaCorrecta": "El conjunto de beneficios y recompensas que se ofrece a cambio del trabajo",
+    "respuestasIncorrectas": [
+      "La encuesta que mide cuánto recomendarían la empresa sus empleados",
+      "El ambiente psicológico y humano en el que se trabaja cada día",
+      "El reglamento interno con los derechos y deberes del personal",
+      "El plan estratégico que define dónde compite la empresa",
+      "El organigrama que muestra los puestos y sus jefaturas"
+    ],
+    "pista": "La sigla habla de «valor» para el empleado.",
+    "explicacion": "El EVP (propuesta de valor al empleado) es el conjunto único de beneficios y recompensas que la organización ofrece a cambio de las habilidades, capacidades y experiencia de su gente.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "cli-evp-02",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "El bono anual",
+    "situacion": "Una empresa ofrece sueldos por encima del mercado y un bono anual según los resultados.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "respuestaCorrecta": "Compensación",
+    "respuestasIncorrectas": [
+      "Beneficios",
+      "Oportunidades de desarrollo",
+      "Cultura y entorno laboral",
+      "Equilibrio vida-trabajo",
+      "Marca empleadora"
+    ],
+    "pista": "Es plata que se paga por el trabajo.",
+    "explicacion": "Los sueldos competitivos, los incentivos y los bonos son el pilar de compensación.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "cli-evp-03",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Viernes desde casa",
+    "situacion": "Una empresa permite trabajar desde casa dos días por semana y ofrece un programa de cuidado de la salud mental.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "respuestaCorrecta": "Equilibrio vida-trabajo",
+    "respuestasIncorrectas": [
+      "Compensación",
+      "Beneficios",
+      "Oportunidades de desarrollo",
+      "Cultura y entorno laboral",
+      "Marca empleadora"
+    ],
+    "pista": "Tiene que ver con la flexibilidad y el bienestar fuera del puesto.",
+    "explicacion": "La flexibilidad, el trabajo remoto y el bienestar mental son el pilar de equilibrio vida-trabajo.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "cli-evp-04",
+    "unidad": "clima_evp",
+    "tipo": "clasificar",
+    "titulo": "Plan de carrera",
+    "situacion": "Una empresa le paga a cada empleado un curso al año y arma con él un plan para llegar a un puesto mejor.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "respuestaCorrecta": "Oportunidades de desarrollo",
+    "respuestasIncorrectas": [
+      "Compensación",
+      "Beneficios",
+      "Cultura y entorno laboral",
+      "Equilibrio vida-trabajo",
+      "Salario emocional"
+    ],
+    "pista": "Todo apunta a que la persona aprenda y crezca.",
+    "explicacion": "La capacitación, los planes de carrera y el crecimiento profesional son el pilar de oportunidades de desarrollo.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "cli-evp-05",
+    "unidad": "clima_evp",
+    "tipo": "caso",
+    "titulo": "Promesa incumplida",
+    "situacion": "Una empresa promociona su «equilibrio entre vida y trabajo», pero exige que su gente esté conectada todos los fines de semana. Los nuevos se van a los pocos meses.",
+    "pregunta": "¿Qué responsabilidad de RRHH sobre el EVP falló?",
+    "respuestaCorrecta": "Asegurar que el EVP sea auténtico y coincida con la experiencia real",
+    "respuestasIncorrectas": [
+      "Diseñar un EVP con más beneficios económicos que la competencia",
+      "Comunicar el EVP en más redes sociales para atraer candidatos",
+      "Copiar el EVP de Google, que tiene beneficios excepcionales",
+      "Eliminar el EVP, porque solo sirve para empresas grandes",
+      "Cambiar el EVP todos los meses para sorprender a la gente"
+    ],
+    "pista": "Lo que se promete no es lo que la gente vive.",
+    "explicacion": "RRHH tiene que asegurar que el EVP sea auténtico y coincida con la experiencia real del empleado. Una promesa que no se cumple hace que la gente se vaya.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "Para qué sirve el EVP y cómo se crea",
+      "entradaLibro": "cli_evp_crear"
+    }
+  },
+  {
+    "id": "cli-evp-06",
+    "unidad": "clima_evp",
+    "tipo": "concepto",
+    "titulo": "Por dónde empezar el EVP",
+    "situacion": "Una pyme quiere crear su EVP y no sabe por dónde arrancar. Te pide el primer paso.",
+    "pregunta": "¿Qué le recomendás?",
+    "respuestaCorrecta": "Conocer a los empleados con encuestas, entrevistas y datos",
+    "respuestasIncorrectas": [
+      "Copiar el EVP de una empresa grande y exitosa del rubro",
+      "Comunicar un EVP en redes antes de definir su contenido",
+      "Subir todos los sueldos, que es lo único que importa",
+      "Esperar a que el mercado laboral se estabilice para hacerlo",
+      "Pedirle al directorio que lo escriba sin consultar a nadie"
+    ],
+    "pista": "Antes de ofrecer algo, hay que saber qué valora la gente.",
+    "explicacion": "El primer paso para crear un EVP efectivo es conocer a los empleados: encuestas, entrevistas y análisis de datos para saber qué valoran. Después se alinea con la cultura, se comunica y se revisa.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "Para qué sirve el EVP y cómo se crea",
+      "entradaLibro": "cli_evp_crear"
+    }
+  },
+  {
+    "id": "lct-mod-01",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Todos los veranos",
+    "situacion": "Un hotel de Mar del Plata contrata al mismo grupo de mozos todos los años, solo durante la temporada de verano.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "respuestaCorrecta": "Contrato de temporada",
+    "respuestasIncorrectas": [
+      "Contrato eventual",
+      "Contrato a plazo fijo",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo",
+      "Contrato por tiempo indeterminado"
+    ],
+    "pista": "La actividad se repite cada año, pero solo en una época.",
+    "explicacion": "El contrato de temporada es para actividades que se repiten solo en ciertas épocas del año, como el turismo de verano.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-mod-02",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Durante la licencia",
+    "situacion": "Una empresa contrata a una persona para reemplazar a una empleada mientras dura su licencia por maternidad.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "respuestaCorrecta": "Contrato eventual",
+    "respuestasIncorrectas": [
+      "Contrato de temporada",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo",
+      "Contrato por tiempo indeterminado",
+      "Contrato de teletrabajo"
+    ],
+    "pista": "Cubre una necesidad transitoria de la empresa.",
+    "explicacion": "El contrato eventual cubre una necesidad extraordinaria o transitoria, como reemplazar a alguien durante una licencia.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-mod-03",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Menos horas",
+    "situacion": "Un estudiante consigue trabajo en un comercio cuatro horas por día, menos que la jornada habitual del resto del personal.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "respuestaCorrecta": "Contrato a tiempo parcial",
+    "respuestasIncorrectas": [
+      "Contrato eventual",
+      "Contrato de temporada",
+      "Contrato a plazo fijo",
+      "Contrato de grupo o equipo",
+      "Contrato de pasantía externa"
+    ],
+    "pista": "Fijate en la cantidad de horas, no en la duración del contrato.",
+    "explicacion": "El contrato a tiempo parcial es aquel en el que la persona trabaja menos horas que la jornada habitual.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-mod-04",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "La orquesta",
+    "situacion": "Un teatro contrata a una orquesta completa como conjunto, en lugar de contratar a cada músico por separado.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "respuestaCorrecta": "Contrato de grupo o equipo",
+    "respuestasIncorrectas": [
+      "Contrato de temporada",
+      "Contrato eventual",
+      "Contrato a tiempo parcial",
+      "Contrato a plazo fijo",
+      "Contrato por tiempo indeterminado"
+    ],
+    "pista": "Se contrata a varias personas, pero como una unidad.",
+    "explicacion": "El contrato de grupo o equipo contrata a un conjunto de personas como unidad, por ejemplo una orquesta.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-mod-05",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Sin fecha de fin",
+    "situacion": "Una empresa contrata a un administrativo sin fijar ninguna fecha de finalización y sin ninguna causa especial.",
+    "pregunta": "¿Qué modalidad de contrato es?",
+    "respuestaCorrecta": "Contrato por tiempo indeterminado",
+    "respuestasIncorrectas": [
+      "Contrato a plazo fijo",
+      "Contrato eventual",
+      "Contrato de temporada",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo"
+    ],
+    "pista": "Es la modalidad que la ley toma como regla general.",
+    "explicacion": "El contrato por tiempo indeterminado es la regla general: no tiene fecha de finalización. Las demás modalidades son excepciones.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-mod-06",
+    "unidad": "contrato_trabajo",
+    "tipo": "caso",
+    "titulo": "Plazo sin papeles",
+    "situacion": "Una empresa dice que contrató a un empleado «a plazo», pero no hay ninguna duración escrita ni una causa que lo justifique.",
+    "pregunta": "¿Cómo trata la ley a ese contrato?",
+    "respuestaCorrecta": "Se presume que es por tiempo indeterminado",
+    "respuestasIncorrectas": [
+      "Se presume que es eventual por tres meses",
+      "Se presume que es un contrato de temporada",
+      "Es nulo y el empleado no tiene ningún derecho",
+      "Vale como plazo fijo por el tiempo que diga la empresa",
+      "Se transforma en un contrato a tiempo parcial"
+    ],
+    "pista": "Pensá cuál es la regla general cuando falta lo que exige una excepción.",
+    "explicacion": "Las modalidades por tiempo determinado necesitan una causa objetiva o una duración fijada por escrito. Si no la tienen, se presume que el contrato es por tiempo indeterminado.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "lct-desp-01",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Tres años y sin aviso",
+    "situacion": "Una empresa despide sin causa a un empleado con 3 años de antigüedad, de un día para el otro, sin ningún aviso previo.",
+    "pregunta": "¿Qué preaviso le correspondía?",
+    "respuestaCorrecta": "Un mes, o pagar la indemnización sustitutiva",
+    "respuestasIncorrectas": [
+      "Dos meses, o pagar la indemnización sustitutiva",
+      "Quince días, igual que cuando renuncia el empleado",
+      "Ninguno: el despido sin causa no lleva preaviso",
+      "Tres meses, uno por cada año de antigüedad",
+      "Una semana, si avisa por telegrama laboral"
+    ],
+    "pista": "La antigüedad no supera los 5 años.",
+    "explicacion": "Si la antigüedad no supera los 5 años, el empleador debe dar 1 mes de preaviso. Si no lo da, tiene que pagar la indemnización sustitutiva.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "lct-desp-02",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Siete años",
+    "situacion": "Una empresa quiere despedir sin causa a una empleada que tiene 7 años de antigüedad y prefiere avisarle con tiempo.",
+    "pregunta": "¿Con cuánta anticipación tiene que avisarle?",
+    "respuestaCorrecta": "Dos meses",
+    "respuestasIncorrectas": [
+      "Un mes",
+      "Quince días",
+      "Siete meses",
+      "Tres meses",
+      "No hace falta avisar"
+    ],
+    "pista": "La antigüedad supera los 5 años.",
+    "explicacion": "Si la antigüedad es mayor a 5 años, el preaviso del empleador es de 2 meses.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "lct-desp-03",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Cuatro años y cinco meses",
+    "situacion": "Despiden sin causa a una persona que lleva 4 años y 5 meses en la empresa y ya superó el período de prueba.",
+    "pregunta": "¿Cuántos sueldos le corresponden de indemnización por antigüedad?",
+    "respuestaCorrecta": "Cinco sueldos",
+    "respuestasIncorrectas": [
+      "Cuatro sueldos",
+      "Cuatro sueldos y medio",
+      "Dos sueldos",
+      "Ninguno",
+      "Seis sueldos"
+    ],
+    "pista": "Fijate qué pasa con los meses que sobran después de los años completos.",
+    "explicacion": "Corresponde 1 sueldo por cada año de trabajo o fracción mayor de 3 meses. Los 5 meses son más de 3, así que cuentan como un año más: 5 sueldos.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "lct-desp-04",
+    "unidad": "contrato_trabajo",
+    "tipo": "caso",
+    "titulo": "«Por mala conducta»",
+    "situacion": "Una empresa despide a un empleado diciéndole solo «por mala conducta», sin explicar por escrito qué hizo. Semanas después, quiere agregar otra causa distinta.",
+    "pregunta": "¿Qué exige la ley para el despido con justa causa?",
+    "respuestaCorrecta": "Comunicar la causa por escrito, con claridad, sin poder cambiarla después",
+    "respuestasIncorrectas": [
+      "Nada: alcanza con decir «mala conducta» y se puede ampliar después",
+      "Comunicarla de palabra y anotar la causa en el legajo del empleado",
+      "Avisar con un mes de preaviso y pagar la indemnización por antigüedad",
+      "Pedir permiso al sindicato antes de comunicar cualquier despido",
+      "Esperar a que el empleado firme que está de acuerdo con la causa"
+    ],
+    "pista": "Pensá qué protege a la persona despedida si la empresa quiere dar otra versión después.",
+    "explicacion": "En el despido con justa causa, la causa debe comunicarse por escrito y describirse con claridad. Después no puede modificarse.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "lct-desp-05",
+    "unidad": "contrato_trabajo",
+    "tipo": "concepto",
+    "titulo": "Qué cuenta para pagar",
+    "situacion": "Para calcular la indemnización por antigüedad, un compañero quiere usar el sueldo más bajo que cobró el empleado en el último año.",
+    "pregunta": "¿Sobre qué remuneración se calcula?",
+    "respuestaCorrecta": "Sobre la mejor remuneración mensual, normal y habitual",
+    "respuestasIncorrectas": [
+      "Sobre la remuneración más baja del último año",
+      "Sobre el promedio de todos los sueldos cobrados",
+      "Sobre el primer sueldo que cobró en la empresa",
+      "Sobre el salario mínimo vigente al momento del despido",
+      "Sobre el sueldo del último mes, aunque fuera menor"
+    ],
+    "pista": "La ley elige la que más favorece a quien es despedido.",
+    "explicacion": "La indemnización por antigüedad se calcula sobre la mejor remuneración mensual, normal y habitual.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "lct-ren-01",
+    "unidad": "contrato_trabajo",
+    "tipo": "caso",
+    "titulo": "Renunciar por WhatsApp",
+    "situacion": "Una empleada le manda un WhatsApp a su jefe diciendo que renuncia y deja de ir a trabajar al día siguiente.",
+    "pregunta": "¿Cómo tendría que formalizar su renuncia según la ley?",
+    "respuestaCorrecta": "Por telegrama laboral gratuito o ante la autoridad del trabajo",
+    "respuestasIncorrectas": [
+      "El WhatsApp alcanza, porque queda registrado el mensaje",
+      "Por escritura pública ante un escribano, con dos testigos",
+      "Con una nota firmada por su jefe y por el gerente del área",
+      "Por un mail al área de RRHH con copia a todo el equipo",
+      "No hace falta formalizarla: alcanza con dejar de ir"
+    ],
+    "pista": "La ley pide una forma que asegure que la decisión es personal y real.",
+    "explicacion": "La renuncia se formaliza con un telegrama laboral gratuito (en papel o digital) enviado personalmente con validación de identidad, o ante la autoridad administrativa del trabajo.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "lct-ren-02",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Avisar antes de irse",
+    "situacion": "Un empleado quiere renunciar y pregunta con cuánta anticipación tiene que avisar, según la ley.",
+    "pregunta": "¿Cuál es el plazo de preaviso de la persona trabajadora?",
+    "respuestaCorrecta": "Quince días",
+    "respuestasIncorrectas": [
+      "Un mes",
+      "Dos meses",
+      "Una semana",
+      "Tres días",
+      "Seis meses"
+    ],
+    "pista": "Es bastante más corto que el preaviso que tiene que dar el empleador.",
+    "explicacion": "El preaviso de la persona trabajadora es de 15 días. Puede renunciar con o sin ese preaviso.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "lct-ren-03",
+    "unidad": "contrato_trabajo",
+    "tipo": "caso",
+    "titulo": "Tres meses sin cobrar",
+    "situacion": "Un empleado no cobra su sueldo hace tres meses. Quiere terminar la relación sin perder lo que le corresponde.",
+    "pregunta": "¿Qué puede hacer?",
+    "respuestaCorrecta": "Considerarse despedido por injuria grave y comunicarlo por escrito",
+    "respuestasIncorrectas": [
+      "Renunciar por telegrama, que es la única opción que tiene",
+      "Esperar a que el empleador lo despida para cobrar todo",
+      "Dejar de ir sin avisar, porque el empleador incumplió primero",
+      "Pedir un mutuo acuerdo ante el sindicato, sin presencia personal",
+      "Nada: el atraso en el sueldo no le da derecho a terminar la relación"
+    ],
+    "pista": "Hay una forma de terminar la relación por culpa de la otra parte.",
+    "explicacion": "Cuando el empleador comete un incumplimiento grave (injuria), la persona trabajadora puede considerarse despedida por justa causa: es el despido indirecto. Tiene que comunicar la causa por escrito y con claridad.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "lct-ren-04",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "De común acuerdo",
+    "situacion": "Una empresa y un empleado quieren terminar la relación laboral de común acuerdo.",
+    "pregunta": "¿Cómo tiene que formalizarse?",
+    "respuestaCorrecta": "Por escritura pública o ante la autoridad del trabajo, en persona",
+    "respuestasIncorrectas": [
+      "Con un mail de RRHH que el empleado responda aceptando",
+      "Con un telegrama laboral gratuito enviado por la empresa al empleado",
+      "Con una nota firmada solo por el gerente del área de RRHH",
+      "De palabra, en una reunión con testigos del equipo",
+      "Por WhatsApp, guardando una captura de la conversación"
+    ],
+    "pista": "Se busca asegurar que quien trabaja esté presente y de acuerdo.",
+    "explicacion": "El mutuo acuerdo se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "lct-vac-01",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Ocho años",
+    "situacion": "Una empleada que al 31 de diciembre cumple 8 años de antigüedad pregunta cuántos días de vacaciones le corresponden.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "respuestaCorrecta": "21 días corridos",
+    "respuestasIncorrectas": [
+      "14 días corridos",
+      "28 días corridos",
+      "35 días corridos",
+      "21 días hábiles",
+      "8 días corridos"
+    ],
+    "pista": "Tiene más de 5 años, pero no más de 10.",
+    "explicacion": "Con más de 5 años y hasta 10 de antigüedad, corresponden 21 días corridos de vacaciones.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  },
+  {
+    "id": "lct-vac-02",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Dos años",
+    "situacion": "Un empleado que al 31 de diciembre tiene 2 años de antigüedad, y trabajó todo el año, pregunta cuántos días de vacaciones le tocan.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "respuestaCorrecta": "14 días corridos",
+    "respuestasIncorrectas": [
+      "21 días corridos",
+      "10 días corridos",
+      "14 días hábiles",
+      "7 días corridos",
+      "28 días corridos"
+    ],
+    "pista": "Está en el primer escalón de la escala.",
+    "explicacion": "Hasta 5 años de antigüedad corresponden 14 días corridos de vacaciones.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  },
+  {
+    "id": "lct-vac-03",
+    "unidad": "contrato_trabajo",
+    "tipo": "norma",
+    "titulo": "Veinticinco años",
+    "situacion": "Una empleada que al 31 de diciembre cumple 25 años en la empresa pregunta cuántos días de vacaciones le corresponden.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "respuestaCorrecta": "35 días corridos",
+    "respuestasIncorrectas": [
+      "28 días corridos",
+      "25 días corridos",
+      "21 días corridos",
+      "35 días hábiles",
+      "40 días corridos"
+    ],
+    "pista": "Supera los 20 años de antigüedad.",
+    "explicacion": "Con más de 20 años de antigüedad corresponden 35 días corridos de vacaciones.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  },
+  {
+    "id": "lct-vac-04",
+    "unidad": "contrato_trabajo",
+    "tipo": "caso",
+    "titulo": "Entró a mitad de año",
+    "situacion": "Un empleado entró a la empresa en octubre y no llegó a trabajar la mitad de los días hábiles del año.",
+    "pregunta": "¿Qué vacaciones le corresponden ese año?",
+    "respuestaCorrecta": "Un día de vacaciones por cada 20 días de trabajo efectivo",
+    "respuestasIncorrectas": [
+      "14 días corridos completos, como a cualquier empleado nuevo",
+      "Ninguna: recién tiene vacaciones después de un año completo",
+      "La mitad de los 14 días, porque trabajó la mitad del año",
+      "Un día de vacaciones por cada mes que estuvo en la empresa",
+      "Las que acuerde con su jefe, porque la ley no lo prevé"
+    ],
+    "pista": "Hay un requisito para el período completo, y una regla para cuando no se cumple.",
+    "explicacion": "Para el período completo hay que haber trabajado al menos la mitad de los días hábiles del año. Si no, corresponde 1 día de vacaciones por cada 20 días de trabajo efectivo.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  },
+  {
+    "id": "lct-vac-05",
+    "unidad": "contrato_trabajo",
+    "tipo": "concepto",
+    "titulo": "¿Cuándo se cuenta?",
+    "situacion": "Una empleada cumple 5 años de antigüedad en marzo y quiere sacar sus vacaciones en enero del año siguiente. Pregunta en qué fecha se mira su antigüedad.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Al 31 de diciembre del año que corresponde",
+    "respuestasIncorrectas": [
+      "El día en que empieza las vacaciones",
+      "El día en que pide las vacaciones a su jefe",
+      "La fecha de su cumpleaños de ese año",
+      "El 1 de enero del año que corresponde",
+      "La fecha en que firmó su contrato"
+    ],
+    "pista": "La ley fija una fecha igual para todos, al final del año.",
+    "explicacion": "La cantidad de días de vacaciones se determina por la antigüedad que la persona tenga al 31 de diciembre del año que corresponde.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  }
+]

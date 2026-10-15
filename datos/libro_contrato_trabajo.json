@@ -1,0 +1,126 @@
+{
+  "unidad": {
+    "key": "contrato_trabajo",
+    "titulo": "Ley de Contrato de Trabajo"
+  },
+  "entradas": {
+    "lct_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de la Ley de Contrato de Trabajo",
+      "intro": [
+        "La Ley de Contrato de Trabajo (Ley 20.744) es la ley argentina que regula la relación entre quien trabaja y quien emplea. En la cursada se ven las modalidades de contrato, cómo termina la relación y las vacaciones.",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Contrato de trabajo: el acuerdo por el que una persona trabaja para otra a cambio de un sueldo.",
+        "Empleador: la persona o empresa que contrata y paga el sueldo.",
+        "Persona trabajadora: quien presta el trabajo. La ley también la llama trabajador o empleado.",
+        "Antigüedad: el tiempo que la persona lleva trabajando para el mismo empleador.",
+        "Preaviso: el aviso anticipado de que la relación laboral va a terminar, para que la otra parte pueda organizarse.",
+        "Indemnización: el dinero que el empleador debe pagar para compensar un perjuicio, por ejemplo un despido sin causa.",
+        "Injuria grave: un incumplimiento tan serio de una de las partes que hace imposible seguir con la relación laboral.",
+        "Días corridos: se cuentan todos los días del calendario, incluidos sábados, domingos y feriados."
+      ],
+      "ejemplos": [
+        "Una empleada con 6 años de antigüedad recibe el preaviso de que su contrato termina en dos meses."
+      ],
+      "ojo": "Despedir «sin causa» no está prohibido: lo que pasa es que el empleador tiene que avisar con tiempo y pagar indemnización."
+    },
+    "lct_modalidades": {
+      "categoria": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "intro": [
+        "La regla general es el contrato por tiempo indeterminado: no tiene fecha de fin. Las demás modalidades son excepciones.",
+        "Las modalidades por tiempo determinado tienen que tener una causa concreta (objetiva) o una duración fijada por escrito. Si no la tienen, se presume que el contrato es por tiempo indeterminado."
+      ],
+      "notas": [
+        "Por tiempo indeterminado: la regla general; el contrato no tiene fecha de finalización.",
+        "A plazo fijo: tiene una duración pactada por escrito, con una fecha de fin.",
+        "De temporada: para actividades que se repiten solo en ciertas épocas del año, como el turismo de verano.",
+        "Eventual: para cubrir una necesidad extraordinaria o transitoria de la empresa, por ejemplo reemplazar a alguien de licencia.",
+        "A tiempo parcial: la persona trabaja menos horas que la jornada habitual.",
+        "De grupo o equipo: se contrata a un grupo de personas como conjunto, por ejemplo una orquesta.",
+        "Teletrabajo: el resumen de la cursada también lo menciona como modalidad: trabajar a distancia, con tecnología."
+      ],
+      "pasos": [
+        "¿No tiene fecha de fin ni una causa especial? → tiempo indeterminado.",
+        "¿Tiene una fecha de fin pactada por escrito? → plazo fijo.",
+        "¿Se repite solo en una época del año? → temporada.",
+        "¿Cubre algo extraordinario o transitorio? → eventual.",
+        "¿Son menos horas que la jornada habitual? → tiempo parcial.",
+        "¿Se contrata a un conjunto de personas? → grupo o equipo."
+      ],
+      "ejemplos": [
+        "Un hotel de Mar del Plata contrata al mismo mozo todos los veranos: contrato de temporada.",
+        "Una empresa contrata a alguien para reemplazar a una empleada durante su licencia: contrato eventual."
+      ],
+      "ojo": "Si un contrato «a plazo» no tiene causa ni duración escrita, la ley lo trata como si fuera por tiempo indeterminado."
+    },
+    "lct_despido": {
+      "categoria": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "intro": [
+        "El empleador puede terminar la relación de dos formas: sin justa causa o con justa causa.",
+        "Lo que cambia entre una y otra es qué tiene que pagar y qué tiene que cumplir."
+      ],
+      "notas": [
+        "Despido sin justa causa: el empleador decide terminar la relación sin un incumplimiento de la persona trabajadora. Tiene que dar preaviso y pagar indemnización.",
+        "Preaviso del empleador: 1 mes si la antigüedad no supera los 5 años; 2 meses si es mayor. Si no avisa, tiene que pagar una indemnización sustitutiva (el dinero que reemplaza ese aviso).",
+        "Indemnización por antigüedad: una vez superado el período de prueba, corresponde 1 sueldo por cada año de trabajo o fracción mayor de 3 meses, calculado sobre la mejor remuneración mensual, normal y habitual.",
+        "Despido con justa causa: cuando la persona trabajadora comete un incumplimiento tan grave (injuria grave) que impide seguir. La causa se comunica por escrito, con claridad, y después no se puede cambiar.",
+        "Bloqueos o tomas: antes de despedir por esa causa, el empleador tiene que intimar (pedir formalmente) que la conducta cese, salvo que haya daños a personas o bienes."
+      ],
+      "pasos": [
+        "¿Hubo un incumplimiento grave de la persona trabajadora? → puede ser con justa causa (por escrito y sin cambiar la causa después).",
+        "Si no lo hubo → sin justa causa: ¿cuánta antigüedad tiene? Hasta 5 años → 1 mes de preaviso; más de 5 → 2 meses.",
+        "Para la indemnización, contá los años trabajados: la fracción mayor de 3 meses cuenta como un año más."
+      ],
+      "ejemplos": [
+        "Una persona con 4 años y 5 meses de antigüedad es despedida sin causa: le corresponden 5 sueldos de indemnización, porque los 5 meses son más de 3."
+      ],
+      "ojo": "Si el empleador despide con causa, tiene que decir por escrito cuál es, y no puede cambiarla después."
+    },
+    "lct_renuncia": {
+      "categoria": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "intro": [
+        "La persona trabajadora también puede terminar la relación: renunciando o considerándose despedida por un incumplimiento grave del empleador.",
+        "Además, las dos partes pueden terminarla de común acuerdo."
+      ],
+      "notas": [
+        "Renuncia: para que valga, se hace con un telegrama laboral gratuito (en papel o digital) enviado personalmente al empleador, con validación de identidad, o ante la autoridad administrativa del trabajo.",
+        "Preaviso de la persona trabajadora: 15 días. Puede renunciar con o sin ese preaviso.",
+        "Despido indirecto: si el empleador comete una injuria grave (por ejemplo, no paga los sueldos), la persona trabajadora puede considerarse despedida. Tiene que comunicar la causa por escrito y con claridad.",
+        "Mutuo acuerdo: las dos partes acuerdan terminar la relación. Se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora."
+      ],
+      "ejemplos": [
+        "Un empleado no cobra su sueldo hace tres meses: puede considerarse despedido (despido indirecto), comunicándolo por escrito."
+      ],
+      "ojo": "Una renuncia por WhatsApp o por mail común no cumple la forma que pide la ley."
+    },
+    "lct_vacaciones": {
+      "categoria": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "intro": [
+        "Las vacaciones, que la ley llama licencia ordinaria anual, son pagas y continuas (se toman todas seguidas).",
+        "La cantidad de días depende de la antigüedad que la persona tenga al 31 de diciembre del año que corresponde."
+      ],
+      "notas": [
+        "Hasta 5 años de antigüedad: 14 días corridos.",
+        "Más de 5 y hasta 10 años: 21 días corridos.",
+        "Más de 10 y hasta 20 años: 28 días corridos.",
+        "Más de 20 años: 35 días corridos.",
+        "Requisito: para tener el período completo, hay que haber trabajado al menos la mitad de los días hábiles del año. Si no se llega, corresponde 1 día de vacaciones por cada 20 días de trabajo efectivo."
+      ],
+      "pasos": [
+        "Calculá la antigüedad al 31 de diciembre del año.",
+        "Ubicala en la escala: 14, 21, 28 o 35 días corridos.",
+        "Revisá si trabajó al menos la mitad de los días hábiles; si no, 1 día cada 20 trabajados."
+      ],
+      "ejemplos": [
+        "Una persona que al 31 de diciembre cumple 8 años de antigüedad tiene 21 días corridos de vacaciones."
+      ],
+      "ojo": "La antigüedad se mira al 31 de diciembre, no el día en que la persona pide las vacaciones."
+    }
+  }
+}

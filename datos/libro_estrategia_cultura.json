@@ -1,0 +1,115 @@
+{
+  "unidad": {
+    "key": "estrategia_cultura",
+    "titulo": "Estrategia y cultura"
+  },
+  "entradas": {
+    "est_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de estrategia y cultura",
+      "intro": [
+        "Esta unidad une dos ideas: hacia dónde quiere ir una organización (la estrategia) y cómo vive su gente día a día (la cultura).",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Estrategia: el plan que una organización elige para llegar a un resultado y ganarle a sus competidores.",
+        "Ventaja competitiva: aquello que hace que una organización le gane a la competencia, por ejemplo vender más barato o tener un producto único.",
+        "Capacidades: lo que la organización tiene que saber hacer bien para cumplir su estrategia.",
+        "Stakeholders: todas las personas o grupos interesados en la organización: empleados, clientes, accionistas, proveedores.",
+        "Cultura organizacional: los valores, creencias y comportamientos que comparte la gente de una organización y que marcan «cómo se hacen las cosas acá».",
+        "Liderazgo: la forma en que los jefes y referentes guían a los demás. En esta unidad es clave, porque la gente aprende la cultura mirando a sus líderes."
+      ],
+      "ejemplos": [
+        "Una cadena de supermercados elige competir con precios bajos (estrategia) y necesita una logística muy eficiente (capacidad)."
+      ],
+      "ojo": "La estrategia dice adónde ir; la cultura decide si la gente va a acompañar."
+    },
+    "est_estrategia": {
+      "categoria": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "intro": [
+        "La palabra estrategia viene de lo militar: el arte de dirigir las operaciones para vencer al adversario. En las organizaciones, Henry Mintzberg la define como el patrón o plan que integra las metas y políticas principales de una organización y ordena la secuencia de acciones a realizar.",
+        "En la cursada, una estrategia se arma respondiendo 5 preguntas, una detrás de la otra."
+      ],
+      "notas": [
+        "¿Cuál es nuestra aspiración ganadora?: es el propósito que guía a la organización. Responde para qué existe y qué significa «ganar» para ella.",
+        "¿Dónde jugaremos?: elige el campo de juego: qué clientes, qué canales de venta, qué productos o servicios, qué zonas y qué etapa de la producción. También decide dónde NO jugar.",
+        "¿Cómo jugaremos?: define cómo va a ganar en ese campo, es decir, su ventaja competitiva. Puede ser por costo (más barato) o por diferenciación (algo único).",
+        "¿Qué capacidades debemos tener?: son las actividades que permiten hacer realidad las decisiones de dónde jugar y cómo ganar.",
+        "¿Qué sistemas de gestión necesitamos?: son los procesos, estructuras y reglas que construyen esas capacidades y que refuerzan y miden la estrategia."
+      ],
+      "pasos": [
+        "¿La decisión dice para qué existe la organización? → aspiración ganadora.",
+        "¿Elige clientes, productos, canales o zonas? → dónde jugar.",
+        "¿Explica cómo le va a ganar a la competencia? → cómo jugar.",
+        "¿Habla de lo que hay que saber hacer bien? → capacidades.",
+        "¿Habla de procesos, reglas o indicadores para sostenerlo? → sistemas de gestión."
+      ],
+      "ejemplos": [
+        "Coca-Cola y Pepsi venden productos parecidos, pero eligen formas distintas de diferenciarse: es la pregunta de cómo jugar.",
+        "Una empresa decide vender solo online y no en supermercados: está respondiendo dónde jugar."
+      ],
+      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos."
+    },
+    "est_rrhh": {
+      "categoria": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "intro": [
+        "La gestión estratégica de RRHH es gestionar a las personas en línea con la estrategia del negocio. La estrategia de RRHH queda en el medio: toma la estrategia del negocio y la convierte en acciones sobre las personas para llegar a los resultados.",
+        "Esa estrategia de RRHH trabaja sobre varios temas: capacidades críticas, diseño organizacional, gestión del cambio, gestión del talento, liderazgo, compromiso de los empleados, cultura y sistema de compensaciones."
+      ],
+      "notas": [
+        "Planificación (fase 1): diseñar el proceso de planeamiento estratégico.",
+        "Construcción (fases 2 a 5): ver qué impacto tiene RRHH en la estrategia del negocio, encontrar las brechas (lo que falta), definir acciones para los objetivos de RRHH y comunicar el plan a todos los stakeholders.",
+        "Seguimiento (fase 6): controlar cómo avanza el plan.",
+        "Componentes clave: una estrategia de RRHH alineada al negocio, decidir con datos y analytics, rediseñar la estructura y los procesos de RRHH para ser más eficiente, que el equipo de RRHH impulse la estrategia del negocio y gestionar las redes de trabajo.",
+        "Mapa de actividades de RRHH: el material muestra todo lo que hace el área, agrupado en siete bloques: estrategia de la fuerza laboral, reclutar, desarrollar, gestionar a los empleados actuales, recompensas y beneficios, efectividad organizacional y gestionar la propia función de RRHH."
+      ],
+      "ejemplos": [
+        "Una empresa quiere crecer en ventas online y RRHH detecta que le faltan programadores: esa falta es una brecha."
+      ],
+      "ojo": "Brecha = la diferencia entre lo que la estrategia necesita y lo que la organización tiene hoy."
+    },
+    "est_cultura": {
+      "categoria": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "intro": [
+        "La cultura es lo que las personas «sienten» cuando trabajan en una organización: cómo hay que comportarse y pensar para pertenecer. Está hecha de creencias, valores y comportamientos, y manda mensajes sobre «lo que realmente tiene valor acá».",
+        "Tres ideas clave: la cultura no se diseña, emerge (nace del día a día); y aunque no se diseña, se puede entender y modelar."
+      ],
+      "notas": [
+        "La cultura del ejemplo (Carolyn Taylor): la cultura se transmite por tres fuentes: los líderes, los sistemas y procesos, y los símbolos y rituales.",
+        "Mensajes por comportamientos: lo que hacen los líderes y las personas influyentes, si lo que se dice coincide con lo que se hace, lo que se modela con el ejemplo y lo que se dice en reuniones y mails.",
+        "Mensajes por sistemas: la planificación y el presupuesto, los sistemas de desempeño y reconocimiento, lo que se mide y la estructura.",
+        "Mensajes por símbolos: en qué se gasta la plata, en qué se usa el tiempo, quién tiene oficina, estacionamiento o títulos, y los rituales e historias que se cuentan."
+      ],
+      "pasos": [
+        "¿El mensaje sale de lo que hace o dice una persona? → comportamientos.",
+        "¿Sale de una regla, un premio, una medición o el organigrama? → sistemas.",
+        "¿Sale de algo que se ve o se cuenta (oficinas, privilegios, historias)? → símbolos."
+      ],
+      "ejemplos": [
+        "Una empresa dice valorar el equilibrio entre vida y trabajo, pero el gerente manda mails a las 2 de la mañana: el comportamiento contradice el discurso.",
+        "Mercado Libre es un ejemplo de empresa que pone por escrito su cultura (el «ADN Meli»)."
+      ],
+      "ojo": "La cultura no se cambia con un afiche: la gente cree en lo que ve hacer, no en lo que se dice."
+    },
+    "est_cultura_estrategia": {
+      "categoria": "Cultura",
+      "titulo": "Cultura y estrategia",
+      "intro": [
+        "Peter Drucker, un autor clásico de la administración, lo resumió en una frase: «La cultura se come a la estrategia en el desayuno».",
+        "La idea es que se puede tener una buena estrategia, pero si la cultura no sostiene los sistemas que la ponen en marcha, la estrategia va a fallar (Dick Clark, ex CEO de Merck)."
+      ],
+      "notas": [
+        "Por qué importa: la estrategia se ejecuta con personas. Si lo que la gente valora va en otra dirección, el plan no se cumple.",
+        "Cómo se conectan: la cultura es el soporte de los sistemas y prácticas que convierten la estrategia en acción.",
+        "Rol de RRHH: cuidar que los sistemas (premios, evaluaciones, ascensos) manden los mismos mensajes que pide la estrategia."
+      ],
+      "ejemplos": [
+        "Una empresa decide innovar (estrategia), pero castiga cada error (cultura): la gente deja de proponer ideas y la estrategia fracasa."
+      ],
+      "ojo": "Una buena estrategia sin cultura que la acompañe es solo un papel."
+    }
+  }
+}

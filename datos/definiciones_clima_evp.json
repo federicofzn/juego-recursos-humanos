@@ -1,0 +1,143 @@
+[
+  {
+    "id": "def-cli-espacio",
+    "grupo": "caracteristicas",
+    "termino": "Espacio de trabajo adecuado",
+    "definicion": "Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud.",
+    "ejemplo": "Rutas de evacuación señalizadas y equipos de protección para todos.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "def-cli-procesos",
+    "grupo": "caracteristicas",
+    "termino": "Organización y estandarización de procesos",
+    "definicion": "Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias.",
+    "ejemplo": "Cada persona sabe qué tarea le toca y con qué planilla trabajar.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "def-cli-relaciones",
+    "grupo": "caracteristicas",
+    "termino": "Relaciones laborales (clima)",
+    "definicion": "Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles.",
+    "ejemplo": "Un equipo que recibe reconocimiento y tiene sus vacaciones garantizadas.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "def-cli-comunicacion",
+    "grupo": "caracteristicas",
+    "termino": "Comunicación interna",
+    "definicion": "Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones.",
+    "ejemplo": "Un boletín semanal y un buzón de preguntas que se responden.",
+    "libro": "cli_clima",
+    "pista": "Pensá en este ejemplo: una carta semanal del gerente y un buzón de preguntas que se responden."
+  },
+  {
+    "id": "def-cli-numerica",
+    "grupo": "encuestas",
+    "termino": "Encuesta de escala numérica",
+    "definicion": "Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable.",
+    "ejemplo": "«Del 1 al 10, ¿cuánto te sentís parte de tu equipo?».",
+    "libro": "cli_encuesta",
+    "pista": "Pensá en este ejemplo: «Del 1 al 10, ¿qué tan parte de tu equipo te sentís?»."
+  },
+  {
+    "id": "def-cli-casillas",
+    "grupo": "encuestas",
+    "termino": "Encuesta con casillas",
+    "definicion": "Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva.",
+    "ejemplo": "Marcar «nunca», «a veces», «casi siempre» o «siempre».",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "def-cli-formal",
+    "grupo": "encuestas",
+    "termino": "Encuesta formal",
+    "definicion": "Relevamiento completo, programado y periódico, para ver tendencias de toda la organización.",
+    "ejemplo": "Un estudio anual, siempre en la misma fecha, que se compara con años anteriores.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "def-cli-especifica",
+    "grupo": "encuestas",
+    "termino": "Encuesta específica",
+    "definicion": "Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones.",
+    "ejemplo": "Preguntar solo qué opina el personal de la nueva oficina.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "def-cli-compensacion",
+    "grupo": "pilares",
+    "termino": "Compensación (EVP)",
+    "definicion": "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+    "ejemplo": "Un bono anual según los resultados.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "def-cli-beneficios",
+    "grupo": "pilares",
+    "termino": "Beneficios (EVP)",
+    "definicion": "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+    "ejemplo": "Una prepaga para toda la familia.",
+    "libro": "cli_evp",
+    "pista": "Pensá en este ejemplo: lo que la empresa da además del sueldo, para toda la familia."
+  },
+  {
+    "id": "def-cli-desarrollo",
+    "grupo": "pilares",
+    "termino": "Oportunidades de desarrollo",
+    "definicion": "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+    "ejemplo": "Un curso pago por año y un plan para llegar a un puesto mejor.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "def-cli-cultura",
+    "grupo": "pilares",
+    "termino": "Cultura y entorno laboral (EVP)",
+    "definicion": "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo.",
+    "ejemplo": "Una empresa reconocida por su ambiente diverso y respetuoso.",
+    "libro": "cli_evp",
+    "pista": "Pensá en este ejemplo: una empresa reconocida por ser diversa y respetuosa."
+  },
+  {
+    "id": "def-cli-equilibrio",
+    "grupo": "pilares",
+    "termino": "Equilibrio vida-trabajo",
+    "definicion": "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental.",
+    "ejemplo": "Trabajar desde casa dos días por semana.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "def-cli-rotacion",
+    "grupo": "conceptos",
+    "termino": "Rotación",
+    "definicion": "Cuánta gente se va de la organización y tiene que ser reemplazada.",
+    "ejemplo": "Una empresa que cada año tiene que cubrir la mitad de sus puestos.",
+    "libro": "cli_glosario"
+  },
+  {
+    "id": "def-cli-ausentismo",
+    "grupo": "conceptos",
+    "termino": "Ausentismo",
+    "definicion": "Cuánto falta la gente a su trabajo.",
+    "ejemplo": "Un área donde todos los lunes falta una de cada cinco personas.",
+    "libro": "cli_glosario",
+    "pista": "Pensá en este ejemplo: un área donde todos los lunes hay sillas vacías."
+  },
+  {
+    "id": "def-cli-salario",
+    "grupo": "conceptos",
+    "termino": "Salario emocional",
+    "definicion": "Lo que una persona valora de su trabajo más allá del sueldo.",
+    "ejemplo": "Poder entrar más tarde para llevar a los chicos a la escuela.",
+    "libro": "cli_importancia"
+  },
+  {
+    "id": "def-cli-marca",
+    "grupo": "conceptos",
+    "termino": "Marca empleadora",
+    "definicion": "La imagen que tiene una organización como lugar para trabajar.",
+    "ejemplo": "Una empresa a la que todos los egresados quieren entrar.",
+    "libro": "cli_glosario"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tra-iceberg-01",
+    "tipo": "clasificar",
+    "titulo": "Arriba o abajo del agua",
+    "situacion": "Estás ordenando elementos de la cultura de una empresa en el iceberg. Te tocan los beneficios que reciben los empleados y el entorno físico de la oficina.",
+    "pregunta": "¿En qué parte del iceberg van?",
+    "correcta": "En la parte visible: lo que la gente ve",
+    "incorrectas": [
+      "En la parte que no se ve, debajo del agua",
+      "En la base del iceberg, junto con la misión",
+      "Fuera del iceberg, porque no son cultura",
+      "Una arriba y otra abajo, según la empresa",
+      "En el centro, junto con valores y creencias"
+    ],
+    "pista": "Son cosas que cualquiera puede observar al entrar a la empresa.",
+    "explicacion": "Los beneficios y el entorno físico están en la punta del iceberg, junto con las personas, las prácticas, las conductas y las estrategias: es lo que la gente ve.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "tra-iceberg-02",
+    "tipo": "clasificar",
+    "titulo": "Lo que pesa debajo",
+    "situacion": "En una empresa, todos creen que equivocarse está mal visto, aunque nadie lo dijo nunca en voz alta.",
+    "pregunta": "¿En qué parte del iceberg de la cultura está esa creencia?",
+    "correcta": "En la parte que no se ve, debajo del agua",
+    "incorrectas": [
+      "En la parte visible, junto con los beneficios",
+      "En la punta, junto con el entorno físico",
+      "Fuera del iceberg, porque nadie la dijo",
+      "En la parte visible, porque todos la conocen",
+      "En las prácticas escritas de la empresa"
+    ],
+    "pista": "Nadie la ve escrita ni la dice, pero todos la sienten.",
+    "explicacion": "Las creencias, igual que los valores, las normas y el propósito, están debajo del agua: no se ven, pero pesan mucho en cómo se comporta la gente.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "tra-forma-01",
+    "tipo": "clasificar",
+    "titulo": "La idea de los dueños",
+    "situacion": "Los dos dueños que fundaron una empresa repetían que «el cliente siempre tiene la razón». Treinta años después, esa idea sigue marcando cómo trabaja todo el personal.",
+    "pregunta": "¿Qué factor formó esa parte de la cultura?",
+    "correcta": "La filosofía de los fundadores",
+    "incorrectas": [
+      "Los criterios de selección",
+      "La socialización de los nuevos",
+      "Las encuestas de clima",
+      "El sistema de compensaciones",
+      "La transformación estructural"
+    ],
+    "pista": "Fijate quién instaló la idea y cuándo.",
+    "explicacion": "La filosofía de los fundadores es uno de los factores que forman la cultura, junto con los criterios de selección, la socialización y la alta gerencia.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "tra-forma-02",
+    "tipo": "clasificar",
+    "titulo": "La primera semana",
+    "situacion": "Cuando alguien entra a la empresa, pasa su primera semana con un compañero que le muestra «cómo se hacen las cosas acá».",
+    "pregunta": "¿Qué factor de formación de la cultura está en juego?",
+    "correcta": "La socialización",
+    "incorrectas": [
+      "Los criterios de selección",
+      "La filosofía de los fundadores",
+      "La alta gerencia",
+      "El diagnóstico cultural",
+      "El gatopardismo"
+    ],
+    "pista": "Le pasa a la persona después de haber sido elegida.",
+    "explicacion": "La socialización es el proceso por el que los nuevos aprenden cómo funciona la organización. Es uno de los factores que forman la cultura.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "tra-forma-03",
+    "tipo": "clasificar",
+    "titulo": "Elegir parecidos",
+    "situacion": "RRHH solo contrata candidatos que, en la entrevista, muestran que comparten los valores de la empresa.",
+    "pregunta": "¿Qué factor de formación de la cultura está en juego?",
+    "correcta": "Los criterios de selección",
+    "incorrectas": [
+      "La socialización",
+      "La filosofía de los fundadores",
+      "La alta gerencia",
+      "Los rituales",
+      "El lenguaje"
+    ],
+    "pista": "Pasa antes de que la persona entre a la empresa.",
+    "explicacion": "A quién se elige moldea la cultura: los criterios de selección son uno de los factores que la forman.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "tra-hatum-01",
+    "tipo": "caso",
+    "titulo": "Hasta las 10 de la noche",
+    "situacion": "Un gerente promociona siempre a quien se queda en la oficina hasta las 10 de la noche, aunque esa persona no lidere a nadie ni tenga mejores resultados.",
+    "pregunta": "Según Andrés Hatum, ¿qué está haciendo con la cultura?",
+    "correcta": "La destruye: premia parecer ocupado en lugar de los resultados",
+    "incorrectas": [
+      "La fortalece: muestra que la empresa valora el compromiso",
+      "Nada: los ascensos no tienen relación con la cultura",
+      "La transforma: pasa de la jerarquía a la agilidad",
+      "La diagnostica: mide quién trabaja más horas",
+      "La socializa: enseña a los nuevos cómo se trabaja"
+    ],
+    "pista": "Pensá qué aprende el resto del equipo al ver a quién se asciende.",
+    "explicacion": "Es el primer paso de «cómo destruir la cultura» de Hatum: promocionar al que se queda hasta tarde premia parecer ocupado, no liderar ni dar resultados.",
+    "libro": "tra_destruir"
+  },
+  {
+    "id": "tra-hatum-02",
+    "tipo": "concepto",
+    "titulo": "Todo cambia, nada cambia",
+    "situacion": "Una empresa habla todo el tiempo de innovación en sus comunicados, pero ningún proceso cambia y las ideas nuevas quedan en un cajón.",
+    "pregunta": "¿Cómo se llama esa conducta en el material de la cursada?",
+    "correcta": "Gatopardismo",
+    "incorrectas": [
+      "Socialización",
+      "Agilidad organizacional",
+      "Diagnóstico cultural",
+      "Reskilling",
+      "Transformación estructural"
+    ],
+    "pista": "Es parecer que se cambia, sin cambiar nada.",
+    "explicacion": "Hablar de innovación para que parezca que todo cambia, mientras todo sigue igual, es gatopardismo: el cuarto paso de «cómo destruir la cultura».",
+    "libro": "tra_destruir"
+  },
+  {
+    "id": "tra-hatum-03",
+    "tipo": "caso",
+    "titulo": "Feedback en público",
+    "situacion": "Una jefa reta a un empleado delante de todo el equipo y después dice que «solo le estaba dando feedback».",
+    "pregunta": "¿Qué efecto tiene esa conducta sobre la cultura?",
+    "correcta": "La daña: usa el feedback como excusa para retar en público",
+    "incorrectas": [
+      "La mejora: el feedback siempre ayuda, se dé como se dé",
+      "Ninguno: el feedback no tiene relación con la cultura",
+      "La transforma: es un paso hacia un liderazgo de mentoría",
+      "La fortalece: muestra que la empresa es transparente",
+      "La diagnostica: permite medir el clima del equipo"
+    ],
+    "pista": "Fijate en la forma y el lugar en que se dio la devolución.",
+    "explicacion": "Usar la palabra «feedback» como excusa para retar a la gente en público es uno de los pasos para destruir la cultura según Hatum: no construye aprendizaje y daña las relaciones.",
+    "libro": "tra_destruir"
+  },
+  {
+    "id": "tra-def-01",
+    "tipo": "concepto",
+    "titulo": "Del presente al futuro",
+    "situacion": "Un gerente te pregunta qué es exactamente una «transformación organizacional», porque la empresa la anunció para el año que viene.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Un método estratégico para llevar a la empresa del presente a lo que proyecta",
+    "incorrectas": [
+      "Un cambio de logo y de colores para modernizar la imagen de la empresa",
+      "Una reducción de personal para bajar los costos del año siguiente",
+      "La compra de un sistema informático nuevo para todas las áreas",
+      "Un evento anual para que los empleados conozcan los objetivos",
+      "Una auditoría externa que revisa las cuentas de la empresa"
+    ],
+    "pista": "Tiene que ver con el futuro de toda la empresa, no con un cambio puntual.",
+    "explicacion": "La transformación organizacional es un método estratégico para llevar a la empresa desde el presente hasta sus proyecciones a futuro, mirando cómo interactúan las personas.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "tra-como-01",
+    "tipo": "concepto",
+    "titulo": "Sobre qué trabajar",
+    "situacion": "Una empresa quiere transformarse y te pide que le digas sobre qué tres aspectos tiene que trabajar, según la clase.",
+    "pregunta": "¿Cuáles son?",
+    "correcta": "Cultura, estructura y tecnología",
+    "incorrectas": [
+      "Precios, publicidad y ventas",
+      "Sueldos, horarios y vacaciones",
+      "Logo, oficinas y uniformes",
+      "Clientes, proveedores y bancos",
+      "Reclutamiento, selección y despidos"
+    ],
+    "pista": "Uno es sobre la gente, otro sobre cómo se organiza y otro sobre herramientas.",
+    "explicacion": "La transformación trabaja sobre la cultura, la estructura y la tecnología.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "tra-como-02",
+    "tipo": "clasificar",
+    "titulo": "De a una",
+    "situacion": "Una empresa cambia primero cómo hace sus reuniones, después cómo evalúa el desempeño y, recién después, cómo arma sus equipos.",
+    "pregunta": "¿Qué estrategia de transformación está usando?",
+    "correcta": "Actualizar las prácticas una a una",
+    "incorrectas": [
+      "Transformar toda la organización a la vez",
+      "Transformar un área o unidad de negocios",
+      "Hacer experimentos aislados",
+      "Cambiar solo el organigrama",
+      "Contratar una empresa externa"
+    ],
+    "pista": "No cambia un sector: va cambiando de a una cosa en toda la empresa.",
+    "explicacion": "Ir cambiando de a una las prácticas (reuniones, evaluaciones, equipos) es la estrategia de actualizar las prácticas una a una.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "tra-como-03",
+    "tipo": "caso",
+    "titulo": "Organigrama nuevo, gente igual",
+    "situacion": "Una empresa cambió todo su organigrama hace un año, pero la gente sigue trabajando, decidiendo y relacionándose exactamente igual que antes.",
+    "pregunta": "¿Qué le faltó a la transformación?",
+    "correcta": "Que las personas cambien su forma de pensar, trabajar y relacionarse",
+    "incorrectas": [
+      "Cambiar el organigrama otra vez, con más niveles de jefatura",
+      "Anunciar el cambio con un evento más grande y más fotos",
+      "Comprar más tecnología, porque el problema es el sistema",
+      "Esperar más tiempo: los organigramas tardan años en funcionar",
+      "Nada: cambiar el organigrama ya es una transformación completa"
+    ],
+    "pista": "Pensá en la frase de la clase sobre quiénes se transforman.",
+    "explicacion": "«Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones.» Cambiar el organigrama no alcanza si la gente trabaja igual.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "tra-estructura-01",
+    "tipo": "concepto",
+    "titulo": "Sin pirámide",
+    "situacion": "Un equipo deja de tener un jefe de proyecto arriba que reparte las tareas y pasa a organizarse solo, con una persona que ayuda y facilita.",
+    "pregunta": "¿Qué rol cumple esa persona en la nueva estructura?",
+    "correcta": "Un líder que sirve y facilita, en lugar de mandar",
+    "incorrectas": [
+      "Un jefe que reparte las tareas y controla a cada uno",
+      "Un supervisor que evalúa a todos al final del año",
+      "Un representante del sindicato dentro del equipo",
+      "Un consultor externo que audita el trabajo del equipo",
+      "Un gerente que decide todo y el equipo solo ejecuta"
+    ],
+    "pista": "En la nueva forma, el equipo decide: esa persona no está arriba.",
+    "explicacion": "En la transformación estructural, la pirámide con un jefe arriba se reemplaza por equipos autoorganizados con un líder que sirve y facilita.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "tra-diag-01",
+    "tipo": "concepto",
+    "titulo": "Antes de cambiar",
+    "situacion": "El directorio quiere lanzar ya mismo un cambio cultural en toda la empresa. Te piden opinión sobre por dónde empezar.",
+    "pregunta": "Según la clase, ¿qué hay que hacer primero?",
+    "correcta": "Un diagnóstico de la cultura actual",
+    "incorrectas": [
+      "Un evento de lanzamiento para todo el personal",
+      "Un cambio completo del organigrama",
+      "Una nueva frase de valores en las paredes",
+      "Una reducción de personal en las áreas",
+      "Un aumento de sueldos para todos"
+    ],
+    "pista": "Antes de recetar, hay que revisar al paciente.",
+    "explicacion": "El cambio cultural empieza por un diagnóstico: entender qué cultura hay, qué mensajes transmite, qué refuerza y qué frena el cambio.",
+    "libro": "tra_diagnostico"
+  },
+  {
+    "id": "tra-diag-02",
+    "tipo": "clasificar",
+    "titulo": "Cercanos o distantes",
+    "situacion": "En el diagnóstico cultural, RRHH pregunta si los jefes son cercanos o distantes y si generan vínculos de confianza.",
+    "pregunta": "¿Qué eje del diagnóstico está evaluando?",
+    "correcta": "Liderazgo",
+    "incorrectas": [
+      "Ambiente",
+      "Creencias",
+      "Comunicación",
+      "Estructura y procesos",
+      "Actitudes y comportamientos"
+    ],
+    "pista": "Las preguntas son sobre los jefes.",
+    "explicacion": "Preguntar si los líderes son cercanos o distantes, si generan confianza y si son transformacionales o conservadores es diagnosticar el eje de liderazgo.",
+    "libro": "tra_diagnostico"
+  },
+  {
+    "id": "tra-diag-03",
+    "tipo": "clasificar",
+    "titulo": "Horizontal o vertical",
+    "situacion": "En el diagnóstico cultural, RRHH pregunta si la empresa es más horizontal o vertical y si cada persona tiene claro qué se espera de su rol.",
+    "pregunta": "¿Qué eje del diagnóstico está evaluando?",
+    "correcta": "Estructura y procesos",
+    "incorrectas": [
+      "Liderazgo",
+      "Ambiente",
+      "Creencias",
+      "Comunicación",
+      "Actitudes y comportamientos"
+    ],
+    "pista": "Las preguntas son sobre cómo está armada la organización.",
+    "explicacion": "Preguntar si la estructura es horizontal o vertical, si hay procesos que ordenen el trabajo y si los roles están claros es el eje de estructura y procesos.",
+    "libro": "tra_diagnostico"
+  },
+  {
+    "id": "tra-farma-01",
+    "tipo": "concepto",
+    "titulo": "Los roles nuevos",
+    "situacion": "Estudiás el caso de Farmacity, que pasó de una estructura jerárquica a un enfoque ágil basado en habilidades.",
+    "pregunta": "¿Qué roles incorporó su nuevo modelo?",
+    "correcta": "Sponsor, owner, miembro de equipo y mentor",
+    "incorrectas": [
+      "Gerente, jefe, supervisor y operario",
+      "Director, auditor, delegado y cajero",
+      "Socio estratégico, agente de cambio y experto",
+      "Reclutador, seleccionador, capacitador y evaluador",
+      "Presidente, vicepresidente, tesorero y vocal"
+    ],
+    "pista": "Son roles pensados para trabajar sin una pirámide de jefes.",
+    "explicacion": "El modelo ágil de Farmacity incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+    "libro": "tra_farmacity"
+  },
+  {
+    "id": "tra-farma-02",
+    "tipo": "concepto",
+    "titulo": "De controlar a acompañar",
+    "situacion": "En el caso Farmacity, un directivo cuenta que antes tenían un liderazgo muy jerárquico y que ahora el líder «en vez de ubicarse arriba, se encarga de acompañar».",
+    "pregunta": "¿Qué cambio de liderazgo describe?",
+    "correcta": "De un liderazgo de control a uno de mentoría y autonomía",
+    "incorrectas": [
+      "De un liderazgo de mentoría a uno de control y disciplina",
+      "De un liderazgo autónomo a uno con más niveles de jefes",
+      "De un liderazgo de equipo a uno de un solo gerente general",
+      "De un liderazgo cercano a uno distante y conservador",
+      "De un liderazgo de confianza a uno de supervisión diaria"
+    ],
+    "pista": "El líder deja de estar arriba de los demás.",
+    "explicacion": "Farmacity pasó de un liderazgo de control a uno de mentoría y autonomía: el líder acompaña para que el otro pueda desarrollarse.",
+    "libro": "tra_farmacity"
+  },
+  {
+    "id": "tra-farma-03",
+    "tipo": "concepto",
+    "titulo": "Paso a paso",
+    "situacion": "Un compañero dice que Farmacity cambió todas sus áreas al mismo tiempo, de un día para el otro.",
+    "pregunta": "¿Qué le corregís?",
+    "correcta": "Que fue gradual: empezó por algunos sectores y después avanzó",
+    "incorrectas": [
+      "Nada: cambió todas sus áreas el mismo día por decisión del directorio",
+      "Que nunca terminó: quedó solo como un experimento en un local",
+      "Que primero cambió los sistemas y la gente nunca participó",
+      "Que la transformación la hizo una consultora sin el personal",
+      "Que volvió a la estructura jerárquica después de un mes"
+    ],
+    "pista": "La clase destaca cómo se implementó, no solo qué se cambió.",
+    "explicacion": "La implementación en Farmacity fue gradual: comenzó en sectores específicos y avanzó hacia una transformación de toda la empresa.",
+    "libro": "tra_farmacity"
+  },
+  {
+    "id": "tra-temas-01",
+    "tipo": "clasificar",
+    "titulo": "Mismo puesto, mejores habilidades",
+    "situacion": "Una empresa capacita a sus analistas contables en nuevas herramientas para que hagan mejor el mismo trabajo que ya hacen.",
+    "pregunta": "¿Qué práctica está aplicando?",
+    "correcta": "Upskilling",
+    "incorrectas": [
+      "Reskilling",
+      "ENPS",
+      "Gatopardismo",
+      "Socialización",
+      "Diagnóstico cultural"
+    ],
+    "pista": "Las personas siguen en el mismo puesto.",
+    "explicacion": "Upskilling es mejorar las habilidades para hacer mejor el mismo trabajo. Reskilling es aprender habilidades nuevas para pasar a otro puesto.",
+    "libro": "tra_temas"
+  }
+]

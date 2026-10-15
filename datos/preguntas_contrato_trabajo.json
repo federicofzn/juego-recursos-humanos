@@ -1,0 +1,362 @@
+[
+  {
+    "id": "lct-mod-01",
+    "tipo": "norma",
+    "titulo": "Todos los veranos",
+    "situacion": "Un hotel de Mar del Plata contrata al mismo grupo de mozos todos los años, solo durante la temporada de verano.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "correcta": "Contrato de temporada",
+    "incorrectas": [
+      "Contrato eventual",
+      "Contrato a plazo fijo",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo",
+      "Contrato por tiempo indeterminado"
+    ],
+    "pista": "La actividad se repite cada año, pero solo en una época.",
+    "explicacion": "El contrato de temporada es para actividades que se repiten solo en ciertas épocas del año, como el turismo de verano.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-mod-02",
+    "tipo": "norma",
+    "titulo": "Durante la licencia",
+    "situacion": "Una empresa contrata a una persona para reemplazar a una empleada mientras dura su licencia por maternidad.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "correcta": "Contrato eventual",
+    "incorrectas": [
+      "Contrato de temporada",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo",
+      "Contrato por tiempo indeterminado",
+      "Contrato de teletrabajo"
+    ],
+    "pista": "Cubre una necesidad transitoria de la empresa.",
+    "explicacion": "El contrato eventual cubre una necesidad extraordinaria o transitoria, como reemplazar a alguien durante una licencia.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-mod-03",
+    "tipo": "norma",
+    "titulo": "Menos horas",
+    "situacion": "Un estudiante consigue trabajo en un comercio cuatro horas por día, menos que la jornada habitual del resto del personal.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "correcta": "Contrato a tiempo parcial",
+    "incorrectas": [
+      "Contrato eventual",
+      "Contrato de temporada",
+      "Contrato a plazo fijo",
+      "Contrato de grupo o equipo",
+      "Contrato de pasantía externa"
+    ],
+    "pista": "Fijate en la cantidad de horas, no en la duración del contrato.",
+    "explicacion": "El contrato a tiempo parcial es aquel en el que la persona trabaja menos horas que la jornada habitual.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-mod-04",
+    "tipo": "norma",
+    "titulo": "La orquesta",
+    "situacion": "Un teatro contrata a una orquesta completa como conjunto, en lugar de contratar a cada músico por separado.",
+    "pregunta": "¿Qué modalidad de contrato corresponde?",
+    "correcta": "Contrato de grupo o equipo",
+    "incorrectas": [
+      "Contrato de temporada",
+      "Contrato eventual",
+      "Contrato a tiempo parcial",
+      "Contrato a plazo fijo",
+      "Contrato por tiempo indeterminado"
+    ],
+    "pista": "Se contrata a varias personas, pero como una unidad.",
+    "explicacion": "El contrato de grupo o equipo contrata a un conjunto de personas como unidad, por ejemplo una orquesta.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-mod-05",
+    "tipo": "norma",
+    "titulo": "Sin fecha de fin",
+    "situacion": "Una empresa contrata a un administrativo sin fijar ninguna fecha de finalización y sin ninguna causa especial.",
+    "pregunta": "¿Qué modalidad de contrato es?",
+    "correcta": "Contrato por tiempo indeterminado",
+    "incorrectas": [
+      "Contrato a plazo fijo",
+      "Contrato eventual",
+      "Contrato de temporada",
+      "Contrato a tiempo parcial",
+      "Contrato de grupo o equipo"
+    ],
+    "pista": "Es la modalidad que la ley toma como regla general.",
+    "explicacion": "El contrato por tiempo indeterminado es la regla general: no tiene fecha de finalización. Las demás modalidades son excepciones.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-mod-06",
+    "tipo": "caso",
+    "titulo": "Plazo sin papeles",
+    "situacion": "Una empresa dice que contrató a un empleado «a plazo», pero no hay ninguna duración escrita ni una causa que lo justifique.",
+    "pregunta": "¿Cómo trata la ley a ese contrato?",
+    "correcta": "Se presume que es por tiempo indeterminado",
+    "incorrectas": [
+      "Se presume que es eventual por tres meses",
+      "Se presume que es un contrato de temporada",
+      "Es nulo y el empleado no tiene ningún derecho",
+      "Vale como plazo fijo por el tiempo que diga la empresa",
+      "Se transforma en un contrato a tiempo parcial"
+    ],
+    "pista": "Pensá cuál es la regla general cuando falta lo que exige una excepción.",
+    "explicacion": "Las modalidades por tiempo determinado necesitan una causa objetiva o una duración fijada por escrito. Si no la tienen, se presume que el contrato es por tiempo indeterminado.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "lct-desp-01",
+    "tipo": "norma",
+    "titulo": "Tres años y sin aviso",
+    "situacion": "Una empresa despide sin causa a un empleado con 3 años de antigüedad, de un día para el otro, sin ningún aviso previo.",
+    "pregunta": "¿Qué preaviso le correspondía?",
+    "correcta": "Un mes, o pagar la indemnización sustitutiva",
+    "incorrectas": [
+      "Dos meses, o pagar la indemnización sustitutiva",
+      "Quince días, igual que cuando renuncia el empleado",
+      "Ninguno: el despido sin causa no lleva preaviso",
+      "Tres meses, uno por cada año de antigüedad",
+      "Una semana, si avisa por telegrama laboral"
+    ],
+    "pista": "La antigüedad no supera los 5 años.",
+    "explicacion": "Si la antigüedad no supera los 5 años, el empleador debe dar 1 mes de preaviso. Si no lo da, tiene que pagar la indemnización sustitutiva.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "lct-desp-02",
+    "tipo": "norma",
+    "titulo": "Siete años",
+    "situacion": "Una empresa quiere despedir sin causa a una empleada que tiene 7 años de antigüedad y prefiere avisarle con tiempo.",
+    "pregunta": "¿Con cuánta anticipación tiene que avisarle?",
+    "correcta": "Dos meses",
+    "incorrectas": [
+      "Un mes",
+      "Quince días",
+      "Siete meses",
+      "Tres meses",
+      "No hace falta avisar"
+    ],
+    "pista": "La antigüedad supera los 5 años.",
+    "explicacion": "Si la antigüedad es mayor a 5 años, el preaviso del empleador es de 2 meses.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "lct-desp-03",
+    "tipo": "norma",
+    "titulo": "Cuatro años y cinco meses",
+    "situacion": "Despiden sin causa a una persona que lleva 4 años y 5 meses en la empresa y ya superó el período de prueba.",
+    "pregunta": "¿Cuántos sueldos le corresponden de indemnización por antigüedad?",
+    "correcta": "Cinco sueldos",
+    "incorrectas": [
+      "Cuatro sueldos",
+      "Cuatro sueldos y medio",
+      "Dos sueldos",
+      "Ninguno",
+      "Seis sueldos"
+    ],
+    "pista": "Fijate qué pasa con los meses que sobran después de los años completos.",
+    "explicacion": "Corresponde 1 sueldo por cada año de trabajo o fracción mayor de 3 meses. Los 5 meses son más de 3, así que cuentan como un año más: 5 sueldos.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "lct-desp-04",
+    "tipo": "caso",
+    "titulo": "«Por mala conducta»",
+    "situacion": "Una empresa despide a un empleado diciéndole solo «por mala conducta», sin explicar por escrito qué hizo. Semanas después, quiere agregar otra causa distinta.",
+    "pregunta": "¿Qué exige la ley para el despido con justa causa?",
+    "correcta": "Comunicar la causa por escrito, con claridad, sin poder cambiarla después",
+    "incorrectas": [
+      "Nada: alcanza con decir «mala conducta» y se puede ampliar después",
+      "Comunicarla de palabra y anotar la causa en el legajo del empleado",
+      "Avisar con un mes de preaviso y pagar la indemnización por antigüedad",
+      "Pedir permiso al sindicato antes de comunicar cualquier despido",
+      "Esperar a que el empleado firme que está de acuerdo con la causa"
+    ],
+    "pista": "Pensá qué protege a la persona despedida si la empresa quiere dar otra versión después.",
+    "explicacion": "En el despido con justa causa, la causa debe comunicarse por escrito y describirse con claridad. Después no puede modificarse.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "lct-desp-05",
+    "tipo": "concepto",
+    "titulo": "Qué cuenta para pagar",
+    "situacion": "Para calcular la indemnización por antigüedad, un compañero quiere usar el sueldo más bajo que cobró el empleado en el último año.",
+    "pregunta": "¿Sobre qué remuneración se calcula?",
+    "correcta": "Sobre la mejor remuneración mensual, normal y habitual",
+    "incorrectas": [
+      "Sobre la remuneración más baja del último año",
+      "Sobre el promedio de todos los sueldos cobrados",
+      "Sobre el primer sueldo que cobró en la empresa",
+      "Sobre el salario mínimo vigente al momento del despido",
+      "Sobre el sueldo del último mes, aunque fuera menor"
+    ],
+    "pista": "La ley elige la que más favorece a quien es despedido.",
+    "explicacion": "La indemnización por antigüedad se calcula sobre la mejor remuneración mensual, normal y habitual.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "lct-ren-01",
+    "tipo": "caso",
+    "titulo": "Renunciar por WhatsApp",
+    "situacion": "Una empleada le manda un WhatsApp a su jefe diciendo que renuncia y deja de ir a trabajar al día siguiente.",
+    "pregunta": "¿Cómo tendría que formalizar su renuncia según la ley?",
+    "correcta": "Por telegrama laboral gratuito o ante la autoridad del trabajo",
+    "incorrectas": [
+      "El WhatsApp alcanza, porque queda registrado el mensaje",
+      "Por escritura pública ante un escribano, con dos testigos",
+      "Con una nota firmada por su jefe y por el gerente del área",
+      "Por un mail al área de RRHH con copia a todo el equipo",
+      "No hace falta formalizarla: alcanza con dejar de ir"
+    ],
+    "pista": "La ley pide una forma que asegure que la decisión es personal y real.",
+    "explicacion": "La renuncia se formaliza con un telegrama laboral gratuito (en papel o digital) enviado personalmente con validación de identidad, o ante la autoridad administrativa del trabajo.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "lct-ren-02",
+    "tipo": "norma",
+    "titulo": "Avisar antes de irse",
+    "situacion": "Un empleado quiere renunciar y pregunta con cuánta anticipación tiene que avisar, según la ley.",
+    "pregunta": "¿Cuál es el plazo de preaviso de la persona trabajadora?",
+    "correcta": "Quince días",
+    "incorrectas": [
+      "Un mes",
+      "Dos meses",
+      "Una semana",
+      "Tres días",
+      "Seis meses"
+    ],
+    "pista": "Es bastante más corto que el preaviso que tiene que dar el empleador.",
+    "explicacion": "El preaviso de la persona trabajadora es de 15 días. Puede renunciar con o sin ese preaviso.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "lct-ren-03",
+    "tipo": "caso",
+    "titulo": "Tres meses sin cobrar",
+    "situacion": "Un empleado no cobra su sueldo hace tres meses. Quiere terminar la relación sin perder lo que le corresponde.",
+    "pregunta": "¿Qué puede hacer?",
+    "correcta": "Considerarse despedido por injuria grave y comunicarlo por escrito",
+    "incorrectas": [
+      "Renunciar por telegrama, que es la única opción que tiene",
+      "Esperar a que el empleador lo despida para cobrar todo",
+      "Dejar de ir sin avisar, porque el empleador incumplió primero",
+      "Pedir un mutuo acuerdo ante el sindicato, sin presencia personal",
+      "Nada: el atraso en el sueldo no le da derecho a terminar la relación"
+    ],
+    "pista": "Hay una forma de terminar la relación por culpa de la otra parte.",
+    "explicacion": "Cuando el empleador comete un incumplimiento grave (injuria), la persona trabajadora puede considerarse despedida por justa causa: es el despido indirecto. Tiene que comunicar la causa por escrito y con claridad.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "lct-ren-04",
+    "tipo": "norma",
+    "titulo": "De común acuerdo",
+    "situacion": "Una empresa y un empleado quieren terminar la relación laboral de común acuerdo.",
+    "pregunta": "¿Cómo tiene que formalizarse?",
+    "correcta": "Por escritura pública o ante la autoridad del trabajo, en persona",
+    "incorrectas": [
+      "Con un mail de RRHH que el empleado responda aceptando",
+      "Con un telegrama laboral gratuito enviado por la empresa al empleado",
+      "Con una nota firmada solo por el gerente del área de RRHH",
+      "De palabra, en una reunión con testigos del equipo",
+      "Por WhatsApp, guardando una captura de la conversación"
+    ],
+    "pista": "Se busca asegurar que quien trabaja esté presente y de acuerdo.",
+    "explicacion": "El mutuo acuerdo se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "lct-vac-01",
+    "tipo": "norma",
+    "titulo": "Ocho años",
+    "situacion": "Una empleada que al 31 de diciembre cumple 8 años de antigüedad pregunta cuántos días de vacaciones le corresponden.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "correcta": "21 días corridos",
+    "incorrectas": [
+      "14 días corridos",
+      "28 días corridos",
+      "35 días corridos",
+      "21 días hábiles",
+      "8 días corridos"
+    ],
+    "pista": "Tiene más de 5 años, pero no más de 10.",
+    "explicacion": "Con más de 5 años y hasta 10 de antigüedad, corresponden 21 días corridos de vacaciones.",
+    "libro": "lct_vacaciones"
+  },
+  {
+    "id": "lct-vac-02",
+    "tipo": "norma",
+    "titulo": "Dos años",
+    "situacion": "Un empleado que al 31 de diciembre tiene 2 años de antigüedad, y trabajó todo el año, pregunta cuántos días de vacaciones le tocan.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "correcta": "14 días corridos",
+    "incorrectas": [
+      "21 días corridos",
+      "10 días corridos",
+      "14 días hábiles",
+      "7 días corridos",
+      "28 días corridos"
+    ],
+    "pista": "Está en el primer escalón de la escala.",
+    "explicacion": "Hasta 5 años de antigüedad corresponden 14 días corridos de vacaciones.",
+    "libro": "lct_vacaciones"
+  },
+  {
+    "id": "lct-vac-03",
+    "tipo": "norma",
+    "titulo": "Veinticinco años",
+    "situacion": "Una empleada que al 31 de diciembre cumple 25 años en la empresa pregunta cuántos días de vacaciones le corresponden.",
+    "pregunta": "¿Cuántos días le corresponden?",
+    "correcta": "35 días corridos",
+    "incorrectas": [
+      "28 días corridos",
+      "25 días corridos",
+      "21 días corridos",
+      "35 días hábiles",
+      "40 días corridos"
+    ],
+    "pista": "Supera los 20 años de antigüedad.",
+    "explicacion": "Con más de 20 años de antigüedad corresponden 35 días corridos de vacaciones.",
+    "libro": "lct_vacaciones"
+  },
+  {
+    "id": "lct-vac-04",
+    "tipo": "caso",
+    "titulo": "Entró a mitad de año",
+    "situacion": "Un empleado entró a la empresa en octubre y no llegó a trabajar la mitad de los días hábiles del año.",
+    "pregunta": "¿Qué vacaciones le corresponden ese año?",
+    "correcta": "Un día de vacaciones por cada 20 días de trabajo efectivo",
+    "incorrectas": [
+      "14 días corridos completos, como a cualquier empleado nuevo",
+      "Ninguna: recién tiene vacaciones después de un año completo",
+      "La mitad de los 14 días, porque trabajó la mitad del año",
+      "Un día de vacaciones por cada mes que estuvo en la empresa",
+      "Las que acuerde con su jefe, porque la ley no lo prevé"
+    ],
+    "pista": "Hay un requisito para el período completo, y una regla para cuando no se cumple.",
+    "explicacion": "Para el período completo hay que haber trabajado al menos la mitad de los días hábiles del año. Si no, corresponde 1 día de vacaciones por cada 20 días de trabajo efectivo.",
+    "libro": "lct_vacaciones"
+  },
+  {
+    "id": "lct-vac-05",
+    "tipo": "concepto",
+    "titulo": "¿Cuándo se cuenta?",
+    "situacion": "Una empleada cumple 5 años de antigüedad en marzo y quiere sacar sus vacaciones en enero del año siguiente. Pregunta en qué fecha se mira su antigüedad.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Al 31 de diciembre del año que corresponde",
+    "incorrectas": [
+      "El día en que empieza las vacaciones",
+      "El día en que pide las vacaciones a su jefe",
+      "La fecha de su cumpleaños de ese año",
+      "El 1 de enero del año que corresponde",
+      "La fecha en que firmó su contrato"
+    ],
+    "pista": "La ley fija una fecha igual para todos, al final del año.",
+    "explicacion": "La cantidad de días de vacaciones se determina por la antigüedad que la persona tenga al 31 de diciembre del año que corresponde.",
+    "libro": "lct_vacaciones"
+  }
+]

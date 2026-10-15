@@ -1,0 +1,326 @@
+[
+  {
+    "id": "est-preg-01",
+    "tipo": "clasificar",
+    "titulo": "Solo online",
+    "situacion": "El directorio de una marca de ropa decide vender solo por su tienda online y dejar de vender en supermercados.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "correcta": "¿Dónde jugaremos?",
+    "incorrectas": [
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Cómo jugaremos?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Cuál es nuestra cultura?"
+    ],
+    "pista": "La decisión es sobre el canal por el que llega el producto al cliente.",
+    "explicacion": "Elegir canales de venta, clientes, productos o zonas es responder «dónde jugaremos». Dejar los supermercados también es parte de esa elección: decidir dónde NO jugar.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-preg-02",
+    "tipo": "clasificar",
+    "titulo": "El más barato",
+    "situacion": "Una cadena de electrodomésticos define que va a ganarle a la competencia ofreciendo siempre el precio más bajo del mercado.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "correcta": "¿Cómo jugaremos?",
+    "incorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué stakeholders tenemos?"
+    ],
+    "pista": "La decisión explica de qué manera va a ganar, no dónde.",
+    "explicacion": "Definir cómo se le gana a la competencia es responder «cómo jugaremos»: es la ventaja competitiva. En este caso, por costo.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-preg-03",
+    "tipo": "clasificar",
+    "titulo": "Para qué existimos",
+    "situacion": "Una empresa de telecomunicaciones declara: «Existimos para que cualquier familia del país pueda conectarse a internet».",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "correcta": "¿Cuál es nuestra aspiración ganadora?",
+    "incorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Qué capacidades debemos tener?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué ventaja competitiva tenemos?"
+    ],
+    "pista": "La frase habla del propósito, no de clientes ni de precios.",
+    "explicacion": "Decir para qué existe la organización y qué significa ganar para ella es la aspiración ganadora: el propósito que guía a todo lo demás.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-preg-04",
+    "tipo": "clasificar",
+    "titulo": "Lo que hay que saber hacer",
+    "situacion": "Para vender online, una empresa necesita armar una logística propia de envíos y un equipo que programe y mantenga su tienda virtual.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "correcta": "¿Qué capacidades debemos tener?",
+    "incorrectas": [
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué sistemas de gestión necesitamos?",
+      "¿Qué clientes queremos atender?"
+    ],
+    "pista": "Habla de actividades que la empresa tiene que dominar para cumplir lo que ya eligió.",
+    "explicacion": "Las capacidades son las actividades que permiten hacer realidad dónde jugar y cómo ganar. La logística y la programación son capacidades.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-preg-05",
+    "tipo": "clasificar",
+    "titulo": "Tableros y reglas",
+    "situacion": "Una empresa arma un tablero con indicadores, define procesos de seguimiento mensual y reglas claras para evaluar el desempeño de cada área.",
+    "pregunta": "¿Cuál de las 5 preguntas de la estrategia está respondiendo?",
+    "correcta": "¿Qué sistemas de gestión necesitamos?",
+    "incorrectas": [
+      "¿Qué capacidades debemos tener?",
+      "¿Dónde jugaremos?",
+      "¿Cómo jugaremos?",
+      "¿Cuál es nuestra aspiración ganadora?",
+      "¿Qué cultura queremos tener?"
+    ],
+    "pista": "Son procesos, estructuras y reglas que sostienen y miden lo que se decidió.",
+    "explicacion": "Los sistemas de gestión son los procesos, estructuras y reglas que construyen las capacidades y refuerzan y miden la estrategia.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-ventaja-01",
+    "tipo": "clasificar",
+    "titulo": "Más caro, pero único",
+    "situacion": "Una marca de zapatillas cobra bastante más que sus competidores y aun así vende mucho, porque sus clientes sienten que su diseño no se consigue en otro lado.",
+    "pregunta": "¿Qué tipo de ventaja competitiva tiene?",
+    "correcta": "Diferenciación",
+    "incorrectas": [
+      "Costo",
+      "Aspiración ganadora",
+      "Sistema de gestión",
+      "Capacidad logística",
+      "Cultura organizacional"
+    ],
+    "pista": "No gana por precio: gana porque su producto se percibe distinto.",
+    "explicacion": "Ganar porque el producto se percibe como único es una ventaja por diferenciación. La ventaja por costo es ganar vendiendo más barato.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-def-01",
+    "tipo": "concepto",
+    "titulo": "La definición de Mintzberg",
+    "situacion": "En un examen te piden la definición de estrategia que da Henry Mintzberg para las organizaciones.",
+    "pregunta": "¿Cuál es?",
+    "correcta": "El patrón o plan que integra las metas y políticas y ordena la secuencia de acciones",
+    "incorrectas": [
+      "El arte de dirigir las operaciones militares para vencer al adversario",
+      "El conjunto de valores y creencias que comparten los integrantes de un grupo",
+      "La lista de tareas diarias que cada empleado debe cumplir en su puesto",
+      "El presupuesto anual que aprueba el directorio para cada una de las áreas",
+      "El reglamento interno que fija los horarios y las sanciones del personal"
+    ],
+    "pista": "Hay una definición militar y otra para las organizaciones: buscás la segunda.",
+    "explicacion": "Mintzberg define la estrategia como el patrón o plan que integra las principales metas y políticas de una organización y establece la secuencia coherente de acciones. «Dirigir operaciones militares» es el sentido militar de la palabra.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-def-02",
+    "tipo": "concepto",
+    "titulo": "No abrir en el interior",
+    "situacion": "Una empresa decide no abrir sucursales fuera de Buenos Aires para concentrar todos sus recursos en la ciudad. Un gerente dice que eso «no es estrategia, porque es no hacer nada».",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que decidir dónde no competir también es parte de elegir dónde jugar",
+    "incorrectas": [
+      "Que tiene razón: la estrategia solo incluye lo que la empresa va a hacer",
+      "Que esa decisión corresponde a la cultura y no a la estrategia",
+      "Que es una decisión de capacidades, porque depende de la logística",
+      "Que es la aspiración ganadora, porque define para qué existe la empresa",
+      "Que no es estrategia, sino un sistema de gestión para medir sucursales"
+    ],
+    "pista": "Pensá qué pasa si una empresa intenta estar en todos lados a la vez.",
+    "explicacion": "Elegir dónde jugar incluye decidir dónde NO jugar. Eso evita dispersar esfuerzos y es tan estratégico como elegir dónde sí competir.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "est-rrhh-01",
+    "tipo": "concepto",
+    "titulo": "Antes de seguir",
+    "situacion": "Un equipo ya definió las acciones de RRHH para cumplir el plan estratégico. Antes de pasar a controlar el avance, el gerente pregunta si falta algo.",
+    "pregunta": "¿Qué fase falta en la construcción del plan?",
+    "correcta": "Comunicar el plan estratégico a todos los stakeholders",
+    "incorrectas": [
+      "Diseñar el proceso de planeamiento estratégico",
+      "Monitorear el progreso del plan cada mes",
+      "Identificar las brechas de RRHH de la empresa",
+      "Definir la aspiración ganadora de la empresa",
+      "Contratar a un consultor para reemplazar el plan"
+    ],
+    "pista": "El plan ya está armado, pero todavía no lo conoce nadie fuera del equipo.",
+    "explicacion": "La construcción termina con comunicar el plan a todos los stakeholders. Recién después viene el seguimiento: monitorear su progreso.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "est-rrhh-02",
+    "tipo": "concepto",
+    "titulo": "Decidir por intuición",
+    "situacion": "Un director quiere definir los aumentos y los ascensos del año «por intuición», sin mirar ninguna información.",
+    "pregunta": "¿Qué componente clave de una estrategia de RRHH le recordás?",
+    "correcta": "Usar datos y analytics para tomar las decisiones",
+    "incorrectas": [
+      "Rediseñar la estructura de RRHH para que sea más chica",
+      "Gestionar las redes de trabajo entre las áreas",
+      "Comunicar el plan a todos los stakeholders",
+      "Definir la aspiración ganadora de la empresa",
+      "Dejar que cada gerente decida sin criterios comunes"
+    ],
+    "pista": "El problema es la falta de información para decidir.",
+    "explicacion": "Uno de los componentes clave de una estrategia de RRHH es usar datos y analytics para mejorar la toma de decisiones estratégicas.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "est-rrhh-03",
+    "tipo": "concepto",
+    "titulo": "Lo que falta",
+    "situacion": "La empresa quiere crecer en ventas online, pero RRHH detecta que no tiene suficientes programadores para lograrlo.",
+    "pregunta": "En la construcción de la estrategia de RRHH, ¿qué está identificando?",
+    "correcta": "Una brecha de RRHH",
+    "incorrectas": [
+      "La aspiración ganadora",
+      "Un sistema de gestión",
+      "Un mensaje cultural",
+      "Una ventaja competitiva",
+      "El seguimiento del plan"
+    ],
+    "pista": "Es la distancia entre lo que la estrategia necesita y lo que hay hoy.",
+    "explicacion": "Una brecha es la diferencia entre lo que la estrategia necesita y lo que la organización tiene. Identificarla es parte de la construcción del plan, antes de definir acciones.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "est-cultura-01",
+    "tipo": "concepto",
+    "titulo": "Cultura en una reunión",
+    "situacion": "Un CEO anuncia: «El lunes nos juntamos dos horas, diseñamos la nueva cultura y el martes ya la tenemos funcionando».",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que la cultura no se diseña: emerge, aunque se puede entender y modelar",
+    "incorrectas": [
+      "Que tiene razón: la cultura se diseña en una reunión y se comunica",
+      "Que la cultura la define solo RRHH con un manual de valores",
+      "Que la cultura no se puede cambiar de ninguna manera, ni modelar",
+      "Que la cultura depende solo del sueldo que se le paga a la gente",
+      "Que la cultura es lo mismo que la estrategia y se decide igual"
+    ],
+    "pista": "Pensá de dónde sale la cultura: ¿de un documento o del día a día?",
+    "explicacion": "La cultura no se diseña: emerge del día a día de la organización. Pero se puede entender y modelar, por ejemplo con el ejemplo de los líderes, los sistemas y los símbolos.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "est-cultura-02",
+    "tipo": "concepto",
+    "titulo": "La cultura del ejemplo",
+    "situacion": "Estás repasando el modelo de Carolyn Taylor, «La cultura del ejemplo».",
+    "pregunta": "¿Cuáles son las tres fuentes que transmiten la cultura?",
+    "correcta": "Líderes, sistemas y procesos, y símbolos y rituales",
+    "incorrectas": [
+      "Sueldos, beneficios y vacaciones del personal",
+      "Clientes, proveedores y competidores del mercado",
+      "Estrategia, capacidades y sistemas de gestión",
+      "Reclutamiento, selección y capacitación",
+      "Misión, visión y presupuesto de cada área"
+    ],
+    "pista": "Una fuente son personas, otra son reglas y otra es lo que se ve o se cuenta.",
+    "explicacion": "Para Carolyn Taylor la cultura se transmite por tres fuentes: los líderes, los sistemas y procesos, y los símbolos y rituales.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "est-mensaje-01",
+    "tipo": "clasificar",
+    "titulo": "Mails a las 2 de la mañana",
+    "situacion": "El gerente general repite que valora el equilibrio entre la vida y el trabajo, pero manda mails a su equipo a las 2 de la mañana y espera respuesta.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural que recibe el equipo?",
+    "correcta": "De los comportamientos: lo que se dice no coincide con lo que se hace",
+    "incorrectas": [
+      "De los sistemas: el sistema de evaluación premia trabajar de noche",
+      "De los símbolos: la oficina del gerente es más grande que las demás",
+      "De la estructura: el organigrama tiene demasiados niveles de jefes",
+      "Del presupuesto: el área gasta más de lo que tiene asignado",
+      "De los rituales: la empresa festeja todos los fines de año"
+    ],
+    "pista": "El mensaje sale de lo que hace una persona, no de una regla.",
+    "explicacion": "Los mensajes culturales también salen de los comportamientos: lo que hacen los líderes y si lo que dicen coincide con lo que hacen. Acá, el ejemplo contradice el discurso.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "est-mensaje-02",
+    "tipo": "clasificar",
+    "titulo": "Estacionamiento para pocos",
+    "situacion": "En una empresa, solo los directores tienen lugar de estacionamiento y oficina con ventana. El resto trabaja en un espacio abierto.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural?",
+    "correcta": "De los símbolos",
+    "incorrectas": [
+      "De los comportamientos",
+      "De los sistemas de desempeño",
+      "De la planificación",
+      "De la medición",
+      "De la aspiración ganadora"
+    ],
+    "pista": "Es algo que se ve todos los días, aunque nadie lo diga.",
+    "explicacion": "Las oficinas, los lugares de estacionamiento y los títulos son símbolos: transmiten quién importa en la organización.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "est-mensaje-03",
+    "tipo": "clasificar",
+    "titulo": "El bono individual",
+    "situacion": "Una empresa dice que valora el trabajo en equipo, pero su sistema de bonos premia solo las ventas que logra cada vendedor por su cuenta.",
+    "pregunta": "¿De qué fuente sale el mensaje cultural?",
+    "correcta": "De los sistemas: el desempeño y el reconocimiento",
+    "incorrectas": [
+      "De los símbolos: las oficinas y los títulos",
+      "De los comportamientos: los mails del gerente",
+      "De los rituales: las historias de la empresa",
+      "De la aspiración ganadora de la empresa",
+      "De la ventaja competitiva de la empresa"
+    ],
+    "pista": "El mensaje sale de una regla que decide quién cobra más.",
+    "explicacion": "Los sistemas de desempeño y reconocimiento mandan mensajes culturales. Si el bono premia lo individual, la gente aprende que eso es lo que vale, más allá de lo que se diga.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "est-drucker-01",
+    "tipo": "concepto",
+    "titulo": "El desayuno",
+    "situacion": "En una charla, el orador cita a Peter Drucker: «La cultura se come a la estrategia en el desayuno». Un compañero te pregunta qué quiso decir.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que una buena estrategia falla si la cultura no la sostiene",
+    "incorrectas": [
+      "Que la estrategia no sirve y alcanza con tener buena cultura",
+      "Que la cultura hay que cambiarla cada mañana según la estrategia",
+      "Que la estrategia la define la cultura del área de compras",
+      "Que las reuniones de estrategia deben hacerse por la mañana",
+      "Que la cultura depende solo de los beneficios que se dan"
+    ],
+    "pista": "Pensá qué pasa con un buen plan si la gente valora otra cosa.",
+    "explicacion": "La frase dice que se puede tener una buena estrategia, pero si la cultura no da soporte a los sistemas que la ponen en marcha, la estrategia va a fallar. No dice que la estrategia no sirva.",
+    "libro": "est_cultura_estrategia"
+  },
+  {
+    "id": "est-drucker-02",
+    "tipo": "caso",
+    "titulo": "Innovar con miedo",
+    "situacion": "Una empresa lanza una estrategia para innovar, pero cada vez que un proyecto nuevo falla, se sanciona al responsable. Al año, nadie propone ideas.",
+    "pregunta": "¿Qué explica que la estrategia no funcione?",
+    "correcta": "Que la cultura castiga el error que la estrategia de innovar necesita",
+    "incorrectas": [
+      "Que la estrategia estaba mal escrita y había que redactarla de nuevo",
+      "Que faltó elegir dónde jugar: la empresa no tenía clientes definidos",
+      "Que la empresa no tenía aspiración ganadora y por eso nadie innova",
+      "Que innovar no es una estrategia posible para una empresa grande",
+      "Que el problema fue de comunicación: nadie conocía la estrategia"
+    ],
+    "pista": "Fijate qué aprende la gente cuando ve lo que pasa con quien se equivoca.",
+    "explicacion": "La estrategia pide innovar, pero la cultura castiga el error. La gente cree en lo que ve que pasa, así que deja de proponer: la cultura se come a la estrategia.",
+    "libro": "est_cultura_estrategia"
+  }
+]

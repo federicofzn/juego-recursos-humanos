@@ -1,0 +1,677 @@
+{
+  "unidades": [
+    {
+      "key": "introduccion",
+      "titulo": "Introducción a RRHH"
+    },
+    {
+      "key": "estrategia_cultura",
+      "titulo": "Estrategia y cultura"
+    },
+    {
+      "key": "transformacion",
+      "titulo": "Transformación organizacional"
+    },
+    {
+      "key": "clima_evp",
+      "titulo": "Clima y EVP"
+    },
+    {
+      "key": "contrato_trabajo",
+      "titulo": "Ley de Contrato de Trabajo"
+    }
+  ],
+  "entradas": {
+    "intro_glosario": {
+      "unidad": "introduccion",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Recursos Humanos",
+      "intro": [
+        "Estas palabras aparecen en toda la materia. Si en otra entrada encontrás una que no entendés, volvé acá.",
+        "Muchas vienen del inglés, porque las empresas las usan así todos los días."
+      ],
+      "notas": [
+        "Recursos Humanos (RRHH): el área de una organización que se ocupa de las personas que trabajan en ella: buscarlas, incorporarlas, formarlas, pagarles, cuidarlas y acompañar su salida.",
+        "Organización: cualquier grupo de personas que trabaja junto para lograr un objetivo. Una empresa, un hospital o una universidad son organizaciones.",
+        "Colaborador: otra forma de decir empleado. Es la persona que trabaja en la organización.",
+        "Talento: las personas valiosas para la organización, por lo que saben y por lo que pueden aportar.",
+        "Gestión: organizar y conducir algo para lograr un resultado. «Gestionar personas» es organizar y conducir el trabajo de la gente.",
+        "Desempeño: qué tan bien hace una persona su trabajo.",
+        "Compensación: lo que la persona recibe a cambio de su trabajo, sobre todo el sueldo.",
+        "Beneficios: lo que la organización da además del sueldo, como una prepaga, días extra o descuentos.",
+        "Capacitación: enseñarle a una persona lo que necesita saber o hacer en su trabajo."
+      ],
+      "ejemplos": [
+        "Una empresa busca un vendedor (atraer talento), le enseña cómo trabajar (capacitación), le paga un sueldo (compensación) y mide cómo vende (desempeño)."
+      ],
+      "ojo": "RRHH no es solo «el que liquida los sueldos»: también participa de las decisiones importantes de la organización."
+    },
+    "intro_gestion": {
+      "unidad": "introduccion",
+      "categoria": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "intro": [
+        "La materia arranca con una pregunta: ¿qué tiene que hacer el equipo de RRHH en una organización?",
+        "La respuesta de la cursada es que RRHH no se ocupa solo de trámites: conduce a las personas para que la organización logre sus objetivos."
+      ],
+      "notas": [
+        "Gestión de RRHH: es el sistema de estrategias y actividades que busca conducir con éxito a los empleados, en todos los niveles de la organización, para lograr los objetivos de la organización.",
+        "Atraer: conseguir que las personas que la organización necesita quieran sumarse a ella.",
+        "Retener: lograr que las personas valiosas quieran quedarse y no se vayan, por ejemplo, a la competencia.",
+        "Motivar: generar las condiciones para que las personas tengan ganas de dar lo mejor en su trabajo.",
+        "Más que tareas sueltas: atraer, retener y motivar ordenan todo el trabajo del área, más allá de lo administrativo."
+      ],
+      "pasos": [
+        "¿La acción busca que alguien de afuera quiera entrar a la organización? → atraer.",
+        "¿Busca que alguien que ya trabaja ahí no se vaya? → retener.",
+        "¿Busca que las personas tengan más ganas de trabajar bien? → motivar."
+      ],
+      "ejemplos": [
+        "Una empresa participa de ferias de empleo en universidades: busca atraer talento.",
+        "Una empresa mejora la propuesta a sus mejores vendedores para que no se vayan: busca retenerlos."
+      ],
+      "ojo": "Atraer mira hacia afuera (los que todavía no están). Retener mira hacia adentro (los que ya están)."
+    },
+    "intro_ulrich": {
+      "unidad": "introduccion",
+      "categoria": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "intro": [
+        "Dave Ulrich es un autor que propuso pensar a RRHH como un «consultor interno»: un socio que ayuda al resto de la organización, y no solo un sector administrativo.",
+        "Su modelo tiene 4 roles con 16 responsabilidades, ordenados en dos ejes. Eje vertical: arriba, el enfoque estratégico (mira al futuro); abajo, el enfoque operativo (el día a día). Eje horizontal: a la izquierda, la orientación a procesos; a la derecha, la orientación a personas."
+      ],
+      "notas": [
+        "Socio estratégico (estratégico y orientado a procesos): participa del plan estratégico, trabaja como socio de las áreas del negocio («business partner») y cuida la cultura y la imagen de la organización.",
+        "Agente de cambio (estratégico y orientado a personas): se ocupa del reclutamiento, el diseño organizacional, las encuestas y sus planes de acción, las mediciones de desempeño y la formación y desarrollo.",
+        "Experto en administración y gestión (operativo y orientado a procesos): se ocupa de la compensación, los beneficios, los sistemas de información y el cumplimiento de normas.",
+        "Líder de efectividad y socio de los trabajadores (operativo y orientado a personas): se ocupa de las relaciones con los trabajadores, las relaciones laborales, la seguridad y prevención y la diversidad."
+      ],
+      "pasos": [
+        "¿La tarea mira al futuro de la organización o resuelve el día a día? → estratégico u operativo.",
+        "¿Se trata de procesos y sistemas, o de personas y relaciones? → procesos o personas.",
+        "Cruzá las dos respuestas para encontrar el rol."
+      ],
+      "ejemplos": [
+        "La gerenta de RRHH participa del plan estratégico del año con el directorio: socio estratégico.",
+        "El equipo que liquida sueldos y administra los beneficios: experto en administración y gestión."
+      ],
+      "ojo": "Los dos roles de arriba son estratégicos; los dos de abajo, operativos. Los dos de la izquierda miran procesos; los dos de la derecha, personas."
+    },
+    "intro_mckinsey": {
+      "unidad": "introduccion",
+      "categoria": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "intro": [
+        "McKinsey es una consultora internacional. En el material de la cursada aparece su idea de que los líderes de RRHH pueden preparar a la organización para el cambio enfocándose en tres cosas: el propósito, el valor y la cultura.",
+        "Alrededor de ese centro aparecen seis elementos: toma de decisiones, aprendizaje, estructura, plataforma, talento y ecosistema."
+      ],
+      "notas": [
+        "Propósito, valor y cultura: son el centro del modelo. El líder de RRHH ya no solo administra: ayuda a la organización a saber para qué existe y cómo trabaja.",
+        "Quiénes somos: tener claro el «por qué», el «qué» y el «cómo» de la organización: por qué existe, qué hace y cómo funciona.",
+        "Cómo operamos: aplanar la organización (menos niveles de jefes), con equipos que deciden rápido y tratan a las personas como el capital más escaso.",
+        "Cómo crecemos: adelantarse a los demás aprendiendo más rápido, sacando valor de los datos y aprovechando el ecosistema (la red de socios, clientes y proveedores)."
+      ],
+      "ejemplos": [
+        "Una empresa elimina niveles jerárquicos y arma equipos que deciden solos: trabaja sobre «cómo operamos»."
+      ],
+      "ojo": "La idea general es que el liderazgo de RRHH cambia junto con las necesidades de la organización y necesita una mirada estratégica."
+    },
+    "intro_proceso": {
+      "unidad": "introduccion",
+      "categoria": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "intro": [
+        "La gestión de personas se puede pensar como un proceso: una secuencia ordenada de etapas, que ocurre dentro de un entorno (el contexto que rodea a la organización).",
+        "Cada tramo del proceso termina en un resultado distinto."
+      ],
+      "notas": [
+        "Planificación de RRHH: es el punto de partida. Se define qué personas va a necesitar la organización. De acá salen dos caminos: incorporar gente o desvincular gente.",
+        "Reclutamiento y selección: primero se buscan candidatos (reclutamiento) y después se elige entre ellos (selección). Resultado: identificar y elegir empleados competentes.",
+        "Desvinculación: la salida de personas de la organización, que también se planifica.",
+        "Orientación y capacitación: se recibe e integra a quien ingresa (orientación) y se le enseña lo que necesita (capacitación). Resultado: empleados adaptados, competentes y con conocimientos actualizados.",
+        "Evaluación de desempeño, desarrollo de carrera y compensación y beneficios: se mide cómo trabaja cada persona, se planifica su crecimiento y se la recompensa. Resultado: empleados competentes y de alto rendimiento."
+      ],
+      "pasos": [
+        "Planificación → reclutamiento → selección.",
+        "Orientación → capacitación.",
+        "Evaluación de desempeño → desarrollo de carrera ↔ compensación y beneficios."
+      ],
+      "ejemplos": [
+        "Una empresa elige a sus nuevos ingresantes (selección) y en su primera semana les presenta la empresa y a sus equipos (orientación)."
+      ],
+      "ojo": "Reclutar es buscar candidatos; seleccionar es elegir entre ellos. Primero se recluta, después se selecciona."
+    },
+    "intro_agile": {
+      "unidad": "introduccion",
+      "categoria": "Procesos",
+      "titulo": "RRHH Agile",
+      "intro": [
+        "«Agile» (ágil) es una forma de trabajar más flexible: equipos que se organizan solos, colaboran más y responden rápido a los cambios. Nació en los equipos de tecnología y después se llevó al resto de la organización.",
+        "El material de la cursada compara dos formas de implantarla: la agilidad técnica (AT), que cambia las metodologías de trabajo, y la agilidad organizacional (AO), que cambia los valores y la forma de organizarse."
+      ],
+      "notas": [
+        "Quién lidera: en la agilidad técnica, el responsable de tecnología (CIO o CTO); en la agilidad organizacional, RRHH.",
+        "En qué se apoya: la agilidad técnica, en metodologías y procesos; la organizacional, en valores y comportamientos.",
+        "Qué genera el valor: en la técnica, seguir los procesos; en la organizacional, las personas, que se organizan solas (autogobierno).",
+        "Equipos y roles: en la técnica, equipos autogestionados; en la organizacional, equipos autogobernados, donde el rol clásico de RRHH se diluye.",
+        "Valores: en la técnica, aportar valor, recibir bien el cambio y la transparencia; en la organizacional, respeto, confianza, horizontalidad y autogobierno.",
+        "Conocimientos que aparecen: metodologías como Scrum y Kanban, y modelos como la holocracia o las organizaciones Teal, que reparten las decisiones entre los equipos."
+      ],
+      "ejemplos": [
+        "Una empresa decide que todas sus áreas trabajen en equipos que se organizan solos, y RRHH lidera el cambio: es agilidad organizacional."
+      ],
+      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura)."
+    },
+    "est_glosario": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de estrategia y cultura",
+      "intro": [
+        "Esta unidad une dos ideas: hacia dónde quiere ir una organización (la estrategia) y cómo vive su gente día a día (la cultura).",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Estrategia: el plan que una organización elige para llegar a un resultado y ganarle a sus competidores.",
+        "Ventaja competitiva: aquello que hace que una organización le gane a la competencia, por ejemplo vender más barato o tener un producto único.",
+        "Capacidades: lo que la organización tiene que saber hacer bien para cumplir su estrategia.",
+        "Stakeholders: todas las personas o grupos interesados en la organización: empleados, clientes, accionistas, proveedores.",
+        "Cultura organizacional: los valores, creencias y comportamientos que comparte la gente de una organización y que marcan «cómo se hacen las cosas acá».",
+        "Liderazgo: la forma en que los jefes y referentes guían a los demás. En esta unidad es clave, porque la gente aprende la cultura mirando a sus líderes."
+      ],
+      "ejemplos": [
+        "Una cadena de supermercados elige competir con precios bajos (estrategia) y necesita una logística muy eficiente (capacidad)."
+      ],
+      "ojo": "La estrategia dice adónde ir; la cultura decide si la gente va a acompañar."
+    },
+    "est_estrategia": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "intro": [
+        "La palabra estrategia viene de lo militar: el arte de dirigir las operaciones para vencer al adversario. En las organizaciones, Henry Mintzberg la define como el patrón o plan que integra las metas y políticas principales de una organización y ordena la secuencia de acciones a realizar.",
+        "En la cursada, una estrategia se arma respondiendo 5 preguntas, una detrás de la otra."
+      ],
+      "notas": [
+        "¿Cuál es nuestra aspiración ganadora?: es el propósito que guía a la organización. Responde para qué existe y qué significa «ganar» para ella.",
+        "¿Dónde jugaremos?: elige el campo de juego: qué clientes, qué canales de venta, qué productos o servicios, qué zonas y qué etapa de la producción. También decide dónde NO jugar.",
+        "¿Cómo jugaremos?: define cómo va a ganar en ese campo, es decir, su ventaja competitiva. Puede ser por costo (más barato) o por diferenciación (algo único).",
+        "¿Qué capacidades debemos tener?: son las actividades que permiten hacer realidad las decisiones de dónde jugar y cómo ganar.",
+        "¿Qué sistemas de gestión necesitamos?: son los procesos, estructuras y reglas que construyen esas capacidades y que refuerzan y miden la estrategia."
+      ],
+      "pasos": [
+        "¿La decisión dice para qué existe la organización? → aspiración ganadora.",
+        "¿Elige clientes, productos, canales o zonas? → dónde jugar.",
+        "¿Explica cómo le va a ganar a la competencia? → cómo jugar.",
+        "¿Habla de lo que hay que saber hacer bien? → capacidades.",
+        "¿Habla de procesos, reglas o indicadores para sostenerlo? → sistemas de gestión."
+      ],
+      "ejemplos": [
+        "Coca-Cola y Pepsi venden productos parecidos, pero eligen formas distintas de diferenciarse: es la pregunta de cómo jugar.",
+        "Una empresa decide vender solo online y no en supermercados: está respondiendo dónde jugar."
+      ],
+      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos."
+    },
+    "est_rrhh": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "intro": [
+        "La gestión estratégica de RRHH es gestionar a las personas en línea con la estrategia del negocio. La estrategia de RRHH queda en el medio: toma la estrategia del negocio y la convierte en acciones sobre las personas para llegar a los resultados.",
+        "Esa estrategia de RRHH trabaja sobre varios temas: capacidades críticas, diseño organizacional, gestión del cambio, gestión del talento, liderazgo, compromiso de los empleados, cultura y sistema de compensaciones."
+      ],
+      "notas": [
+        "Planificación (fase 1): diseñar el proceso de planeamiento estratégico.",
+        "Construcción (fases 2 a 5): ver qué impacto tiene RRHH en la estrategia del negocio, encontrar las brechas (lo que falta), definir acciones para los objetivos de RRHH y comunicar el plan a todos los stakeholders.",
+        "Seguimiento (fase 6): controlar cómo avanza el plan.",
+        "Componentes clave: una estrategia de RRHH alineada al negocio, decidir con datos y analytics, rediseñar la estructura y los procesos de RRHH para ser más eficiente, que el equipo de RRHH impulse la estrategia del negocio y gestionar las redes de trabajo.",
+        "Mapa de actividades de RRHH: el material muestra todo lo que hace el área, agrupado en siete bloques: estrategia de la fuerza laboral, reclutar, desarrollar, gestionar a los empleados actuales, recompensas y beneficios, efectividad organizacional y gestionar la propia función de RRHH."
+      ],
+      "ejemplos": [
+        "Una empresa quiere crecer en ventas online y RRHH detecta que le faltan programadores: esa falta es una brecha."
+      ],
+      "ojo": "Brecha = la diferencia entre lo que la estrategia necesita y lo que la organización tiene hoy."
+    },
+    "est_cultura": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "intro": [
+        "La cultura es lo que las personas «sienten» cuando trabajan en una organización: cómo hay que comportarse y pensar para pertenecer. Está hecha de creencias, valores y comportamientos, y manda mensajes sobre «lo que realmente tiene valor acá».",
+        "Tres ideas clave: la cultura no se diseña, emerge (nace del día a día); y aunque no se diseña, se puede entender y modelar."
+      ],
+      "notas": [
+        "La cultura del ejemplo (Carolyn Taylor): la cultura se transmite por tres fuentes: los líderes, los sistemas y procesos, y los símbolos y rituales.",
+        "Mensajes por comportamientos: lo que hacen los líderes y las personas influyentes, si lo que se dice coincide con lo que se hace, lo que se modela con el ejemplo y lo que se dice en reuniones y mails.",
+        "Mensajes por sistemas: la planificación y el presupuesto, los sistemas de desempeño y reconocimiento, lo que se mide y la estructura.",
+        "Mensajes por símbolos: en qué se gasta la plata, en qué se usa el tiempo, quién tiene oficina, estacionamiento o títulos, y los rituales e historias que se cuentan."
+      ],
+      "pasos": [
+        "¿El mensaje sale de lo que hace o dice una persona? → comportamientos.",
+        "¿Sale de una regla, un premio, una medición o el organigrama? → sistemas.",
+        "¿Sale de algo que se ve o se cuenta (oficinas, privilegios, historias)? → símbolos."
+      ],
+      "ejemplos": [
+        "Una empresa dice valorar el equilibrio entre vida y trabajo, pero el gerente manda mails a las 2 de la mañana: el comportamiento contradice el discurso.",
+        "Mercado Libre es un ejemplo de empresa que pone por escrito su cultura (el «ADN Meli»)."
+      ],
+      "ojo": "La cultura no se cambia con un afiche: la gente cree en lo que ve hacer, no en lo que se dice."
+    },
+    "est_cultura_estrategia": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Cultura",
+      "titulo": "Cultura y estrategia",
+      "intro": [
+        "Peter Drucker, un autor clásico de la administración, lo resumió en una frase: «La cultura se come a la estrategia en el desayuno».",
+        "La idea es que se puede tener una buena estrategia, pero si la cultura no sostiene los sistemas que la ponen en marcha, la estrategia va a fallar (Dick Clark, ex CEO de Merck)."
+      ],
+      "notas": [
+        "Por qué importa: la estrategia se ejecuta con personas. Si lo que la gente valora va en otra dirección, el plan no se cumple.",
+        "Cómo se conectan: la cultura es el soporte de los sistemas y prácticas que convierten la estrategia en acción.",
+        "Rol de RRHH: cuidar que los sistemas (premios, evaluaciones, ascensos) manden los mismos mensajes que pide la estrategia."
+      ],
+      "ejemplos": [
+        "Una empresa decide innovar (estrategia), pero castiga cada error (cultura): la gente deja de proponer ideas y la estrategia fracasa."
+      ],
+      "ojo": "Una buena estrategia sin cultura que la acompañe es solo un papel."
+    },
+    "tra_glosario": {
+      "unidad": "transformacion",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de transformación",
+      "intro": [
+        "Esta unidad retoma la cultura y la conecta con el cambio: cómo pasa una organización de trabajar de una manera a trabajar de otra.",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Transformación organizacional: un cambio profundo en la forma de trabajar de una organización, no un ajuste chico.",
+        "Jerarquía: la organización en niveles, donde cada jefe manda sobre los de abajo. Una estructura muy jerárquica tiene muchos niveles.",
+        "Agilidad: trabajar en equipos más chicos y autónomos, que deciden rápido y se adaptan a los cambios.",
+        "Equipo autoorganizado: un equipo que decide por sí mismo cómo hacer su trabajo, sin un jefe que reparta cada tarea.",
+        "Diagnóstico: mirar con atención cómo está la organización hoy antes de cambiar algo, como hace un médico antes de recetar.",
+        "Feedback: devolución sobre cómo hizo alguien su trabajo, para que pueda mejorar.",
+        "Mentoría: acompañar a otra persona para que crezca, compartiendo experiencia, en lugar de darle órdenes."
+      ],
+      "ejemplos": [
+        "Una empresa con siete niveles de jefes (muy jerárquica) pasa a equipos autoorganizados de cinco personas: es una transformación."
+      ],
+      "ojo": "Cambiar el organigrama no alcanza: la transformación de verdad pasa por cómo trabaja y se relaciona la gente."
+    },
+    "tra_cultura": {
+      "unidad": "transformacion",
+      "categoria": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "intro": [
+        "La cultura se puede dibujar como un iceberg: una parte pequeña se ve sobre el agua, pero la mayor parte está debajo y no se ve.",
+        "Lo que no se ve es justamente lo que más pesa en cómo se comporta la gente."
+      ],
+      "notas": [
+        "Lo que la gente ve (la punta): las personas, los beneficios, el entorno físico, las prácticas, las conductas y las estrategias.",
+        "Lo que la gente NO ve (debajo del agua): oportunidades, reconocimiento, flexibilidad, relaciones, tradiciones, creencias, diversidad, propósito, liderazgo, normas, actitudes, valores, respeto y misión.",
+        "Cómo se forma la cultura: por los criterios de selección (a quién se elige), la filosofía de los fundadores, la socialización (cómo se integra a los nuevos) y la alta gerencia (los directivos).",
+        "Cómo la aprenden los colaboradores: por las historias que se cuentan, los rituales, los símbolos y el lenguaje que se usa."
+      ],
+      "pasos": [
+        "¿Es algo que se puede observar o tocar (beneficios, oficinas, conductas)? → parte visible.",
+        "¿Es algo que se cree o se valora (valores, creencias, propósito)? → parte que no se ve."
+      ],
+      "ejemplos": [
+        "Una empresa tiene una oficina moderna (se ve), pero su gente cree que equivocarse se castiga (no se ve): esa creencia pesa más que la oficina."
+      ],
+      "ojo": "Socialización no es «hacer amigos»: es el proceso por el que los nuevos aprenden cómo se hacen las cosas en la organización."
+    },
+    "tra_destruir": {
+      "unidad": "transformacion",
+      "categoria": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "intro": [
+        "Andrés Hatum, un especialista en organizaciones, lo explica con ironía: estos son cinco pasos «para destruir la cultura de una empresa».",
+        "Sirven para reconocer conductas que dañan la cultura aunque parezcan inofensivas."
+      ],
+      "notas": [
+        "1. Premiar al que se queda hasta tarde: promocionar a quien se queda hasta las 10 de la noche, aunque no lidere a nadie. Se premia parecer ocupado, no los resultados.",
+        "2. Frases sin escucha: llenar la oficina de frases como «somos un equipo», pero después no escuchar a nadie.",
+        "3. Feedback como reto público: usar la palabra «feedback» como excusa para retar a la gente delante de todos.",
+        "4. Hablar de innovación sin cambiar nada: que parezca que todo cambia, pero que todo siga igual. A eso se le dice gatopardismo.",
+        "5. El after para las redes: si todo falla, hacer una fiesta con DJ y fotos para las redes sociales, «para que no se diga que no hay cultura»."
+      ],
+      "ejemplos": [
+        "Una empresa anuncia un «programa de innovación», pero ningún proceso cambia y todas las ideas quedan en un cajón: es gatopardismo."
+      ],
+      "ojo": "La cultura no se arregla con eventos ni frases en la pared: se arregla cambiando lo que de verdad se premia y se hace."
+    },
+    "tra_transformar": {
+      "unidad": "transformacion",
+      "categoria": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "intro": [
+        "La transformación organizacional es un método estratégico para llevar a una empresa desde el presente hasta lo que proyecta para el futuro. Para lograrla hay que mirar de cerca el comportamiento de la organización, es decir, cómo interactúan las personas entre sí.",
+        "La pregunta de la clase no es solo si hay que transformarse, sino por qué hacerlo y qué cambios reales hacen falta. El caso IBM se usa para debatirlo."
+      ],
+      "notas": [
+        "Sobre qué se trabaja: la cultura, la estructura y la tecnología.",
+        "Cuatro estrategias para transformarse: cambiar toda la organización a la vez; cambiar un área, equipo o unidad de negocios; hacer experimentos aislados; o actualizar las prácticas una a una.",
+        "Transformación estructural: pasar de una pirámide con un jefe de proyecto arriba a equipos que se organizan solos, con un líder que sirve y facilita en lugar de mandar.",
+        "Las personas primero: «Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones»."
+      ],
+      "ejemplos": [
+        "Una empresa cambia primero cómo hace sus reuniones, después cómo evalúa el desempeño y después cómo arma los equipos: actualiza las prácticas una a una."
+      ],
+      "ojo": "Un organigrama nuevo con la misma gente trabajando igual no es una transformación."
+    },
+    "tra_diagnostico": {
+      "unidad": "transformacion",
+      "categoria": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "intro": [
+        "Antes de intervenir, la organización necesita entender qué cultura tiene, qué mensajes transmite, qué prácticas refuerza y qué cosas frenan el cambio.",
+        "El diagnóstico se ordena en seis ejes, cada uno con sus preguntas."
+      ],
+      "notas": [
+        "Ambiente: ¿cómo se vive el día a día?, ¿el clima es parecido entre los equipos?, ¿cómo son los vínculos entre las personas?",
+        "Creencias: ¿qué se valora y se reconoce?, ¿se permite la transparencia?, ¿las personas pueden desarrollarse?",
+        "Actitudes y comportamientos: ¿se trabaja con autonomía?, ¿hay colaboración entre personas y equipos?, ¿hay formas de trabajo compartidas?",
+        "Liderazgo: ¿los líderes son cercanos o distantes?, ¿generan confianza?, ¿son transformacionales o conservadores?",
+        "Comunicación: ¿la comunicación es fluida?, ¿hay un estilo común?, ¿la gente conoce la estrategia de la empresa?",
+        "Estructura y procesos: ¿la estructura es más horizontal o vertical?, ¿hay procesos que ordenen el trabajo?, ¿los roles y lo que se espera de cada uno están claros?"
+      ],
+      "ejemplos": [
+        "RRHH pregunta en una encuesta si los jefes generan confianza: está diagnosticando el eje de liderazgo."
+      ],
+      "ojo": "Primero se diagnostica y después se interviene, como un médico que no receta sin revisar al paciente."
+    },
+    "tra_farmacity": {
+      "unidad": "transformacion",
+      "categoria": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "intro": [
+        "Farmacity es una cadena argentina de farmacias que transformó su forma de organizarse. Es el caso que se estudia en la unidad.",
+        "Pasó de una estructura tradicional y jerárquica a un enfoque ágil y basado en las habilidades de las personas."
+      ],
+      "notas": [
+        "Nuevos roles: el modelo incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+        "Implementación gradual: empezó por algunos sectores y después avanzó hacia una transformación de toda la empresa.",
+        "Propósito e impacto: se puso en el centro un propósito de crear oportunidades y bienestar, con compromiso con la inclusión y el impacto social y ambiental.",
+        "Cambio de liderazgo: pasó de un liderazgo de control a uno de mentoría y autonomía de los equipos. En palabras de la empresa: un líder que, en vez de ubicarse arriba, acompaña para que el otro pueda desarrollarse."
+      ],
+      "ejemplos": [
+        "Un jefe que antes revisaba cada tarea pasa a ser mentor: acompaña y deja que el equipo decida."
+      ],
+      "ojo": "La transformación de Farmacity no fue de un día para el otro: fue gradual, de algunos sectores a toda la empresa."
+    },
+    "tra_temas": {
+      "unidad": "transformacion",
+      "categoria": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "intro": [
+        "La unidad cierra con una tarea grupal para investigar cuatro temas actuales de la gestión de personas. La clase solo los nombra; acá va una explicación básica de cada uno.",
+        "Clima laboral y EVP tienen su propia unidad en este juego."
+      ],
+      "notas": [
+        "Clima laboral y encuestas de clima: cómo se siente la gente en su trabajo y cómo se mide.",
+        "Employee Value Proposition (EVP): lo que la organización le ofrece a su gente a cambio de su trabajo.",
+        "ENPS (Employee Net Promoter Score): una medición de cuánto recomendarían los empleados su organización como lugar para trabajar.",
+        "Upskilling y reskilling: upskilling es mejorar las habilidades para hacer mejor el mismo trabajo; reskilling es aprender habilidades nuevas para pasar a otro puesto."
+      ],
+      "ejemplos": [
+        "Una empresa enseña inteligencia artificial a sus analistas para que hagan mejor su tarea (upskilling) y forma a cajeros para pasar a atención online (reskilling)."
+      ],
+      "ojo": "Upskilling = mismo puesto, mejores habilidades. Reskilling = habilidades nuevas para otro puesto."
+    },
+    "cli_glosario": {
+      "unidad": "clima_evp",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de clima y EVP",
+      "intro": [
+        "Esta unidad trata dos temas que se expusieron en clase: el clima laboral (cómo se siente la gente en su trabajo) y la propuesta de valor al empleado (qué le ofrece la organización).",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Clima laboral: el ambiente psicológico, organizacional y humano donde se dan las relaciones de trabajo. Es cómo se siente la gente en su trabajo.",
+        "Rotación: cuánta gente se va de la organización y tiene que ser reemplazada.",
+        "Ausentismo: cuánto falta la gente a su trabajo.",
+        "Encuesta de clima: un cuestionario para conocer la opinión de los empleados sobre su ambiente de trabajo.",
+        "EVP (Employee Value Proposition): en español, propuesta de valor al empleado. Es todo lo que la organización le ofrece a su gente a cambio de su trabajo.",
+        "Marca empleadora: la imagen que tiene una organización como lugar para trabajar."
+      ],
+      "ejemplos": [
+        "Una empresa con mal clima suele tener más rotación y más ausentismo: la gente se va o falta más."
+      ],
+      "ojo": "Clima no es lo mismo que cultura: la cultura son los valores y creencias compartidos; el clima es cómo se siente la gente en el día a día."
+    },
+    "cli_clima": {
+      "unidad": "clima_evp",
+      "categoria": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "intro": [
+        "El clima laboral es el ambiente psicológico, organizacional y humano donde se desarrollan las relaciones laborales. Puede afectar, para bien o para mal, la motivación y el rendimiento de las personas.",
+        "La exposición de clase lo descompone en cuatro características."
+      ],
+      "notas": [
+        "Espacio de trabajo adecuado: buena iluminación y ventilación, áreas separadas, y cumplir normas de seguridad y salud: equipos de protección, rutas de evacuación, limpieza y medidas contra contagios.",
+        "Organización y estandarización de procesos: un organigrama, roles y responsabilidades claros, procesos ordenados y las herramientas necesarias para trabajar bien.",
+        "Relaciones laborales: capacitación, buen trato y recompensas, como sueldos justos, beneficios u horarios flexibles. Un mal ambiente surge, por ejemplo, de la falta de vacaciones, días festivos o reconocimiento.",
+        "Comunicación interna: información a tiempo, por medio de los líderes, correos o boletines, y una comunicación abierta donde la gente pueda opinar y recibir devoluciones."
+      ],
+      "ejemplos": [
+        "Una oficina sin ventilación, sin salida de emergencia señalizada y con olor a humedad falla en el espacio de trabajo adecuado."
+      ],
+      "ojo": "El clima no depende de una sola cosa: el espacio, la organización, el trato y la comunicación se combinan."
+    },
+    "cli_importancia": {
+      "unidad": "clima_evp",
+      "categoria": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "intro": [
+        "Un buen clima no es solo «que la gente esté contenta»: tiene efectos concretos en los resultados de la organización.",
+        "La exposición también muestra ocho factores que influyen en el clima."
+      ],
+      "notas": [
+        "Mejora la productividad: un ambiente positivo, con buena comunicación y recursos, aumenta la productividad y el compromiso.",
+        "Reduce costos: con buen clima baja la rotación y el ausentismo, y con eso bajan los costos de contratar, entrevistar y capacitar gente nueva.",
+        "Facilita la misión y la visión: una cultura positiva, alineada con la misión, la visión y los valores, impulsa el desarrollo de la empresa y de su gente.",
+        "Factores que influyen: procesos y normativas claros, una política de compensaciones justa, una estructura organizativa clara, espacios y herramientas adecuados, el liderazgo, hacer participar a la gente en las decisiones y una filosofía institucional (visión, misión y valores) que todos conozcan.",
+        "Salario emocional: lo que la persona valora más allá del sueldo, como poder combinar su trabajo con sus objetivos personales y familiares."
+      ],
+      "ejemplos": [
+        "Una empresa que permite horarios flexibles para que la gente lleve a sus hijos a la escuela está ofreciendo salario emocional."
+      ],
+      "ojo": "Salario emocional no es plata: es todo lo que hace que el trabajo valga la pena más allá del sueldo."
+    },
+    "cli_encuesta": {
+      "unidad": "clima_evp",
+      "categoria": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "intro": [
+        "Una encuesta de clima laboral evalúa la opinión de los empleados sobre su ambiente de trabajo: su bienestar, sus relaciones y cómo ven a la empresa.",
+        "Sirve para obtener datos medibles, escuchar a la gente, detectar qué mejorar, armar estrategias de cambio y mejorar la satisfacción, la productividad, la lealtad y la rotación."
+      ],
+      "notas": [
+        "Encuesta de escala numérica: la persona responde con un número, por ejemplo del 1 al 10, del 1 al 5 o del 1 al 3. Mide de forma cuantificable el ánimo, la colaboración o el compromiso.",
+        "Encuesta con casillas: la persona marca opciones con significado, como «estoy de acuerdo» o «casi siempre». Es fácil de interpretar y da datos menos subjetivos; suele evaluar aspectos emocionales.",
+        "Encuesta formal: busca un informe completo de la organización, con distintos tipos de preguntas. Es programada y se repite periódicamente para ver tendencias.",
+        "Encuesta específica: se enfoca en un tema puntual, como la opinión sobre los jefes, los directivos, las instalaciones o los compañeros. Suele hacerse de forma virtual.",
+        "Buenas prácticas: comunicar con claridad para qué es, garantizar el anonimato, que la Dirección participe, que sea fácil de responder, dar tiempo dentro del horario laboral, mandar recordatorios, ofrecer pequeños incentivos, dar feedback y actuar sobre los resultados, y repetirla para hacer seguimiento."
+      ],
+      "pasos": [
+        "¿Se responde con un número? → escala numérica.",
+        "¿Se marcan opciones como «de acuerdo» o «casi siempre»? → con casillas.",
+        "¿Es un relevamiento completo y que se repite cada cierto tiempo? → formal.",
+        "¿Pregunta por un tema puntual (los jefes, las instalaciones)? → específica."
+      ],
+      "ejemplos": [
+        "Una encuesta que pregunta solo qué opina el personal de la nueva oficina es una encuesta específica."
+      ],
+      "ojo": "Si la gente teme que sepan qué respondió, no va a ser sincera: por eso el anonimato es clave."
+    },
+    "cli_evp": {
+      "unidad": "clima_evp",
+      "categoria": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "intro": [
+        "El EVP (Employee Value Proposition) es el conjunto único de beneficios y recompensas que una organización ofrece a sus empleados a cambio de sus habilidades, capacidades y experiencia.",
+        "Un EVP fuerte ayuda a atraer, comprometer y retener al mejor talento."
+      ],
+      "notas": [
+        "Compensación: sueldos competitivos, incentivos y bonos.",
+        "Beneficios: cobertura médica, vacaciones y programas de bienestar.",
+        "Oportunidades de desarrollo: capacitación, planes de carrera y crecimiento profesional.",
+        "Cultura y entorno laboral: valores, inclusión y ambiente de trabajo.",
+        "Equilibrio vida-trabajo: flexibilidad, trabajo remoto y cuidado de la salud mental."
+      ],
+      "pasos": [
+        "¿Es plata (sueldo, bono, incentivo)? → compensación.",
+        "¿Es algo extra que se da, como la prepaga? → beneficios.",
+        "¿Es aprender o crecer? → desarrollo.",
+        "¿Es cómo se trabaja y se convive? → cultura y entorno.",
+        "¿Es tiempo y flexibilidad para la vida personal? → equilibrio vida-trabajo."
+      ],
+      "ejemplos": [
+        "Google se conoce por su cultura de innovación y beneficios; Salesforce, por la diversidad y el impacto social; Unilever, por el desarrollo profesional y la sostenibilidad."
+      ],
+      "ojo": "Compensación y beneficios son pilares distintos: el bono es compensación; la cobertura médica es un beneficio."
+    },
+    "cli_evp_crear": {
+      "unidad": "clima_evp",
+      "categoria": "EVP",
+      "titulo": "Para qué sirve el EVP y cómo se crea",
+      "intro": [
+        "Un EVP claro le sirve a las dos partes: a los empleados les dice qué valora la empresa y cómo va a recompensar su aporte; a la empresa le mejora la retención, la satisfacción y la productividad, le baja la rotación y le trae mejores candidatos.",
+        "Además, aumenta el compromiso y la motivación, mejora la marca empleadora, baja los costos de reclutamiento e impulsa la innovación."
+      ],
+      "notas": [
+        "1. Conocer a los empleados: con encuestas, entrevistas y datos, para saber qué valoran de verdad.",
+        "2. Alinearlo con la cultura: el EVP tiene que estar de acuerdo con los valores y la misión de la empresa.",
+        "3. Comunicarlo con claridad: que empleados y candidatos lo entiendan.",
+        "4. Revisarlo y ajustarlo: adaptarlo a medida que cambian el negocio y el mercado laboral.",
+        "Rol de RRHH: diseñarlo y comunicarlo junto con los líderes, controlar cómo lo percibe la gente y asegurar que sea auténtico, es decir, que coincida con lo que la gente vive de verdad."
+      ],
+      "ejemplos": [
+        "Una empresa promete «equilibrio entre vida y trabajo», pero exige estar conectado todo el fin de semana: su EVP no es auténtico."
+      ],
+      "ojo": "Un EVP que promete algo que la gente no vive hace más daño que no tener EVP."
+    },
+    "lct_glosario": {
+      "unidad": "contrato_trabajo",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de la Ley de Contrato de Trabajo",
+      "intro": [
+        "La Ley de Contrato de Trabajo (Ley 20.744) es la ley argentina que regula la relación entre quien trabaja y quien emplea. En la cursada se ven las modalidades de contrato, cómo termina la relación y las vacaciones.",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Contrato de trabajo: el acuerdo por el que una persona trabaja para otra a cambio de un sueldo.",
+        "Empleador: la persona o empresa que contrata y paga el sueldo.",
+        "Persona trabajadora: quien presta el trabajo. La ley también la llama trabajador o empleado.",
+        "Antigüedad: el tiempo que la persona lleva trabajando para el mismo empleador.",
+        "Preaviso: el aviso anticipado de que la relación laboral va a terminar, para que la otra parte pueda organizarse.",
+        "Indemnización: el dinero que el empleador debe pagar para compensar un perjuicio, por ejemplo un despido sin causa.",
+        "Injuria grave: un incumplimiento tan serio de una de las partes que hace imposible seguir con la relación laboral.",
+        "Días corridos: se cuentan todos los días del calendario, incluidos sábados, domingos y feriados."
+      ],
+      "ejemplos": [
+        "Una empleada con 6 años de antigüedad recibe el preaviso de que su contrato termina en dos meses."
+      ],
+      "ojo": "Despedir «sin causa» no está prohibido: lo que pasa es que el empleador tiene que avisar con tiempo y pagar indemnización."
+    },
+    "lct_modalidades": {
+      "unidad": "contrato_trabajo",
+      "categoria": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "intro": [
+        "La regla general es el contrato por tiempo indeterminado: no tiene fecha de fin. Las demás modalidades son excepciones.",
+        "Las modalidades por tiempo determinado tienen que tener una causa concreta (objetiva) o una duración fijada por escrito. Si no la tienen, se presume que el contrato es por tiempo indeterminado."
+      ],
+      "notas": [
+        "Por tiempo indeterminado: la regla general; el contrato no tiene fecha de finalización.",
+        "A plazo fijo: tiene una duración pactada por escrito, con una fecha de fin.",
+        "De temporada: para actividades que se repiten solo en ciertas épocas del año, como el turismo de verano.",
+        "Eventual: para cubrir una necesidad extraordinaria o transitoria de la empresa, por ejemplo reemplazar a alguien de licencia.",
+        "A tiempo parcial: la persona trabaja menos horas que la jornada habitual.",
+        "De grupo o equipo: se contrata a un grupo de personas como conjunto, por ejemplo una orquesta.",
+        "Teletrabajo: el resumen de la cursada también lo menciona como modalidad: trabajar a distancia, con tecnología."
+      ],
+      "pasos": [
+        "¿No tiene fecha de fin ni una causa especial? → tiempo indeterminado.",
+        "¿Tiene una fecha de fin pactada por escrito? → plazo fijo.",
+        "¿Se repite solo en una época del año? → temporada.",
+        "¿Cubre algo extraordinario o transitorio? → eventual.",
+        "¿Son menos horas que la jornada habitual? → tiempo parcial.",
+        "¿Se contrata a un conjunto de personas? → grupo o equipo."
+      ],
+      "ejemplos": [
+        "Un hotel de Mar del Plata contrata al mismo mozo todos los veranos: contrato de temporada.",
+        "Una empresa contrata a alguien para reemplazar a una empleada durante su licencia: contrato eventual."
+      ],
+      "ojo": "Si un contrato «a plazo» no tiene causa ni duración escrita, la ley lo trata como si fuera por tiempo indeterminado."
+    },
+    "lct_despido": {
+      "unidad": "contrato_trabajo",
+      "categoria": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "intro": [
+        "El empleador puede terminar la relación de dos formas: sin justa causa o con justa causa.",
+        "Lo que cambia entre una y otra es qué tiene que pagar y qué tiene que cumplir."
+      ],
+      "notas": [
+        "Despido sin justa causa: el empleador decide terminar la relación sin un incumplimiento de la persona trabajadora. Tiene que dar preaviso y pagar indemnización.",
+        "Preaviso del empleador: 1 mes si la antigüedad no supera los 5 años; 2 meses si es mayor. Si no avisa, tiene que pagar una indemnización sustitutiva (el dinero que reemplaza ese aviso).",
+        "Indemnización por antigüedad: una vez superado el período de prueba, corresponde 1 sueldo por cada año de trabajo o fracción mayor de 3 meses, calculado sobre la mejor remuneración mensual, normal y habitual.",
+        "Despido con justa causa: cuando la persona trabajadora comete un incumplimiento tan grave (injuria grave) que impide seguir. La causa se comunica por escrito, con claridad, y después no se puede cambiar.",
+        "Bloqueos o tomas: antes de despedir por esa causa, el empleador tiene que intimar (pedir formalmente) que la conducta cese, salvo que haya daños a personas o bienes."
+      ],
+      "pasos": [
+        "¿Hubo un incumplimiento grave de la persona trabajadora? → puede ser con justa causa (por escrito y sin cambiar la causa después).",
+        "Si no lo hubo → sin justa causa: ¿cuánta antigüedad tiene? Hasta 5 años → 1 mes de preaviso; más de 5 → 2 meses.",
+        "Para la indemnización, contá los años trabajados: la fracción mayor de 3 meses cuenta como un año más."
+      ],
+      "ejemplos": [
+        "Una persona con 4 años y 5 meses de antigüedad es despedida sin causa: le corresponden 5 sueldos de indemnización, porque los 5 meses son más de 3."
+      ],
+      "ojo": "Si el empleador despide con causa, tiene que decir por escrito cuál es, y no puede cambiarla después."
+    },
+    "lct_renuncia": {
+      "unidad": "contrato_trabajo",
+      "categoria": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "intro": [
+        "La persona trabajadora también puede terminar la relación: renunciando o considerándose despedida por un incumplimiento grave del empleador.",
+        "Además, las dos partes pueden terminarla de común acuerdo."
+      ],
+      "notas": [
+        "Renuncia: para que valga, se hace con un telegrama laboral gratuito (en papel o digital) enviado personalmente al empleador, con validación de identidad, o ante la autoridad administrativa del trabajo.",
+        "Preaviso de la persona trabajadora: 15 días. Puede renunciar con o sin ese preaviso.",
+        "Despido indirecto: si el empleador comete una injuria grave (por ejemplo, no paga los sueldos), la persona trabajadora puede considerarse despedida. Tiene que comunicar la causa por escrito y con claridad.",
+        "Mutuo acuerdo: las dos partes acuerdan terminar la relación. Se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora."
+      ],
+      "ejemplos": [
+        "Un empleado no cobra su sueldo hace tres meses: puede considerarse despedido (despido indirecto), comunicándolo por escrito."
+      ],
+      "ojo": "Una renuncia por WhatsApp o por mail común no cumple la forma que pide la ley."
+    },
+    "lct_vacaciones": {
+      "unidad": "contrato_trabajo",
+      "categoria": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "intro": [
+        "Las vacaciones, que la ley llama licencia ordinaria anual, son pagas y continuas (se toman todas seguidas).",
+        "La cantidad de días depende de la antigüedad que la persona tenga al 31 de diciembre del año que corresponde."
+      ],
+      "notas": [
+        "Hasta 5 años de antigüedad: 14 días corridos.",
+        "Más de 5 y hasta 10 años: 21 días corridos.",
+        "Más de 10 y hasta 20 años: 28 días corridos.",
+        "Más de 20 años: 35 días corridos.",
+        "Requisito: para tener el período completo, hay que haber trabajado al menos la mitad de los días hábiles del año. Si no se llega, corresponde 1 día de vacaciones por cada 20 días de trabajo efectivo."
+      ],
+      "pasos": [
+        "Calculá la antigüedad al 31 de diciembre del año.",
+        "Ubicala en la escala: 14, 21, 28 o 35 días corridos.",
+        "Revisá si trabajó al menos la mitad de los días hábiles; si no, 1 día cada 20 trabajados."
+      ],
+      "ejemplos": [
+        "Una persona que al 31 de diciembre cumple 8 años de antigüedad tiene 21 días corridos de vacaciones."
+      ],
+      "ojo": "La antigüedad se mira al 31 de diciembre, no el día en que la persona pide las vacaciones."
+    }
+  }
+}

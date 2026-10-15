@@ -1,0 +1,160 @@
+[
+  {
+    "id": "directorio",
+    "termino": "Directorio",
+    "definicion": "El grupo de personas que conduce una empresa y toma sus decisiones más importantes.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))directorio(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "organigrama",
+    "termino": "Organigrama",
+    "definicion": "El dibujo que muestra cómo está organizada una empresa: sus áreas, sus puestos y quién depende de quién.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))organigramas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "legajo",
+    "termino": "Legajo",
+    "definicion": "La carpeta con los datos y documentos de cada empleado: contrato, licencias, sanciones, etc.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))legajos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "sindicato",
+    "termino": "Sindicato",
+    "definicion": "La organización que agrupa y representa a la gente de un mismo oficio o rubro.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))sindicatos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "delegado",
+    "termino": "Delegado",
+    "definicion": "La persona elegida por sus compañeros para representarlos dentro de la empresa.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))delegados?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "stakeholders",
+    "termino": "Stakeholders",
+    "definicion": "Todas las personas o grupos interesados en una organización: empleados, clientes, dueños, proveedores.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))stakeholders?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "est_glosario"
+    ]
+  },
+  {
+    "id": "analytics",
+    "termino": "Analytics",
+    "definicion": "Analizar datos para tomar mejores decisiones.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))analytics(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "feedback",
+    "termino": "Feedback",
+    "definicion": "Una devolución sobre cómo hizo alguien su trabajo, para que pueda mejorar.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))feedback(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "tra_glosario"
+    ]
+  },
+  {
+    "id": "cio-cto",
+    "termino": "CIO y CTO",
+    "definicion": "Siglas en inglés de los responsables de tecnología de una empresa: el director de sistemas (CIO) y el director técnico (CTO).",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))CIO(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "ceo",
+    "termino": "CEO",
+    "definicion": "Sigla en inglés del máximo responsable de una empresa, el director general.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))CEO(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "pyme",
+    "termino": "Pyme",
+    "definicion": "Una empresa pequeña o mediana.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))pymes?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "bono",
+    "termino": "Bono",
+    "definicion": "Un pago extra que se da, por ejemplo, cuando se cumplen ciertos resultados.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))bonos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "prepaga",
+    "termino": "Prepaga",
+    "definicion": "Una empresa privada de cobertura médica que se paga todos los meses.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))prepagas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "jornada",
+    "termino": "Jornada",
+    "definicion": "La cantidad de horas que se trabaja por día o por semana.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))jornadas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "remuneracion",
+    "termino": "Remuneración",
+    "definicion": "Lo que se paga por el trabajo; otra forma de decir sueldo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))remuneraci(?:ón|ones)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "periodo-prueba",
+    "termino": "Período de prueba",
+    "definicion": "Los primeros meses de un trabajo, en los que la ley permite terminar la relación con menos costos.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))per[ií]odo de prueba(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "telegrama",
+    "termino": "Telegrama laboral",
+    "definicion": "Un telegrama gratuito, en papel o digital, que se usa para comunicaciones formales entre trabajador y empleador.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))telegramas? laboral(?:es)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "escritura",
+    "termino": "Escritura pública",
+    "definicion": "Un documento que se firma ante un escribano y que tiene valor oficial.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))escritura pública(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "autoridad-trabajo",
+    "termino": "Autoridad del trabajo",
+    "definicion": "El organismo del Estado que controla que se cumplan las leyes laborales, como el Ministerio de Trabajo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))autoridad (?:administrativa )?del trabajo(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "licencia",
+    "termino": "Licencia",
+    "definicion": "Un permiso para no trabajar durante un tiempo, por ejemplo por maternidad o enfermedad.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))licencias?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?=\\s+(?:por|de maternidad))",
+    "definidoEn": []
+  },
+  {
+    "id": "mentor",
+    "termino": "Mentor",
+    "definicion": "Alguien con experiencia que acompaña a otra persona para que crezca, en lugar de darle órdenes.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))mentor(?:es|a)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "jerarquico",
+    "termino": "Jerárquico",
+    "definicion": "Organizado en niveles, donde cada jefe manda sobre los de abajo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))jerárquic(?:o|a|os|as)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  }
+]

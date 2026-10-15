@@ -1,0 +1,82 @@
+[
+  {
+    "id": "err-tra-iceberg",
+    "titulo": "El iceberg de la cultura",
+    "oraciones": [
+      "En el iceberg, la parte visible es la más chica.",
+      "Los beneficios y el entorno físico están en la parte que se ve.",
+      "Los valores y las creencias están en la parte visible del iceberg.",
+      "Lo que no se ve es lo que más pesa en cómo se comporta la gente.",
+      "La misión está en la base del iceberg, debajo del agua."
+    ],
+    "incorrecta": 2,
+    "correccion": "Los valores y las creencias están en la parte del iceberg que no se ve.",
+    "pista": "Un elemento está del lado equivocado del agua.",
+    "explicacion": "Los valores y las creencias están debajo del agua: no se ven, pero guían el comportamiento. Lo visible son cosas como los beneficios, el entorno físico y las conductas.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "err-tra-forma",
+    "titulo": "Cómo se forma la cultura",
+    "oraciones": [
+      "Los criterios de selección influyen en la cultura de una organización.",
+      "La filosofía de los fundadores puede marcar la cultura por décadas.",
+      "La socialización es la forma en que los nuevos aprenden cómo funciona la organización.",
+      "La alta gerencia no tiene influencia en la cultura de la organización.",
+      "Los colaboradores aprenden la cultura con historias, rituales, símbolos y lenguaje."
+    ],
+    "incorrecta": 3,
+    "correccion": "La alta gerencia es uno de los factores que forman la cultura de la organización.",
+    "pista": "Revisá la lista de factores que forman la cultura.",
+    "explicacion": "La alta gerencia es uno de los cuatro factores que forman la cultura, junto con los criterios de selección, la filosofía de los fundadores y la socialización.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "err-tra-hatum",
+    "titulo": "Cómo destruir la cultura",
+    "oraciones": [
+      "Promocionar a quien se queda hasta tarde premia parecer ocupado.",
+      "Llenar la oficina de frases sin escuchar a la gente daña la cultura.",
+      "Usar el feedback como excusa para retar en público daña la cultura.",
+      "El gatopardismo es cambiar todo de verdad en poco tiempo.",
+      "Una fiesta para las redes sociales no reemplaza una cultura real."
+    ],
+    "incorrecta": 3,
+    "correccion": "El gatopardismo es aparentar que se cambia mientras todo sigue igual.",
+    "pista": "Una palabra está definida al revés.",
+    "explicacion": "El gatopardismo es hablar de innovación para que parezca que todo cambia, mientras todo sigue igual.",
+    "libro": "tra_destruir"
+  },
+  {
+    "id": "err-tra-transformar",
+    "titulo": "Transformarse",
+    "oraciones": [
+      "Para transformarse hay que trabajar sobre la cultura, la estructura y la tecnología.",
+      "Una estrategia posible es hacer experimentos aislados.",
+      "Cambiar el organigrama alcanza para transformar una organización.",
+      "En la transformación estructural aparecen equipos que se organizan solos.",
+      "El cambio cultural empieza por un diagnóstico de la cultura actual."
+    ],
+    "incorrecta": 2,
+    "correccion": "Cambiar el organigrama no alcanza: también tienen que cambiar las personas.",
+    "pista": "Pensá en quiénes se transforman, según la frase de la clase.",
+    "explicacion": "«Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones.» Sin cambio en la gente, un organigrama nuevo no transforma nada.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "err-tra-farmacity",
+    "titulo": "El caso Farmacity",
+    "oraciones": [
+      "Farmacity pasó de una estructura jerárquica a un enfoque ágil.",
+      "Su modelo incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+      "La implementación fue inmediata, en toda la empresa de una sola vez.",
+      "El caso destaca el propósito y el impacto social y ambiental.",
+      "El liderazgo pasó del control a la mentoría y la autonomía."
+    ],
+    "incorrecta": 2,
+    "correccion": "La implementación fue gradual: empezó por algunos sectores y después avanzó.",
+    "pista": "Una oración describe mal cómo se llevó a cabo el cambio.",
+    "explicacion": "En Farmacity la implementación fue gradual: comenzó en sectores específicos y avanzó hacia toda la empresa.",
+    "libro": "tra_farmacity"
+  }
+]

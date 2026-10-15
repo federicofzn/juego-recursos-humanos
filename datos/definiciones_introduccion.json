@@ -1,0 +1,143 @@
+[
+  {
+    "id": "def-int-atraer",
+    "grupo": "acciones",
+    "termino": "Atraer",
+    "definicion": "Conseguir que las personas que la organización necesita quieran sumarse a ella.",
+    "ejemplo": "Participar de ferias de empleo en universidades.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "def-int-retener",
+    "grupo": "acciones",
+    "termino": "Retener",
+    "definicion": "Lograr que las personas valiosas que ya trabajan en la organización quieran quedarse.",
+    "ejemplo": "Mejorar la propuesta de carrera de los mejores vendedores para que no acepten otra oferta.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "def-int-motivar",
+    "grupo": "acciones",
+    "termino": "Motivar",
+    "definicion": "Generar condiciones para que las personas tengan ganas de dar lo mejor en su trabajo.",
+    "ejemplo": "Reconocer cada mes los mejores aportes de un equipo desganado.",
+    "libro": "intro_gestion",
+    "pista": "Pensá en este ejemplo: reconocer cada mes los aportes de un equipo desganado."
+  },
+  {
+    "id": "def-int-socio",
+    "grupo": "ulrich",
+    "termino": "Socio estratégico",
+    "definicion": "Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen.",
+    "ejemplo": "La gerenta de RRHH arma el plan del año con el directorio.",
+    "libro": "intro_ulrich",
+    "pista": "Pensá en este ejemplo: la gerenta de RRHH participa de las reuniones del directorio."
+  },
+  {
+    "id": "def-int-agente",
+    "grupo": "ulrich",
+    "termino": "Agente de cambio",
+    "definicion": "Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación.",
+    "ejemplo": "RRHH rediseña el organigrama de un área a partir de una encuesta.",
+    "libro": "intro_ulrich",
+    "pista": "Pensá en este ejemplo: RRHH lidera el cambio en la forma de trabajar de un área completa."
+  },
+  {
+    "id": "def-int-experto",
+    "grupo": "ulrich",
+    "termino": "Experto en administración y gestión",
+    "definicion": "Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento.",
+    "ejemplo": "El equipo que liquida los sueldos cada mes.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "def-int-lider",
+    "grupo": "ulrich",
+    "termino": "Líder de efectividad y socio de trabajadores",
+    "definicion": "Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad.",
+    "ejemplo": "Una analista que coordina con el delegado del sindicato.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "def-int-quienes",
+    "grupo": "mckinsey",
+    "termino": "Quiénes somos (McKinsey)",
+    "definicion": "Tener claro por qué existe la organización, qué hace y cómo funciona.",
+    "ejemplo": "Una empresa revisa y explica a todos para qué existe.",
+    "libro": "intro_mckinsey",
+    "pista": "Pensá en este ejemplo: una empresa que le explica a su gente su razón de ser."
+  },
+  {
+    "id": "def-int-operamos",
+    "grupo": "mckinsey",
+    "termino": "Cómo operamos (McKinsey)",
+    "definicion": "Aplanar la organización con equipos que deciden rápido y cuidan a las personas como el capital más escaso.",
+    "ejemplo": "Eliminar dos niveles de jefaturas.",
+    "libro": "intro_mckinsey"
+  },
+  {
+    "id": "def-int-crecemos",
+    "grupo": "mckinsey",
+    "termino": "Cómo crecemos (McKinsey)",
+    "definicion": "Adelantarse aprendiendo más rápido que otros, aprovechando los datos y la red de socios.",
+    "ejemplo": "Invertir para que los equipos aprendan antes que la competencia.",
+    "libro": "intro_mckinsey",
+    "pista": "Pensá en este ejemplo: invertir para sacarle ventaja a la competencia con nuevos conocimientos."
+  },
+  {
+    "id": "def-int-at",
+    "grupo": "agile",
+    "termino": "Agilidad técnica",
+    "definicion": "Implantación ágil que cambia las metodologías y los procesos de trabajo; la lidera el área de tecnología.",
+    "ejemplo": "Un equipo de sistemas empieza a trabajar con Scrum.",
+    "libro": "intro_agile"
+  },
+  {
+    "id": "def-int-ao",
+    "grupo": "agile",
+    "termino": "Agilidad organizacional",
+    "definicion": "Implantación ágil que cambia los valores y la forma de organizarse de toda la organización; la lidera RRHH.",
+    "ejemplo": "Todas las áreas pasan a equipos que se organizan solos.",
+    "libro": "intro_agile"
+  },
+  {
+    "id": "def-int-agile",
+    "grupo": "agile",
+    "termino": "RRHH Agile",
+    "definicion": "Llevar a la gestión de personas una forma de trabajo flexible, colaborativa y rápida para responder a los cambios.",
+    "ejemplo": "RRHH revisa cada pocas semanas sus prácticas y las ajusta.",
+    "libro": "intro_agile"
+  },
+  {
+    "id": "def-int-planif",
+    "grupo": "proceso",
+    "termino": "Planificación de RRHH",
+    "definicion": "Primera etapa del proceso: definir qué personas va a necesitar la organización.",
+    "ejemplo": "Calcular cuántos vendedores harán falta el año que viene.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "def-int-reclut",
+    "grupo": "proceso",
+    "termino": "Reclutamiento",
+    "definicion": "Buscar y atraer candidatos para un puesto.",
+    "ejemplo": "Publicar una búsqueda en una bolsa de empleo.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "def-int-selec",
+    "grupo": "proceso",
+    "termino": "Selección",
+    "definicion": "Elegir, entre los candidatos, a quienes van a ingresar.",
+    "ejemplo": "Entrevistar a cinco postulantes y quedarse con uno.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "def-int-orient",
+    "grupo": "proceso",
+    "termino": "Orientación",
+    "definicion": "Recibir e integrar a quien ingresa a la organización.",
+    "ejemplo": "Presentarle la empresa y su equipo en la primera semana.",
+    "libro": "intro_proceso"
+  }
+]

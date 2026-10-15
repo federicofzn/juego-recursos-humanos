@@ -1,0 +1,116 @@
+[
+  {
+    "id": "def-tra-seleccion",
+    "grupo": "formacion",
+    "termino": "Criterios de selección (cultura)",
+    "definicion": "La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura.",
+    "ejemplo": "Contratar solo a quienes comparten los valores de la empresa.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "def-tra-fundadores",
+    "grupo": "formacion",
+    "termino": "Filosofía de los fundadores",
+    "definicion": "Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja.",
+    "ejemplo": "«El cliente siempre tiene la razón», repetido desde hace treinta años.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "def-tra-socializacion",
+    "grupo": "formacion",
+    "termino": "Socialización",
+    "definicion": "El proceso por el que quienes ingresan aprenden cómo funciona la organización.",
+    "ejemplo": "Una semana junto a un compañero que muestra cómo se hacen las cosas.",
+    "libro": "tra_cultura"
+  },
+  {
+    "id": "def-tra-gerencia",
+    "grupo": "formacion",
+    "termino": "Alta gerencia (cultura)",
+    "definicion": "Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización.",
+    "ejemplo": "El directorio que festeja los errores que dejan aprendizaje.",
+    "libro": "tra_cultura",
+    "pista": "Pensá en este ejemplo: los dueños y gerentes que festejan los errores que dejan aprendizaje."
+  },
+  {
+    "id": "def-tra-toda",
+    "grupo": "estrategias",
+    "termino": "Transformar toda la organización",
+    "definicion": "Estrategia de cambio que abarca a todas las áreas a la vez.",
+    "ejemplo": "Toda la empresa pasa al mismo tiempo a equipos ágiles.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "def-tra-area",
+    "grupo": "estrategias",
+    "termino": "Transformar un área o unidad",
+    "definicion": "Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios.",
+    "ejemplo": "Solo marketing pasa a trabajar en equipos ágiles.",
+    "libro": "tra_transformar",
+    "pista": "Pensá en este ejemplo: solo marketing pasa a trabajar de forma ágil."
+  },
+  {
+    "id": "def-tra-experimentos",
+    "grupo": "estrategias",
+    "termino": "Experimentos aislados",
+    "definicion": "Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas.",
+    "ejemplo": "Probar durante dos meses una forma de trabajo en un solo proyecto.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "def-tra-practicas",
+    "grupo": "estrategias",
+    "termino": "Actualizar las prácticas una a una",
+    "definicion": "Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia.",
+    "ejemplo": "Primero las reuniones, después las evaluaciones, después los equipos.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "def-tra-transformacion",
+    "grupo": "conceptos",
+    "termino": "Transformación organizacional",
+    "definicion": "Método estratégico para llevar a una empresa desde el presente hasta sus proyecciones a futuro.",
+    "ejemplo": "Una cadena de farmacias que deja la jerarquía para pasar a la agilidad.",
+    "libro": "tra_transformar"
+  },
+  {
+    "id": "def-tra-gatopardismo",
+    "grupo": "conceptos",
+    "termino": "Gatopardismo",
+    "definicion": "Aparentar que se cambia mientras todo sigue igual.",
+    "ejemplo": "Anunciar un programa de innovación sin modificar ningún proceso.",
+    "libro": "tra_destruir"
+  },
+  {
+    "id": "def-tra-diagnostico",
+    "grupo": "conceptos",
+    "termino": "Diagnóstico cultural",
+    "definicion": "Entender la cultura actual antes de intervenir: qué transmite, qué refuerza y qué frena el cambio.",
+    "ejemplo": "Preguntar si los jefes generan confianza antes de lanzar un cambio.",
+    "libro": "tra_diagnostico"
+  },
+  {
+    "id": "def-tra-upskilling",
+    "grupo": "temas",
+    "termino": "Upskilling",
+    "definicion": "Mejorar las habilidades de una persona para que haga mejor su mismo trabajo.",
+    "ejemplo": "Enseñar nuevas herramientas a los analistas contables.",
+    "libro": "tra_temas"
+  },
+  {
+    "id": "def-tra-reskilling",
+    "grupo": "temas",
+    "termino": "Reskilling",
+    "definicion": "Enseñar habilidades nuevas a una persona para que pase a otro puesto.",
+    "ejemplo": "Formar a cajeros para que atiendan la venta online.",
+    "libro": "tra_temas"
+  },
+  {
+    "id": "def-tra-enps",
+    "grupo": "temas",
+    "termino": "ENPS",
+    "definicion": "Medición de cuánto recomendarían los empleados su organización como lugar para trabajar.",
+    "ejemplo": "Preguntar del 0 al 10 si le dirías a un amigo que entre a tu empresa.",
+    "libro": "tra_temas"
+  }
+]

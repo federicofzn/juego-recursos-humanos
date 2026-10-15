@@ -1,0 +1,142 @@
+{
+  "unidad": {
+    "key": "introduccion",
+    "titulo": "Introducción a RRHH"
+  },
+  "entradas": {
+    "intro_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Recursos Humanos",
+      "intro": [
+        "Estas palabras aparecen en toda la materia. Si en otra entrada encontrás una que no entendés, volvé acá.",
+        "Muchas vienen del inglés, porque las empresas las usan así todos los días."
+      ],
+      "notas": [
+        "Recursos Humanos (RRHH): el área de una organización que se ocupa de las personas que trabajan en ella: buscarlas, incorporarlas, formarlas, pagarles, cuidarlas y acompañar su salida.",
+        "Organización: cualquier grupo de personas que trabaja junto para lograr un objetivo. Una empresa, un hospital o una universidad son organizaciones.",
+        "Colaborador: otra forma de decir empleado. Es la persona que trabaja en la organización.",
+        "Talento: las personas valiosas para la organización, por lo que saben y por lo que pueden aportar.",
+        "Gestión: organizar y conducir algo para lograr un resultado. «Gestionar personas» es organizar y conducir el trabajo de la gente.",
+        "Desempeño: qué tan bien hace una persona su trabajo.",
+        "Compensación: lo que la persona recibe a cambio de su trabajo, sobre todo el sueldo.",
+        "Beneficios: lo que la organización da además del sueldo, como una prepaga, días extra o descuentos.",
+        "Capacitación: enseñarle a una persona lo que necesita saber o hacer en su trabajo."
+      ],
+      "ejemplos": [
+        "Una empresa busca un vendedor (atraer talento), le enseña cómo trabajar (capacitación), le paga un sueldo (compensación) y mide cómo vende (desempeño)."
+      ],
+      "ojo": "RRHH no es solo «el que liquida los sueldos»: también participa de las decisiones importantes de la organización."
+    },
+    "intro_gestion": {
+      "categoria": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "intro": [
+        "La materia arranca con una pregunta: ¿qué tiene que hacer el equipo de RRHH en una organización?",
+        "La respuesta de la cursada es que RRHH no se ocupa solo de trámites: conduce a las personas para que la organización logre sus objetivos."
+      ],
+      "notas": [
+        "Gestión de RRHH: es el sistema de estrategias y actividades que busca conducir con éxito a los empleados, en todos los niveles de la organización, para lograr los objetivos de la organización.",
+        "Atraer: conseguir que las personas que la organización necesita quieran sumarse a ella.",
+        "Retener: lograr que las personas valiosas quieran quedarse y no se vayan, por ejemplo, a la competencia.",
+        "Motivar: generar las condiciones para que las personas tengan ganas de dar lo mejor en su trabajo.",
+        "Más que tareas sueltas: atraer, retener y motivar ordenan todo el trabajo del área, más allá de lo administrativo."
+      ],
+      "pasos": [
+        "¿La acción busca que alguien de afuera quiera entrar a la organización? → atraer.",
+        "¿Busca que alguien que ya trabaja ahí no se vaya? → retener.",
+        "¿Busca que las personas tengan más ganas de trabajar bien? → motivar."
+      ],
+      "ejemplos": [
+        "Una empresa participa de ferias de empleo en universidades: busca atraer talento.",
+        "Una empresa mejora la propuesta a sus mejores vendedores para que no se vayan: busca retenerlos."
+      ],
+      "ojo": "Atraer mira hacia afuera (los que todavía no están). Retener mira hacia adentro (los que ya están)."
+    },
+    "intro_ulrich": {
+      "categoria": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "intro": [
+        "Dave Ulrich es un autor que propuso pensar a RRHH como un «consultor interno»: un socio que ayuda al resto de la organización, y no solo un sector administrativo.",
+        "Su modelo tiene 4 roles con 16 responsabilidades, ordenados en dos ejes. Eje vertical: arriba, el enfoque estratégico (mira al futuro); abajo, el enfoque operativo (el día a día). Eje horizontal: a la izquierda, la orientación a procesos; a la derecha, la orientación a personas."
+      ],
+      "notas": [
+        "Socio estratégico (estratégico y orientado a procesos): participa del plan estratégico, trabaja como socio de las áreas del negocio («business partner») y cuida la cultura y la imagen de la organización.",
+        "Agente de cambio (estratégico y orientado a personas): se ocupa del reclutamiento, el diseño organizacional, las encuestas y sus planes de acción, las mediciones de desempeño y la formación y desarrollo.",
+        "Experto en administración y gestión (operativo y orientado a procesos): se ocupa de la compensación, los beneficios, los sistemas de información y el cumplimiento de normas.",
+        "Líder de efectividad y socio de los trabajadores (operativo y orientado a personas): se ocupa de las relaciones con los trabajadores, las relaciones laborales, la seguridad y prevención y la diversidad."
+      ],
+      "pasos": [
+        "¿La tarea mira al futuro de la organización o resuelve el día a día? → estratégico u operativo.",
+        "¿Se trata de procesos y sistemas, o de personas y relaciones? → procesos o personas.",
+        "Cruzá las dos respuestas para encontrar el rol."
+      ],
+      "ejemplos": [
+        "La gerenta de RRHH participa del plan estratégico del año con el directorio: socio estratégico.",
+        "El equipo que liquida sueldos y administra los beneficios: experto en administración y gestión."
+      ],
+      "ojo": "Los dos roles de arriba son estratégicos; los dos de abajo, operativos. Los dos de la izquierda miran procesos; los dos de la derecha, personas."
+    },
+    "intro_mckinsey": {
+      "categoria": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "intro": [
+        "McKinsey es una consultora internacional. En el material de la cursada aparece su idea de que los líderes de RRHH pueden preparar a la organización para el cambio enfocándose en tres cosas: el propósito, el valor y la cultura.",
+        "Alrededor de ese centro aparecen seis elementos: toma de decisiones, aprendizaje, estructura, plataforma, talento y ecosistema."
+      ],
+      "notas": [
+        "Propósito, valor y cultura: son el centro del modelo. El líder de RRHH ya no solo administra: ayuda a la organización a saber para qué existe y cómo trabaja.",
+        "Quiénes somos: tener claro el «por qué», el «qué» y el «cómo» de la organización: por qué existe, qué hace y cómo funciona.",
+        "Cómo operamos: aplanar la organización (menos niveles de jefes), con equipos que deciden rápido y tratan a las personas como el capital más escaso.",
+        "Cómo crecemos: adelantarse a los demás aprendiendo más rápido, sacando valor de los datos y aprovechando el ecosistema (la red de socios, clientes y proveedores)."
+      ],
+      "ejemplos": [
+        "Una empresa elimina niveles jerárquicos y arma equipos que deciden solos: trabaja sobre «cómo operamos»."
+      ],
+      "ojo": "La idea general es que el liderazgo de RRHH cambia junto con las necesidades de la organización y necesita una mirada estratégica."
+    },
+    "intro_proceso": {
+      "categoria": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "intro": [
+        "La gestión de personas se puede pensar como un proceso: una secuencia ordenada de etapas, que ocurre dentro de un entorno (el contexto que rodea a la organización).",
+        "Cada tramo del proceso termina en un resultado distinto."
+      ],
+      "notas": [
+        "Planificación de RRHH: es el punto de partida. Se define qué personas va a necesitar la organización. De acá salen dos caminos: incorporar gente o desvincular gente.",
+        "Reclutamiento y selección: primero se buscan candidatos (reclutamiento) y después se elige entre ellos (selección). Resultado: identificar y elegir empleados competentes.",
+        "Desvinculación: la salida de personas de la organización, que también se planifica.",
+        "Orientación y capacitación: se recibe e integra a quien ingresa (orientación) y se le enseña lo que necesita (capacitación). Resultado: empleados adaptados, competentes y con conocimientos actualizados.",
+        "Evaluación de desempeño, desarrollo de carrera y compensación y beneficios: se mide cómo trabaja cada persona, se planifica su crecimiento y se la recompensa. Resultado: empleados competentes y de alto rendimiento."
+      ],
+      "pasos": [
+        "Planificación → reclutamiento → selección.",
+        "Orientación → capacitación.",
+        "Evaluación de desempeño → desarrollo de carrera ↔ compensación y beneficios."
+      ],
+      "ejemplos": [
+        "Una empresa elige a sus nuevos ingresantes (selección) y en su primera semana les presenta la empresa y a sus equipos (orientación)."
+      ],
+      "ojo": "Reclutar es buscar candidatos; seleccionar es elegir entre ellos. Primero se recluta, después se selecciona."
+    },
+    "intro_agile": {
+      "categoria": "Procesos",
+      "titulo": "RRHH Agile",
+      "intro": [
+        "«Agile» (ágil) es una forma de trabajar más flexible: equipos que se organizan solos, colaboran más y responden rápido a los cambios. Nació en los equipos de tecnología y después se llevó al resto de la organización.",
+        "El material de la cursada compara dos formas de implantarla: la agilidad técnica (AT), que cambia las metodologías de trabajo, y la agilidad organizacional (AO), que cambia los valores y la forma de organizarse."
+      ],
+      "notas": [
+        "Quién lidera: en la agilidad técnica, el responsable de tecnología (CIO o CTO); en la agilidad organizacional, RRHH.",
+        "En qué se apoya: la agilidad técnica, en metodologías y procesos; la organizacional, en valores y comportamientos.",
+        "Qué genera el valor: en la técnica, seguir los procesos; en la organizacional, las personas, que se organizan solas (autogobierno).",
+        "Equipos y roles: en la técnica, equipos autogestionados; en la organizacional, equipos autogobernados, donde el rol clásico de RRHH se diluye.",
+        "Valores: en la técnica, aportar valor, recibir bien el cambio y la transparencia; en la organizacional, respeto, confianza, horizontalidad y autogobierno.",
+        "Conocimientos que aparecen: metodologías como Scrum y Kanban, y modelos como la holocracia o las organizaciones Teal, que reparten las decisiones entre los equipos."
+      ],
+      "ejemplos": [
+        "Una empresa decide que todas sus áreas trabajen en equipos que se organizan solos, y RRHH lidera el cambio: es agilidad organizacional."
+      ],
+      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura)."
+    }
+  }
+}

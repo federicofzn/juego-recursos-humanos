@@ -1,0 +1,126 @@
+[
+  {
+    "id": "def-lct-indeterminado",
+    "grupo": "modalidades",
+    "termino": "Contrato por tiempo indeterminado",
+    "definicion": "La regla general: un contrato de trabajo sin fecha de finalización.",
+    "ejemplo": "Un administrativo contratado sin fecha de fin ni causa especial.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "def-lct-plazo",
+    "grupo": "modalidades",
+    "termino": "Contrato a plazo fijo",
+    "definicion": "Contrato con una duración pactada por escrito y una fecha de fin.",
+    "ejemplo": "Un contrato firmado por dieciocho meses para una obra.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "def-lct-temporada",
+    "grupo": "modalidades",
+    "termino": "Contrato de temporada",
+    "definicion": "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+    "ejemplo": "Los mozos de un hotel de Mar del Plata, cada verano.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "def-lct-eventual",
+    "grupo": "modalidades",
+    "termino": "Contrato eventual",
+    "definicion": "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+    "ejemplo": "Reemplazar a una empleada durante su licencia por maternidad.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "def-lct-parcial",
+    "grupo": "modalidades",
+    "termino": "Contrato a tiempo parcial",
+    "definicion": "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+    "ejemplo": "Un estudiante que trabaja cuatro horas por día en un comercio.",
+    "libro": "lct_modalidades",
+    "pista": "Pensá en este ejemplo: un estudiante que atiende un comercio solo a la mañana."
+  },
+  {
+    "id": "def-lct-equipo",
+    "grupo": "modalidades",
+    "termino": "Contrato de grupo o equipo",
+    "definicion": "Contrato que incorpora a un conjunto de personas como una unidad.",
+    "ejemplo": "Un teatro que contrata a una orquesta completa.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "def-lct-sincausa",
+    "grupo": "extincion",
+    "termino": "Despido sin justa causa",
+    "definicion": "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+    "ejemplo": "Una empresa que reduce personal por una reorganización.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "def-lct-concausa",
+    "grupo": "extincion",
+    "termino": "Despido con justa causa",
+    "definicion": "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+    "ejemplo": "Un empleado que roba mercadería del depósito.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "def-lct-renuncia",
+    "grupo": "extincion",
+    "termino": "Renuncia",
+    "definicion": "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+    "ejemplo": "Una empleada que consiguió otro empleo y avisa que se va.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "def-lct-indirecto",
+    "grupo": "extincion",
+    "termino": "Despido indirecto",
+    "definicion": "La persona trabajadora se considera despedida por un incumplimiento grave del empleador.",
+    "ejemplo": "Un empleado que no cobra su sueldo hace tres meses.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "def-lct-mutuo",
+    "grupo": "extincion",
+    "termino": "Mutuo acuerdo",
+    "definicion": "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente.",
+    "ejemplo": "Empresa y empleado firman juntos el fin de la relación ante la autoridad laboral.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "def-lct-preaviso",
+    "grupo": "terminos",
+    "termino": "Preaviso",
+    "definicion": "Aviso anticipado de que la relación laboral va a terminar.",
+    "ejemplo": "Avisar con dos meses de anticipación a alguien con siete años en la empresa.",
+    "libro": "lct_despido",
+    "pista": "Pensá en este ejemplo: decirle a alguien con siete años en la empresa que su último día será dentro de dos meses."
+  },
+  {
+    "id": "def-lct-indemnizacion",
+    "grupo": "terminos",
+    "termino": "Indemnización por antigüedad",
+    "definicion": "Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa.",
+    "ejemplo": "Cinco sueldos para alguien con cuatro años y cinco meses.",
+    "libro": "lct_despido",
+    "pista": "Pensá en este ejemplo: lo que se le debe a alguien con cuatro años en la empresa cuando lo echan sin motivo."
+  },
+  {
+    "id": "def-lct-sustitutiva",
+    "grupo": "terminos",
+    "termino": "Indemnización sustitutiva",
+    "definicion": "El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía.",
+    "ejemplo": "Pagar un mes de sueldo por despedir de un día para el otro.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "def-lct-licencia",
+    "grupo": "terminos",
+    "termino": "Licencia ordinaria",
+    "definicion": "Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad.",
+    "ejemplo": "Veintiún días corridos para alguien con ocho años en la empresa.",
+    "libro": "lct_vacaciones",
+    "pista": "Pensá en este ejemplo: el descanso pago de tres semanas de alguien con ocho años en la empresa."
+  }
+]

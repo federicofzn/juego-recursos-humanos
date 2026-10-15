@@ -1,0 +1,135 @@
+{
+  "unidad": {
+    "key": "clima_evp",
+    "titulo": "Clima y EVP"
+  },
+  "entradas": {
+    "cli_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de clima y EVP",
+      "intro": [
+        "Esta unidad trata dos temas que se expusieron en clase: el clima laboral (cómo se siente la gente en su trabajo) y la propuesta de valor al empleado (qué le ofrece la organización).",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Clima laboral: el ambiente psicológico, organizacional y humano donde se dan las relaciones de trabajo. Es cómo se siente la gente en su trabajo.",
+        "Rotación: cuánta gente se va de la organización y tiene que ser reemplazada.",
+        "Ausentismo: cuánto falta la gente a su trabajo.",
+        "Encuesta de clima: un cuestionario para conocer la opinión de los empleados sobre su ambiente de trabajo.",
+        "EVP (Employee Value Proposition): en español, propuesta de valor al empleado. Es todo lo que la organización le ofrece a su gente a cambio de su trabajo.",
+        "Marca empleadora: la imagen que tiene una organización como lugar para trabajar."
+      ],
+      "ejemplos": [
+        "Una empresa con mal clima suele tener más rotación y más ausentismo: la gente se va o falta más."
+      ],
+      "ojo": "Clima no es lo mismo que cultura: la cultura son los valores y creencias compartidos; el clima es cómo se siente la gente en el día a día."
+    },
+    "cli_clima": {
+      "categoria": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "intro": [
+        "El clima laboral es el ambiente psicológico, organizacional y humano donde se desarrollan las relaciones laborales. Puede afectar, para bien o para mal, la motivación y el rendimiento de las personas.",
+        "La exposición de clase lo descompone en cuatro características."
+      ],
+      "notas": [
+        "Espacio de trabajo adecuado: buena iluminación y ventilación, áreas separadas, y cumplir normas de seguridad y salud: equipos de protección, rutas de evacuación, limpieza y medidas contra contagios.",
+        "Organización y estandarización de procesos: un organigrama, roles y responsabilidades claros, procesos ordenados y las herramientas necesarias para trabajar bien.",
+        "Relaciones laborales: capacitación, buen trato y recompensas, como sueldos justos, beneficios u horarios flexibles. Un mal ambiente surge, por ejemplo, de la falta de vacaciones, días festivos o reconocimiento.",
+        "Comunicación interna: información a tiempo, por medio de los líderes, correos o boletines, y una comunicación abierta donde la gente pueda opinar y recibir devoluciones."
+      ],
+      "ejemplos": [
+        "Una oficina sin ventilación, sin salida de emergencia señalizada y con olor a humedad falla en el espacio de trabajo adecuado."
+      ],
+      "ojo": "El clima no depende de una sola cosa: el espacio, la organización, el trato y la comunicación se combinan."
+    },
+    "cli_importancia": {
+      "categoria": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "intro": [
+        "Un buen clima no es solo «que la gente esté contenta»: tiene efectos concretos en los resultados de la organización.",
+        "La exposición también muestra ocho factores que influyen en el clima."
+      ],
+      "notas": [
+        "Mejora la productividad: un ambiente positivo, con buena comunicación y recursos, aumenta la productividad y el compromiso.",
+        "Reduce costos: con buen clima baja la rotación y el ausentismo, y con eso bajan los costos de contratar, entrevistar y capacitar gente nueva.",
+        "Facilita la misión y la visión: una cultura positiva, alineada con la misión, la visión y los valores, impulsa el desarrollo de la empresa y de su gente.",
+        "Factores que influyen: procesos y normativas claros, una política de compensaciones justa, una estructura organizativa clara, espacios y herramientas adecuados, el liderazgo, hacer participar a la gente en las decisiones y una filosofía institucional (visión, misión y valores) que todos conozcan.",
+        "Salario emocional: lo que la persona valora más allá del sueldo, como poder combinar su trabajo con sus objetivos personales y familiares."
+      ],
+      "ejemplos": [
+        "Una empresa que permite horarios flexibles para que la gente lleve a sus hijos a la escuela está ofreciendo salario emocional."
+      ],
+      "ojo": "Salario emocional no es plata: es todo lo que hace que el trabajo valga la pena más allá del sueldo."
+    },
+    "cli_encuesta": {
+      "categoria": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "intro": [
+        "Una encuesta de clima laboral evalúa la opinión de los empleados sobre su ambiente de trabajo: su bienestar, sus relaciones y cómo ven a la empresa.",
+        "Sirve para obtener datos medibles, escuchar a la gente, detectar qué mejorar, armar estrategias de cambio y mejorar la satisfacción, la productividad, la lealtad y la rotación."
+      ],
+      "notas": [
+        "Encuesta de escala numérica: la persona responde con un número, por ejemplo del 1 al 10, del 1 al 5 o del 1 al 3. Mide de forma cuantificable el ánimo, la colaboración o el compromiso.",
+        "Encuesta con casillas: la persona marca opciones con significado, como «estoy de acuerdo» o «casi siempre». Es fácil de interpretar y da datos menos subjetivos; suele evaluar aspectos emocionales.",
+        "Encuesta formal: busca un informe completo de la organización, con distintos tipos de preguntas. Es programada y se repite periódicamente para ver tendencias.",
+        "Encuesta específica: se enfoca en un tema puntual, como la opinión sobre los jefes, los directivos, las instalaciones o los compañeros. Suele hacerse de forma virtual.",
+        "Buenas prácticas: comunicar con claridad para qué es, garantizar el anonimato, que la Dirección participe, que sea fácil de responder, dar tiempo dentro del horario laboral, mandar recordatorios, ofrecer pequeños incentivos, dar feedback y actuar sobre los resultados, y repetirla para hacer seguimiento."
+      ],
+      "pasos": [
+        "¿Se responde con un número? → escala numérica.",
+        "¿Se marcan opciones como «de acuerdo» o «casi siempre»? → con casillas.",
+        "¿Es un relevamiento completo y que se repite cada cierto tiempo? → formal.",
+        "¿Pregunta por un tema puntual (los jefes, las instalaciones)? → específica."
+      ],
+      "ejemplos": [
+        "Una encuesta que pregunta solo qué opina el personal de la nueva oficina es una encuesta específica."
+      ],
+      "ojo": "Si la gente teme que sepan qué respondió, no va a ser sincera: por eso el anonimato es clave."
+    },
+    "cli_evp": {
+      "categoria": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "intro": [
+        "El EVP (Employee Value Proposition) es el conjunto único de beneficios y recompensas que una organización ofrece a sus empleados a cambio de sus habilidades, capacidades y experiencia.",
+        "Un EVP fuerte ayuda a atraer, comprometer y retener al mejor talento."
+      ],
+      "notas": [
+        "Compensación: sueldos competitivos, incentivos y bonos.",
+        "Beneficios: cobertura médica, vacaciones y programas de bienestar.",
+        "Oportunidades de desarrollo: capacitación, planes de carrera y crecimiento profesional.",
+        "Cultura y entorno laboral: valores, inclusión y ambiente de trabajo.",
+        "Equilibrio vida-trabajo: flexibilidad, trabajo remoto y cuidado de la salud mental."
+      ],
+      "pasos": [
+        "¿Es plata (sueldo, bono, incentivo)? → compensación.",
+        "¿Es algo extra que se da, como la prepaga? → beneficios.",
+        "¿Es aprender o crecer? → desarrollo.",
+        "¿Es cómo se trabaja y se convive? → cultura y entorno.",
+        "¿Es tiempo y flexibilidad para la vida personal? → equilibrio vida-trabajo."
+      ],
+      "ejemplos": [
+        "Google se conoce por su cultura de innovación y beneficios; Salesforce, por la diversidad y el impacto social; Unilever, por el desarrollo profesional y la sostenibilidad."
+      ],
+      "ojo": "Compensación y beneficios son pilares distintos: el bono es compensación; la cobertura médica es un beneficio."
+    },
+    "cli_evp_crear": {
+      "categoria": "EVP",
+      "titulo": "Para qué sirve el EVP y cómo se crea",
+      "intro": [
+        "Un EVP claro le sirve a las dos partes: a los empleados les dice qué valora la empresa y cómo va a recompensar su aporte; a la empresa le mejora la retención, la satisfacción y la productividad, le baja la rotación y le trae mejores candidatos.",
+        "Además, aumenta el compromiso y la motivación, mejora la marca empleadora, baja los costos de reclutamiento e impulsa la innovación."
+      ],
+      "notas": [
+        "1. Conocer a los empleados: con encuestas, entrevistas y datos, para saber qué valoran de verdad.",
+        "2. Alinearlo con la cultura: el EVP tiene que estar de acuerdo con los valores y la misión de la empresa.",
+        "3. Comunicarlo con claridad: que empleados y candidatos lo entiendan.",
+        "4. Revisarlo y ajustarlo: adaptarlo a medida que cambian el negocio y el mercado laboral.",
+        "Rol de RRHH: diseñarlo y comunicarlo junto con los líderes, controlar cómo lo percibe la gente y asegurar que sea auténtico, es decir, que coincida con lo que la gente vive de verdad."
+      ],
+      "ejemplos": [
+        "Una empresa promete «equilibrio entre vida y trabajo», pero exige estar conectado todo el fin de semana: su EVP no es auténtico."
+      ],
+      "ojo": "Un EVP que promete algo que la gente no vive hace más daño que no tener EVP."
+    }
+  }
+}

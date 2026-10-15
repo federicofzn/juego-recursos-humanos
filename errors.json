@@ -1,0 +1,777 @@
+[
+  {
+    "id": "err-int-gestion",
+    "unidad": "introduccion",
+    "tipo": "error",
+    "titulo": "Qué hace RRHH",
+    "situacion": "Un colega te pasa este resumen sobre «Qué hace RRHH» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La gestión de RRHH busca conducir a las personas hacia los objetivos de la organización.",
+      "Abarca a los empleados de todos los niveles de la organización.",
+      "Las tres acciones centrales del área son atraer, retener y controlar.",
+      "Atraer es conseguir que las personas que se necesitan quieran sumarse.",
+      "Retener es lograr que las personas valiosas quieran quedarse."
+    ],
+    "incorrecta": 2,
+    "correccion": "Las tres acciones centrales del área son atraer, retener y motivar.",
+    "respuestaCorrecta": "Las tres acciones centrales del área son atraer, retener y controlar.",
+    "respuestasIncorrectas": [
+      "La gestión de RRHH busca conducir a las personas hacia los objetivos de la organización.",
+      "Abarca a los empleados de todos los niveles de la organización.",
+      "Atraer es conseguir que las personas que se necesitan quieran sumarse.",
+      "Retener es lograr que las personas valiosas quieran quedarse."
+    ],
+    "pista": "Una de las tres acciones no aparece en la cursada.",
+    "explicacion": "Lo correcto es: «Las tres acciones centrales del área son atraer, retener y motivar.» Las tres acciones centrales son atraer, retener y motivar. Motivar es generar condiciones para que la gente tenga ganas de dar lo mejor.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "err-int-ulrich",
+    "unidad": "introduccion",
+    "tipo": "error",
+    "titulo": "Los roles de Ulrich",
+    "situacion": "Un colega te pasa este resumen sobre «Los roles de Ulrich» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El modelo de Ulrich tiene 4 roles y 16 responsabilidades.",
+      "El experto en administración y gestión tiene un enfoque estratégico y mira al futuro.",
+      "El socio estratégico participa del plan estratégico de la organización.",
+      "El agente de cambio se ocupa, entre otras cosas, de las encuestas y su plan de acción.",
+      "El líder de efectividad y socio de trabajadores se ocupa de las relaciones laborales."
+    ],
+    "incorrecta": 1,
+    "correccion": "El experto en administración y gestión tiene un enfoque operativo, centrado en el día a día.",
+    "respuestaCorrecta": "El experto en administración y gestión tiene un enfoque estratégico y mira al futuro.",
+    "respuestasIncorrectas": [
+      "El modelo de Ulrich tiene 4 roles y 16 responsabilidades.",
+      "El socio estratégico participa del plan estratégico de la organización.",
+      "El agente de cambio se ocupa, entre otras cosas, de las encuestas y su plan de acción.",
+      "El líder de efectividad y socio de trabajadores se ocupa de las relaciones laborales."
+    ],
+    "pista": "Revisá en qué mitad del eje vertical está cada rol.",
+    "explicacion": "Lo correcto es: «El experto en administración y gestión tiene un enfoque operativo, centrado en el día a día.» El experto en administración y gestión está abajo: enfoque operativo (el día a día) y orientado a procesos. Los roles de arriba, estratégicos, son el socio estratégico y el agente de cambio.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "err-int-mckinsey",
+    "unidad": "introduccion",
+    "tipo": "error",
+    "titulo": "El líder de RRHH según McKinsey",
+    "situacion": "Un colega te pasa este resumen sobre «El líder de RRHH según McKinsey» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En el centro del modelo de McKinsey están el control, el valor y la cultura.",
+      "La dimensión «quiénes somos» pide tener claro por qué existe la organización.",
+      "La dimensión «cómo operamos» propone equipos que deciden rápido.",
+      "La dimensión «cómo crecemos» incluye aprender más rápido que otros.",
+      "El modelo sostiene que el rol del líder de RRHH cambia con las necesidades de la organización."
+    ],
+    "incorrecta": 0,
+    "correccion": "En el centro del modelo de McKinsey están el propósito, el valor y la cultura.",
+    "respuestaCorrecta": "En el centro del modelo de McKinsey están el control, el valor y la cultura.",
+    "respuestasIncorrectas": [
+      "La dimensión «quiénes somos» pide tener claro por qué existe la organización.",
+      "La dimensión «cómo operamos» propone equipos que deciden rápido.",
+      "La dimensión «cómo crecemos» incluye aprender más rápido que otros.",
+      "El modelo sostiene que el rol del líder de RRHH cambia con las necesidades de la organización."
+    ],
+    "pista": "Una de las tres ideas del centro no encaja con un liderazgo que prepara para el cambio.",
+    "explicacion": "Lo correcto es: «En el centro del modelo de McKinsey están el propósito, el valor y la cultura.» El centro del modelo es el propósito, el valor y la cultura: el líder de RRHH ayuda a la organización a saber para qué existe y cómo trabaja, no a controlar.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "err-int-proceso",
+    "unidad": "introduccion",
+    "tipo": "error",
+    "titulo": "El proceso de gestión de RRHH",
+    "situacion": "Un colega te pasa este resumen sobre «El proceso de gestión de RRHH» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El proceso de gestión de RRHH empieza con la planificación.",
+      "De la planificación salen el reclutamiento y la desvinculación.",
+      "Después del reclutamiento viene la selección de los candidatos.",
+      "La orientación se hace antes del reclutamiento, para preparar la búsqueda.",
+      "La evaluación de desempeño apunta a lograr empleados de alto rendimiento."
+    ],
+    "incorrecta": 3,
+    "correccion": "La orientación se hace después de la selección, para recibir a quien ingresa.",
+    "respuestaCorrecta": "La orientación se hace antes del reclutamiento, para preparar la búsqueda.",
+    "respuestasIncorrectas": [
+      "El proceso de gestión de RRHH empieza con la planificación.",
+      "De la planificación salen el reclutamiento y la desvinculación.",
+      "Después del reclutamiento viene la selección de los candidatos.",
+      "La evaluación de desempeño apunta a lograr empleados de alto rendimiento."
+    ],
+    "pista": "Fijate el orden de las etapas: ¿a quién se orienta?",
+    "explicacion": "Lo correcto es: «La orientación se hace después de la selección, para recibir a quien ingresa.» La orientación es recibir e integrar a quien ingresa, así que viene después de la selección y antes de la capacitación.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "err-int-agile",
+    "unidad": "introduccion",
+    "tipo": "error",
+    "titulo": "RRHH Agile",
+    "situacion": "Un colega te pasa este resumen sobre «RRHH Agile» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La agilidad técnica cambia las metodologías y los procesos de trabajo.",
+      "La agilidad organizacional cambia los valores y la forma de organizarse.",
+      "En la agilidad técnica, el valor viene de seguir los procesos.",
+      "En la agilidad organizacional, el valor lo generan las personas que se organizan solas.",
+      "La agilidad organizacional la lidera el responsable de tecnología."
+    ],
+    "incorrecta": 4,
+    "correccion": "La agilidad organizacional la lidera el área de RRHH.",
+    "respuestaCorrecta": "La agilidad organizacional la lidera el responsable de tecnología.",
+    "respuestasIncorrectas": [
+      "La agilidad técnica cambia las metodologías y los procesos de trabajo.",
+      "La agilidad organizacional cambia los valores y la forma de organizarse.",
+      "En la agilidad técnica, el valor viene de seguir los procesos.",
+      "En la agilidad organizacional, el valor lo generan las personas que se organizan solas."
+    ],
+    "pista": "Cada tipo de agilidad tiene un líder distinto.",
+    "explicacion": "Lo correcto es: «La agilidad organizacional la lidera el área de RRHH.» La agilidad organizacional la lidera RRHH. El responsable de tecnología (CIO o CTO) lidera la agilidad técnica.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "err-est-preguntas",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "Las 5 preguntas de la estrategia",
+    "situacion": "Un colega te pasa este resumen sobre «Las 5 preguntas de la estrategia» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La aspiración ganadora responde para qué existe la organización.",
+      "Dónde jugar incluye elegir clientes, canales, productos y zonas.",
+      "Cómo jugar define la ventaja competitiva de la organización.",
+      "Las capacidades son las reglas que miden si la estrategia avanza.",
+      "Los sistemas de gestión son procesos, estructuras y reglas."
+    ],
+    "incorrecta": 3,
+    "correccion": "Las capacidades son las actividades que permiten hacer realidad la estrategia.",
+    "respuestaCorrecta": "Las capacidades son las reglas que miden si la estrategia avanza.",
+    "respuestasIncorrectas": [
+      "La aspiración ganadora responde para qué existe la organización.",
+      "Dónde jugar incluye elegir clientes, canales, productos y zonas.",
+      "Cómo jugar define la ventaja competitiva de la organización.",
+      "Los sistemas de gestión son procesos, estructuras y reglas."
+    ],
+    "pista": "Dos de las preguntas se suelen confundir entre sí.",
+    "explicacion": "Lo correcto es: «Las capacidades son las actividades que permiten hacer realidad la estrategia.» Las capacidades son las actividades que dan vida a dónde jugar y cómo ganar. Las reglas que miden la estrategia son parte de los sistemas de gestión.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "err-est-ventaja",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "Ventaja competitiva",
+    "situacion": "Un colega te pasa este resumen sobre «Ventaja competitiva» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La ventaja competitiva es lo que hace que una organización le gane a la competencia.",
+      "La ventaja por diferenciación consiste en vender más barato que el resto.",
+      "Una marca que cobra más porque su producto es único compite por diferenciación.",
+      "Elegir dónde no competir también es una decisión estratégica.",
+      "Para Mintzberg, la estrategia ordena la secuencia de acciones de una organización."
+    ],
+    "incorrecta": 1,
+    "correccion": "La ventaja por costo consiste en vender más barato que el resto.",
+    "respuestaCorrecta": "La ventaja por diferenciación consiste en vender más barato que el resto.",
+    "respuestasIncorrectas": [
+      "La ventaja competitiva es lo que hace que una organización le gane a la competencia.",
+      "Una marca que cobra más porque su producto es único compite por diferenciación.",
+      "Elegir dónde no competir también es una decisión estratégica.",
+      "Para Mintzberg, la estrategia ordena la secuencia de acciones de una organización."
+    ],
+    "pista": "Hay dos tipos de ventaja y una oración los intercambia.",
+    "explicacion": "Lo correcto es: «La ventaja por costo consiste en vender más barato que el resto.» Vender más barato es la ventaja por costo. La diferenciación es ganar con algo que el cliente percibe como único.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "err-est-fases",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "La estrategia de RRHH",
+    "situacion": "Un colega te pasa este resumen sobre «La estrategia de RRHH» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La estrategia de RRHH convierte la estrategia del negocio en acciones sobre las personas.",
+      "La fase de planificación diseña el proceso de planeamiento estratégico.",
+      "Comunicar el plan a los stakeholders es parte de la fase de seguimiento.",
+      "Una brecha es la diferencia entre lo que se necesita y lo que hay.",
+      "Usar datos y analytics es un componente clave de la estrategia de RRHH."
+    ],
+    "incorrecta": 2,
+    "correccion": "Comunicar el plan a los stakeholders es parte de la fase de construcción.",
+    "respuestaCorrecta": "Comunicar el plan a los stakeholders es parte de la fase de seguimiento.",
+    "respuestasIncorrectas": [
+      "La estrategia de RRHH convierte la estrategia del negocio en acciones sobre las personas.",
+      "La fase de planificación diseña el proceso de planeamiento estratégico.",
+      "Una brecha es la diferencia entre lo que se necesita y lo que hay.",
+      "Usar datos y analytics es un componente clave de la estrategia de RRHH."
+    ],
+    "pista": "Revisá en qué fase termina de armarse el plan.",
+    "explicacion": "Lo correcto es: «Comunicar el plan a los stakeholders es parte de la fase de construcción.» Comunicar el plan es el último paso de la construcción. El seguimiento es monitorear el progreso del plan.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "err-est-cultura",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "Qué es la cultura",
+    "situacion": "Un colega te pasa este resumen sobre «Qué es la cultura» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La cultura es lo que las personas sienten cuando trabajan en una organización.",
+      "La cultura muestra cómo hay que comportarse para pertenecer.",
+      "La cultura se diseña en un documento y después se comunica al personal.",
+      "Aunque no se diseña, la cultura se puede entender y modelar.",
+      "Para Carolyn Taylor, los líderes son una de las fuentes de la cultura."
+    ],
+    "incorrecta": 2,
+    "correccion": "La cultura no se diseña: emerge del día a día de la organización.",
+    "respuestaCorrecta": "La cultura se diseña en un documento y después se comunica al personal.",
+    "respuestasIncorrectas": [
+      "La cultura es lo que las personas sienten cuando trabajan en una organización.",
+      "La cultura muestra cómo hay que comportarse para pertenecer.",
+      "Aunque no se diseña, la cultura se puede entender y modelar.",
+      "Para Carolyn Taylor, los líderes son una de las fuentes de la cultura."
+    ],
+    "pista": "Pensá de dónde sale la cultura.",
+    "explicacion": "Lo correcto es: «La cultura no se diseña: emerge del día a día de la organización.» La cultura no se diseña, emerge. Un documento de valores no alcanza si el día a día muestra otra cosa.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "err-est-mensajes",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "Los mensajes culturales",
+    "situacion": "Un colega te pasa este resumen sobre «Los mensajes culturales» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Los líderes transmiten cultura con lo que hacen, no solo con lo que dicen.",
+      "Los sistemas de desempeño y reconocimiento mandan mensajes culturales.",
+      "Las oficinas, los títulos y el estacionamiento son símbolos.",
+      "Para Drucker, la estrategia se come a la cultura en el desayuno.",
+      "Sin una cultura que la sostenga, una buena estrategia puede fallar."
+    ],
+    "incorrecta": 3,
+    "correccion": "Para Drucker, la cultura se come a la estrategia en el desayuno.",
+    "respuestaCorrecta": "Para Drucker, la estrategia se come a la cultura en el desayuno.",
+    "respuestasIncorrectas": [
+      "Los líderes transmiten cultura con lo que hacen, no solo con lo que dicen.",
+      "Los sistemas de desempeño y reconocimiento mandan mensajes culturales.",
+      "Las oficinas, los títulos y el estacionamiento son símbolos.",
+      "Sin una cultura que la sostenga, una buena estrategia puede fallar."
+    ],
+    "pista": "Una frase famosa está dada vuelta.",
+    "explicacion": "Lo correcto es: «Para Drucker, la cultura se come a la estrategia en el desayuno.» La frase de Drucker es «la cultura se come a la estrategia en el desayuno»: la cultura pesa más que el plan.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cultura y estrategia",
+      "entradaLibro": "est_cultura_estrategia"
+    }
+  },
+  {
+    "id": "err-tra-iceberg",
+    "unidad": "transformacion",
+    "tipo": "error",
+    "titulo": "El iceberg de la cultura",
+    "situacion": "Un colega te pasa este resumen sobre «El iceberg de la cultura» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En el iceberg, la parte visible es la más chica.",
+      "Los beneficios y el entorno físico están en la parte que se ve.",
+      "Los valores y las creencias están en la parte visible del iceberg.",
+      "Lo que no se ve es lo que más pesa en cómo se comporta la gente.",
+      "La misión está en la base del iceberg, debajo del agua."
+    ],
+    "incorrecta": 2,
+    "correccion": "Los valores y las creencias están en la parte del iceberg que no se ve.",
+    "respuestaCorrecta": "Los valores y las creencias están en la parte visible del iceberg.",
+    "respuestasIncorrectas": [
+      "En el iceberg, la parte visible es la más chica.",
+      "Los beneficios y el entorno físico están en la parte que se ve.",
+      "Lo que no se ve es lo que más pesa en cómo se comporta la gente.",
+      "La misión está en la base del iceberg, debajo del agua."
+    ],
+    "pista": "Un elemento está del lado equivocado del agua.",
+    "explicacion": "Lo correcto es: «Los valores y las creencias están en la parte del iceberg que no se ve.» Los valores y las creencias están debajo del agua: no se ven, pero guían el comportamiento. Lo visible son cosas como los beneficios, el entorno físico y las conductas.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "err-tra-forma",
+    "unidad": "transformacion",
+    "tipo": "error",
+    "titulo": "Cómo se forma la cultura",
+    "situacion": "Un colega te pasa este resumen sobre «Cómo se forma la cultura» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Los criterios de selección influyen en la cultura de una organización.",
+      "La filosofía de los fundadores puede marcar la cultura por décadas.",
+      "La socialización es la forma en que los nuevos aprenden cómo funciona la organización.",
+      "La alta gerencia no tiene influencia en la cultura de la organización.",
+      "Los colaboradores aprenden la cultura con historias, rituales, símbolos y lenguaje."
+    ],
+    "incorrecta": 3,
+    "correccion": "La alta gerencia es uno de los factores que forman la cultura de la organización.",
+    "respuestaCorrecta": "La alta gerencia no tiene influencia en la cultura de la organización.",
+    "respuestasIncorrectas": [
+      "Los criterios de selección influyen en la cultura de una organización.",
+      "La filosofía de los fundadores puede marcar la cultura por décadas.",
+      "La socialización es la forma en que los nuevos aprenden cómo funciona la organización.",
+      "Los colaboradores aprenden la cultura con historias, rituales, símbolos y lenguaje."
+    ],
+    "pista": "Revisá la lista de factores que forman la cultura.",
+    "explicacion": "Lo correcto es: «La alta gerencia es uno de los factores que forman la cultura de la organización.» La alta gerencia es uno de los cuatro factores que forman la cultura, junto con los criterios de selección, la filosofía de los fundadores y la socialización.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "err-tra-hatum",
+    "unidad": "transformacion",
+    "tipo": "error",
+    "titulo": "Cómo destruir la cultura",
+    "situacion": "Un colega te pasa este resumen sobre «Cómo destruir la cultura» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Promocionar a quien se queda hasta tarde premia parecer ocupado.",
+      "Llenar la oficina de frases sin escuchar a la gente daña la cultura.",
+      "Usar el feedback como excusa para retar en público daña la cultura.",
+      "El gatopardismo es cambiar todo de verdad en poco tiempo.",
+      "Una fiesta para las redes sociales no reemplaza una cultura real."
+    ],
+    "incorrecta": 3,
+    "correccion": "El gatopardismo es aparentar que se cambia mientras todo sigue igual.",
+    "respuestaCorrecta": "El gatopardismo es cambiar todo de verdad en poco tiempo.",
+    "respuestasIncorrectas": [
+      "Promocionar a quien se queda hasta tarde premia parecer ocupado.",
+      "Llenar la oficina de frases sin escuchar a la gente daña la cultura.",
+      "Usar el feedback como excusa para retar en público daña la cultura.",
+      "Una fiesta para las redes sociales no reemplaza una cultura real."
+    ],
+    "pista": "Una palabra está definida al revés.",
+    "explicacion": "Lo correcto es: «El gatopardismo es aparentar que se cambia mientras todo sigue igual.» El gatopardismo es hablar de innovación para que parezca que todo cambia, mientras todo sigue igual.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "entradaLibro": "tra_destruir"
+    }
+  },
+  {
+    "id": "err-tra-transformar",
+    "unidad": "transformacion",
+    "tipo": "error",
+    "titulo": "Transformarse",
+    "situacion": "Un colega te pasa este resumen sobre «Transformarse» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Para transformarse hay que trabajar sobre la cultura, la estructura y la tecnología.",
+      "Una estrategia posible es hacer experimentos aislados.",
+      "Cambiar el organigrama alcanza para transformar una organización.",
+      "En la transformación estructural aparecen equipos que se organizan solos.",
+      "El cambio cultural empieza por un diagnóstico de la cultura actual."
+    ],
+    "incorrecta": 2,
+    "correccion": "Cambiar el organigrama no alcanza: también tienen que cambiar las personas.",
+    "respuestaCorrecta": "Cambiar el organigrama alcanza para transformar una organización.",
+    "respuestasIncorrectas": [
+      "Para transformarse hay que trabajar sobre la cultura, la estructura y la tecnología.",
+      "Una estrategia posible es hacer experimentos aislados.",
+      "En la transformación estructural aparecen equipos que se organizan solos.",
+      "El cambio cultural empieza por un diagnóstico de la cultura actual."
+    ],
+    "pista": "Pensá en quiénes se transforman, según la frase de la clase.",
+    "explicacion": "Lo correcto es: «Cambiar el organigrama no alcanza: también tienen que cambiar las personas.» «Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones.» Sin cambio en la gente, un organigrama nuevo no transforma nada.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "err-tra-farmacity",
+    "unidad": "transformacion",
+    "tipo": "error",
+    "titulo": "El caso Farmacity",
+    "situacion": "Un colega te pasa este resumen sobre «El caso Farmacity» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Farmacity pasó de una estructura jerárquica a un enfoque ágil.",
+      "Su modelo incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+      "La implementación fue inmediata, en toda la empresa de una sola vez.",
+      "El caso destaca el propósito y el impacto social y ambiental.",
+      "El liderazgo pasó del control a la mentoría y la autonomía."
+    ],
+    "incorrecta": 2,
+    "correccion": "La implementación fue gradual: empezó por algunos sectores y después avanzó.",
+    "respuestaCorrecta": "La implementación fue inmediata, en toda la empresa de una sola vez.",
+    "respuestasIncorrectas": [
+      "Farmacity pasó de una estructura jerárquica a un enfoque ágil.",
+      "Su modelo incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+      "El caso destaca el propósito y el impacto social y ambiental.",
+      "El liderazgo pasó del control a la mentoría y la autonomía."
+    ],
+    "pista": "Una oración describe mal cómo se llevó a cabo el cambio.",
+    "explicacion": "Lo correcto es: «La implementación fue gradual: empezó por algunos sectores y después avanzó.» En Farmacity la implementación fue gradual: comenzó en sectores específicos y avanzó hacia toda la empresa.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "entradaLibro": "tra_farmacity"
+    }
+  },
+  {
+    "id": "err-cli-clima",
+    "unidad": "clima_evp",
+    "tipo": "error",
+    "titulo": "El clima laboral",
+    "situacion": "Un colega te pasa este resumen sobre «El clima laboral» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El clima laboral es el ambiente psicológico, organizacional y humano del trabajo.",
+      "El clima puede afectar la motivación y el rendimiento de las personas.",
+      "La ventilación y las rutas de evacuación son parte del espacio de trabajo adecuado.",
+      "Un buen clima laboral aumenta la rotación y el ausentismo.",
+      "La comunicación interna incluye canales para que la gente opine."
+    ],
+    "incorrecta": 3,
+    "correccion": "Un buen clima laboral reduce la rotación y el ausentismo.",
+    "respuestaCorrecta": "Un buen clima laboral aumenta la rotación y el ausentismo.",
+    "respuestasIncorrectas": [
+      "El clima laboral es el ambiente psicológico, organizacional y humano del trabajo.",
+      "El clima puede afectar la motivación y el rendimiento de las personas.",
+      "La ventilación y las rutas de evacuación son parte del espacio de trabajo adecuado.",
+      "La comunicación interna incluye canales para que la gente opine."
+    ],
+    "pista": "Una oración dice lo contrario de uno de los beneficios del buen clima.",
+    "explicacion": "Lo correcto es: «Un buen clima laboral reduce la rotación y el ausentismo.» Un buen clima reduce la rotación y el ausentismo, y con eso baja los costos de contratar y capacitar gente nueva.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "entradaLibro": "cli_importancia"
+    }
+  },
+  {
+    "id": "err-cli-encuestas",
+    "unidad": "clima_evp",
+    "tipo": "error",
+    "titulo": "Tipos de encuesta de clima",
+    "situacion": "Un colega te pasa este resumen sobre «Tipos de encuesta de clima» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La encuesta de escala numérica se responde con un número dentro de un rango.",
+      "La encuesta con casillas usa opciones como «casi siempre» o «estoy de acuerdo».",
+      "La encuesta formal se hace una sola vez y no se repite.",
+      "La encuesta específica se enfoca en un tema puntual, como los jefes.",
+      "Las encuestas específicas suelen hacerse de forma virtual."
+    ],
+    "incorrecta": 2,
+    "correccion": "La encuesta formal es programada y se repite periódicamente para ver tendencias.",
+    "respuestaCorrecta": "La encuesta formal se hace una sola vez y no se repite.",
+    "respuestasIncorrectas": [
+      "La encuesta de escala numérica se responde con un número dentro de un rango.",
+      "La encuesta con casillas usa opciones como «casi siempre» o «estoy de acuerdo».",
+      "La encuesta específica se enfoca en un tema puntual, como los jefes.",
+      "Las encuestas específicas suelen hacerse de forma virtual."
+    ],
+    "pista": "Una de las encuestas sirve justamente para comparar la evolución.",
+    "explicacion": "Lo correcto es: «La encuesta formal es programada y se repite periódicamente para ver tendencias.» La encuesta formal es programada y recurrente: se repite para detectar tendencias y la evolución de la empresa.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "err-cli-practicas",
+    "unidad": "clima_evp",
+    "tipo": "error",
+    "titulo": "Buenas prácticas de la encuesta",
+    "situacion": "Un colega te pasa este resumen sobre «Buenas prácticas de la encuesta» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Hay que explicar con claridad para qué se hace la encuesta.",
+      "Conviene que la Dirección participe y apoye la encuesta.",
+      "Hay que dar tiempo para responderla dentro del horario laboral.",
+      "Es mejor que cada jefe sepa qué respondió cada persona de su equipo.",
+      "Después de la encuesta, hay que contar los resultados y actuar."
+    ],
+    "incorrecta": 3,
+    "correccion": "Hay que garantizar el anonimato de las respuestas.",
+    "respuestaCorrecta": "Es mejor que cada jefe sepa qué respondió cada persona de su equipo.",
+    "respuestasIncorrectas": [
+      "Hay que explicar con claridad para qué se hace la encuesta.",
+      "Conviene que la Dirección participe y apoye la encuesta.",
+      "Hay que dar tiempo para responderla dentro del horario laboral.",
+      "Después de la encuesta, hay que contar los resultados y actuar."
+    ],
+    "pista": "Pensá qué hace falta para que la gente responda con sinceridad.",
+    "explicacion": "Lo correcto es: «Hay que garantizar el anonimato de las respuestas.» Garantizar el anonimato es una buena práctica clave: sin él, la gente no responde con sinceridad por miedo a represalias.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "err-cli-evp",
+    "unidad": "clima_evp",
+    "tipo": "error",
+    "titulo": "Los pilares del EVP",
+    "situacion": "Un colega te pasa este resumen sobre «Los pilares del EVP» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El EVP es lo que la organización ofrece a cambio de las habilidades de su gente.",
+      "Los sueldos competitivos y los bonos son parte de la compensación.",
+      "La cobertura médica es parte del pilar de beneficios.",
+      "La capacitación y los planes de carrera son parte del equilibrio vida-trabajo.",
+      "La flexibilidad y el trabajo remoto son parte del equilibrio vida-trabajo."
+    ],
+    "incorrecta": 3,
+    "correccion": "La capacitación y los planes de carrera son parte de las oportunidades de desarrollo.",
+    "respuestaCorrecta": "La capacitación y los planes de carrera son parte del equilibrio vida-trabajo.",
+    "respuestasIncorrectas": [
+      "El EVP es lo que la organización ofrece a cambio de las habilidades de su gente.",
+      "Los sueldos competitivos y los bonos son parte de la compensación.",
+      "La cobertura médica es parte del pilar de beneficios.",
+      "La flexibilidad y el trabajo remoto son parte del equilibrio vida-trabajo."
+    ],
+    "pista": "Un elemento está en el pilar equivocado.",
+    "explicacion": "Lo correcto es: «La capacitación y los planes de carrera son parte de las oportunidades de desarrollo.» La capacitación, los planes de carrera y el crecimiento profesional forman el pilar de oportunidades de desarrollo.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "err-cli-crear",
+    "unidad": "clima_evp",
+    "tipo": "error",
+    "titulo": "Cómo se crea un EVP",
+    "situacion": "Un colega te pasa este resumen sobre «Cómo se crea un EVP» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El primer paso es conocer qué valoran los empleados.",
+      "El EVP tiene que estar alineado con los valores y la misión.",
+      "Una vez definido, el EVP ya no se vuelve a revisar.",
+      "RRHH lo diseña y lo comunica junto con los líderes.",
+      "El EVP tiene que coincidir con lo que la gente vive de verdad."
+    ],
+    "incorrecta": 2,
+    "correccion": "El EVP se revisa y se ajusta a medida que cambian el negocio y el mercado.",
+    "respuestaCorrecta": "Una vez definido, el EVP ya no se vuelve a revisar.",
+    "respuestasIncorrectas": [
+      "El primer paso es conocer qué valoran los empleados.",
+      "El EVP tiene que estar alineado con los valores y la misión.",
+      "RRHH lo diseña y lo comunica junto con los líderes.",
+      "El EVP tiene que coincidir con lo que la gente vive de verdad."
+    ],
+    "pista": "Uno de los pasos para crear un EVP no termina nunca.",
+    "explicacion": "Lo correcto es: «El EVP se revisa y se ajusta a medida que cambian el negocio y el mercado.» El último paso para crear un EVP es revisarlo y ajustarlo: el negocio y el mercado laboral cambian, y el EVP tiene que acompañar.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "Para qué sirve el EVP y cómo se crea",
+      "entradaLibro": "cli_evp_crear"
+    }
+  },
+  {
+    "id": "err-lct-modalidades",
+    "unidad": "contrato_trabajo",
+    "tipo": "error",
+    "titulo": "Las modalidades de contrato",
+    "situacion": "Un colega te pasa este resumen sobre «Las modalidades de contrato» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La regla general es el contrato por tiempo indeterminado.",
+      "El contrato a plazo fijo tiene una duración pactada por escrito.",
+      "El contrato de temporada sirve para reemplazar a alguien de licencia.",
+      "El contrato a tiempo parcial tiene menos horas que la jornada habitual.",
+      "Sin causa ni plazo escrito, se presume que el contrato es por tiempo indeterminado."
+    ],
+    "incorrecta": 2,
+    "correccion": "El contrato eventual sirve para reemplazar a alguien de licencia.",
+    "respuestaCorrecta": "El contrato de temporada sirve para reemplazar a alguien de licencia.",
+    "respuestasIncorrectas": [
+      "La regla general es el contrato por tiempo indeterminado.",
+      "El contrato a plazo fijo tiene una duración pactada por escrito.",
+      "El contrato a tiempo parcial tiene menos horas que la jornada habitual.",
+      "Sin causa ni plazo escrito, se presume que el contrato es por tiempo indeterminado."
+    ],
+    "pista": "Dos modalidades se suelen confundir: una es por época del año y otra por una necesidad transitoria.",
+    "explicacion": "Lo correcto es: «El contrato eventual sirve para reemplazar a alguien de licencia.» Reemplazar a alguien de licencia es una necesidad transitoria: corresponde el contrato eventual. El de temporada es para actividades que se repiten en ciertas épocas del año.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "err-lct-preaviso",
+    "unidad": "contrato_trabajo",
+    "tipo": "error",
+    "titulo": "El preaviso",
+    "situacion": "Un colega te pasa este resumen sobre «El preaviso» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Con hasta 5 años de antigüedad, el empleador debe dar 1 mes de preaviso.",
+      "Con más de 5 años de antigüedad, el preaviso del empleador es de 2 meses.",
+      "Si el empleador no da el preaviso, paga una indemnización sustitutiva.",
+      "El preaviso de la persona trabajadora que renuncia es de 2 meses.",
+      "La persona trabajadora puede renunciar con o sin preaviso."
+    ],
+    "incorrecta": 3,
+    "correccion": "El preaviso de la persona trabajadora que renuncia es de 15 días.",
+    "respuestaCorrecta": "El preaviso de la persona trabajadora que renuncia es de 2 meses.",
+    "respuestasIncorrectas": [
+      "Con hasta 5 años de antigüedad, el empleador debe dar 1 mes de preaviso.",
+      "Con más de 5 años de antigüedad, el preaviso del empleador es de 2 meses.",
+      "Si el empleador no da el preaviso, paga una indemnización sustitutiva.",
+      "La persona trabajadora puede renunciar con o sin preaviso."
+    ],
+    "pista": "Revisá quién da cada preaviso.",
+    "explicacion": "Lo correcto es: «El preaviso de la persona trabajadora que renuncia es de 15 días.» El preaviso de la persona trabajadora es de 15 días. Los plazos de 1 y 2 meses son los del empleador, según la antigüedad.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "err-lct-despido",
+    "unidad": "contrato_trabajo",
+    "tipo": "error",
+    "titulo": "El despido",
+    "situacion": "Un colega te pasa este resumen sobre «El despido» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En el despido con justa causa, la causa se comunica por escrito.",
+      "Una vez comunicada, la causa del despido se puede cambiar después.",
+      "La indemnización se calcula sobre la mejor remuneración mensual, normal y habitual.",
+      "Corresponde un sueldo por cada año o fracción mayor de tres meses.",
+      "La justa causa exige un incumplimiento que impida seguir la relación."
+    ],
+    "incorrecta": 1,
+    "correccion": "Una vez comunicada, la causa del despido no se puede cambiar después.",
+    "respuestaCorrecta": "Una vez comunicada, la causa del despido se puede cambiar después.",
+    "respuestasIncorrectas": [
+      "En el despido con justa causa, la causa se comunica por escrito.",
+      "La indemnización se calcula sobre la mejor remuneración mensual, normal y habitual.",
+      "Corresponde un sueldo por cada año o fracción mayor de tres meses.",
+      "La justa causa exige un incumplimiento que impida seguir la relación."
+    ],
+    "pista": "Pensá qué protege a la persona despedida.",
+    "explicacion": "Lo correcto es: «Una vez comunicada, la causa del despido no se puede cambiar después.» La causa del despido se comunica por escrito, con claridad, y después no puede modificarse.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "err-lct-renuncia",
+    "unidad": "contrato_trabajo",
+    "tipo": "error",
+    "titulo": "Renuncia y mutuo acuerdo",
+    "situacion": "Un colega te pasa este resumen sobre «Renuncia y mutuo acuerdo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La renuncia se puede hacer por telegrama laboral gratuito.",
+      "El telegrama de renuncia se envía personalmente, con validación de identidad.",
+      "Si el empleador comete una injuria grave, el trabajador puede considerarse despedido.",
+      "El mutuo acuerdo se puede firmar por mail, sin la presencia del trabajador.",
+      "El despido indirecto también se comunica por escrito."
+    ],
+    "incorrecta": 3,
+    "correccion": "El mutuo acuerdo se formaliza ante escribano o autoridad, con la presencia personal del trabajador.",
+    "respuestaCorrecta": "El mutuo acuerdo se puede firmar por mail, sin la presencia del trabajador.",
+    "respuestasIncorrectas": [
+      "La renuncia se puede hacer por telegrama laboral gratuito.",
+      "El telegrama de renuncia se envía personalmente, con validación de identidad.",
+      "Si el empleador comete una injuria grave, el trabajador puede considerarse despedido.",
+      "El despido indirecto también se comunica por escrito."
+    ],
+    "pista": "Una forma de terminar la relación pide más formalidad que la que dice el texto.",
+    "explicacion": "Lo correcto es: «El mutuo acuerdo se formaliza ante escribano o autoridad, con la presencia personal del trabajador.» El mutuo acuerdo se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "err-lct-vacaciones",
+    "unidad": "contrato_trabajo",
+    "tipo": "error",
+    "titulo": "Las vacaciones",
+    "situacion": "Un colega te pasa este resumen sobre «Las vacaciones» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Las vacaciones dependen de la antigüedad al 31 de diciembre.",
+      "Con hasta 5 años de antigüedad corresponden 14 días corridos.",
+      "Con más de 10 y hasta 20 años corresponden 21 días corridos.",
+      "Con más de 20 años de antigüedad corresponden 35 días corridos.",
+      "Sin la mitad de los días hábiles trabajados, se da 1 día cada 20 de trabajo."
+    ],
+    "incorrecta": 2,
+    "correccion": "Con más de 10 y hasta 20 años corresponden 28 días corridos.",
+    "respuestaCorrecta": "Con más de 10 y hasta 20 años corresponden 21 días corridos.",
+    "respuestasIncorrectas": [
+      "Las vacaciones dependen de la antigüedad al 31 de diciembre.",
+      "Con hasta 5 años de antigüedad corresponden 14 días corridos.",
+      "Con más de 20 años de antigüedad corresponden 35 días corridos.",
+      "Sin la mitad de los días hábiles trabajados, se da 1 día cada 20 de trabajo."
+    ],
+    "pista": "Revisá los escalones de la escala.",
+    "explicacion": "Lo correcto es: «Con más de 10 y hasta 20 años corresponden 28 días corridos.» La escala es 14, 21, 28 y 35 días corridos. Con más de 10 y hasta 20 años corresponden 28 días; los 21 días son para más de 5 y hasta 10 años.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  }
+]

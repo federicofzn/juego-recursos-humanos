@@ -1,0 +1,82 @@
+[
+  {
+    "id": "err-int-gestion",
+    "titulo": "Qué hace RRHH",
+    "oraciones": [
+      "La gestión de RRHH busca conducir a las personas hacia los objetivos de la organización.",
+      "Abarca a los empleados de todos los niveles de la organización.",
+      "Las tres acciones centrales del área son atraer, retener y controlar.",
+      "Atraer es conseguir que las personas que se necesitan quieran sumarse.",
+      "Retener es lograr que las personas valiosas quieran quedarse."
+    ],
+    "incorrecta": 2,
+    "correccion": "Las tres acciones centrales del área son atraer, retener y motivar.",
+    "pista": "Una de las tres acciones no aparece en la cursada.",
+    "explicacion": "Las tres acciones centrales son atraer, retener y motivar. Motivar es generar condiciones para que la gente tenga ganas de dar lo mejor.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "err-int-ulrich",
+    "titulo": "Los roles de Ulrich",
+    "oraciones": [
+      "El modelo de Ulrich tiene 4 roles y 16 responsabilidades.",
+      "El experto en administración y gestión tiene un enfoque estratégico y mira al futuro.",
+      "El socio estratégico participa del plan estratégico de la organización.",
+      "El agente de cambio se ocupa, entre otras cosas, de las encuestas y su plan de acción.",
+      "El líder de efectividad y socio de trabajadores se ocupa de las relaciones laborales."
+    ],
+    "incorrecta": 1,
+    "correccion": "El experto en administración y gestión tiene un enfoque operativo, centrado en el día a día.",
+    "pista": "Revisá en qué mitad del eje vertical está cada rol.",
+    "explicacion": "El experto en administración y gestión está abajo: enfoque operativo (el día a día) y orientado a procesos. Los roles de arriba, estratégicos, son el socio estratégico y el agente de cambio.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "err-int-mckinsey",
+    "titulo": "El líder de RRHH según McKinsey",
+    "oraciones": [
+      "En el centro del modelo de McKinsey están el control, el valor y la cultura.",
+      "La dimensión «quiénes somos» pide tener claro por qué existe la organización.",
+      "La dimensión «cómo operamos» propone equipos que deciden rápido.",
+      "La dimensión «cómo crecemos» incluye aprender más rápido que otros.",
+      "El modelo sostiene que el rol del líder de RRHH cambia con las necesidades de la organización."
+    ],
+    "incorrecta": 0,
+    "correccion": "En el centro del modelo de McKinsey están el propósito, el valor y la cultura.",
+    "pista": "Una de las tres ideas del centro no encaja con un liderazgo que prepara para el cambio.",
+    "explicacion": "El centro del modelo es el propósito, el valor y la cultura: el líder de RRHH ayuda a la organización a saber para qué existe y cómo trabaja, no a controlar.",
+    "libro": "intro_mckinsey"
+  },
+  {
+    "id": "err-int-proceso",
+    "titulo": "El proceso de gestión de RRHH",
+    "oraciones": [
+      "El proceso de gestión de RRHH empieza con la planificación.",
+      "De la planificación salen el reclutamiento y la desvinculación.",
+      "Después del reclutamiento viene la selección de los candidatos.",
+      "La orientación se hace antes del reclutamiento, para preparar la búsqueda.",
+      "La evaluación de desempeño apunta a lograr empleados de alto rendimiento."
+    ],
+    "incorrecta": 3,
+    "correccion": "La orientación se hace después de la selección, para recibir a quien ingresa.",
+    "pista": "Fijate el orden de las etapas: ¿a quién se orienta?",
+    "explicacion": "La orientación es recibir e integrar a quien ingresa, así que viene después de la selección y antes de la capacitación.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "err-int-agile",
+    "titulo": "RRHH Agile",
+    "oraciones": [
+      "La agilidad técnica cambia las metodologías y los procesos de trabajo.",
+      "La agilidad organizacional cambia los valores y la forma de organizarse.",
+      "En la agilidad técnica, el valor viene de seguir los procesos.",
+      "En la agilidad organizacional, el valor lo generan las personas que se organizan solas.",
+      "La agilidad organizacional la lidera el responsable de tecnología."
+    ],
+    "incorrecta": 4,
+    "correccion": "La agilidad organizacional la lidera el área de RRHH.",
+    "pista": "Cada tipo de agilidad tiene un líder distinto.",
+    "explicacion": "La agilidad organizacional la lidera RRHH. El responsable de tecnología (CIO o CTO) lidera la agilidad técnica.",
+    "libro": "intro_agile"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "err-cli-clima",
+    "titulo": "El clima laboral",
+    "oraciones": [
+      "El clima laboral es el ambiente psicológico, organizacional y humano del trabajo.",
+      "El clima puede afectar la motivación y el rendimiento de las personas.",
+      "La ventilación y las rutas de evacuación son parte del espacio de trabajo adecuado.",
+      "Un buen clima laboral aumenta la rotación y el ausentismo.",
+      "La comunicación interna incluye canales para que la gente opine."
+    ],
+    "incorrecta": 3,
+    "correccion": "Un buen clima laboral reduce la rotación y el ausentismo.",
+    "pista": "Una oración dice lo contrario de uno de los beneficios del buen clima.",
+    "explicacion": "Un buen clima reduce la rotación y el ausentismo, y con eso baja los costos de contratar y capacitar gente nueva.",
+    "libro": "cli_importancia"
+  },
+  {
+    "id": "err-cli-encuestas",
+    "titulo": "Tipos de encuesta de clima",
+    "oraciones": [
+      "La encuesta de escala numérica se responde con un número dentro de un rango.",
+      "La encuesta con casillas usa opciones como «casi siempre» o «estoy de acuerdo».",
+      "La encuesta formal se hace una sola vez y no se repite.",
+      "La encuesta específica se enfoca en un tema puntual, como los jefes.",
+      "Las encuestas específicas suelen hacerse de forma virtual."
+    ],
+    "incorrecta": 2,
+    "correccion": "La encuesta formal es programada y se repite periódicamente para ver tendencias.",
+    "pista": "Una de las encuestas sirve justamente para comparar la evolución.",
+    "explicacion": "La encuesta formal es programada y recurrente: se repite para detectar tendencias y la evolución de la empresa.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "err-cli-practicas",
+    "titulo": "Buenas prácticas de la encuesta",
+    "oraciones": [
+      "Hay que explicar con claridad para qué se hace la encuesta.",
+      "Conviene que la Dirección participe y apoye la encuesta.",
+      "Hay que dar tiempo para responderla dentro del horario laboral.",
+      "Es mejor que cada jefe sepa qué respondió cada persona de su equipo.",
+      "Después de la encuesta, hay que contar los resultados y actuar."
+    ],
+    "incorrecta": 3,
+    "correccion": "Hay que garantizar el anonimato de las respuestas.",
+    "pista": "Pensá qué hace falta para que la gente responda con sinceridad.",
+    "explicacion": "Garantizar el anonimato es una buena práctica clave: sin él, la gente no responde con sinceridad por miedo a represalias.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "err-cli-evp",
+    "titulo": "Los pilares del EVP",
+    "oraciones": [
+      "El EVP es lo que la organización ofrece a cambio de las habilidades de su gente.",
+      "Los sueldos competitivos y los bonos son parte de la compensación.",
+      "La cobertura médica es parte del pilar de beneficios.",
+      "La capacitación y los planes de carrera son parte del equilibrio vida-trabajo.",
+      "La flexibilidad y el trabajo remoto son parte del equilibrio vida-trabajo."
+    ],
+    "incorrecta": 3,
+    "correccion": "La capacitación y los planes de carrera son parte de las oportunidades de desarrollo.",
+    "pista": "Un elemento está en el pilar equivocado.",
+    "explicacion": "La capacitación, los planes de carrera y el crecimiento profesional forman el pilar de oportunidades de desarrollo.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "err-cli-crear",
+    "titulo": "Cómo se crea un EVP",
+    "oraciones": [
+      "El primer paso es conocer qué valoran los empleados.",
+      "El EVP tiene que estar alineado con los valores y la misión.",
+      "Una vez definido, el EVP ya no se vuelve a revisar.",
+      "RRHH lo diseña y lo comunica junto con los líderes.",
+      "El EVP tiene que coincidir con lo que la gente vive de verdad."
+    ],
+    "incorrecta": 2,
+    "correccion": "El EVP se revisa y se ajusta a medida que cambian el negocio y el mercado.",
+    "pista": "Uno de los pasos para crear un EVP no termina nunca.",
+    "explicacion": "El último paso para crear un EVP es revisarlo y ajustarlo: el negocio y el mercado laboral cambian, y el EVP tiene que acompañar.",
+    "libro": "cli_evp_crear"
+  }
+]

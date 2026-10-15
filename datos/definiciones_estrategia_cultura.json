@@ -1,0 +1,115 @@
+[
+  {
+    "id": "def-est-aspiracion",
+    "grupo": "preguntas",
+    "termino": "Aspiración ganadora",
+    "definicion": "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+    "ejemplo": "«Existimos para que cualquier familia pueda conectarse a internet».",
+    "libro": "est_estrategia",
+    "pista": "Pensá en este ejemplo: «Queremos que cualquier familia pueda conectarse a internet»."
+  },
+  {
+    "id": "def-est-donde",
+    "grupo": "preguntas",
+    "termino": "Dónde jugar",
+    "definicion": "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+    "ejemplo": "Vender solo online y dejar los supermercados.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-como",
+    "grupo": "preguntas",
+    "termino": "Cómo jugar",
+    "definicion": "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+    "ejemplo": "Ganarle a la competencia con el precio más bajo.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-capacidades",
+    "grupo": "preguntas",
+    "termino": "Capacidades",
+    "definicion": "Las actividades que permiten hacer realidad las decisiones de la estrategia.",
+    "ejemplo": "Armar una logística propia para los envíos.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-sistemas",
+    "grupo": "preguntas",
+    "termino": "Sistemas de gestión",
+    "definicion": "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia.",
+    "ejemplo": "Un tablero de indicadores revisado cada mes.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-ventaja",
+    "grupo": "ventaja",
+    "termino": "Ventaja competitiva",
+    "definicion": "Lo que hace que una organización le gane a sus competidores.",
+    "ejemplo": "Una marca que vende mucho más que el resto en su rubro.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-costo",
+    "grupo": "ventaja",
+    "termino": "Ventaja por costo",
+    "definicion": "Ganar ofreciendo un precio más bajo que la competencia.",
+    "ejemplo": "Una cadena con los electrodomésticos más baratos del mercado.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-diferenciacion",
+    "grupo": "ventaja",
+    "termino": "Ventaja por diferenciación",
+    "definicion": "Ganar ofreciendo algo que los clientes perciben como único, aunque cueste más.",
+    "ejemplo": "Zapatillas con un diseño que no se consigue en otro lado.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "def-est-planif",
+    "grupo": "fases",
+    "termino": "Fase de planificación",
+    "definicion": "Diseñar el proceso de planeamiento estratégico.",
+    "ejemplo": "Definir quiénes participan del plan y en qué fechas.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "def-est-constr",
+    "grupo": "fases",
+    "termino": "Fase de construcción",
+    "definicion": "Ver el impacto de RRHH, detectar brechas, definir acciones y comunicar el plan.",
+    "ejemplo": "Descubrir que faltan programadores y armar un plan para conseguirlos.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "def-est-seguim",
+    "grupo": "fases",
+    "termino": "Fase de seguimiento",
+    "definicion": "Controlar cómo avanza el plan estratégico.",
+    "ejemplo": "Revisar cada mes si se cumplen las metas del plan.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "def-est-cultura",
+    "grupo": "cultura",
+    "termino": "Cultura organizacional",
+    "definicion": "Las creencias, valores y comportamientos que marcan cómo hay que actuar para pertenecer a una organización.",
+    "ejemplo": "En una empresa, todos saben que «acá nadie se va sin ayudar a un compañero».",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "def-est-simbolos",
+    "grupo": "cultura",
+    "termino": "Símbolos (mensajes culturales)",
+    "definicion": "Señales visibles que muestran qué importa: oficinas, títulos, en qué se gasta y en qué se usa el tiempo.",
+    "ejemplo": "Solo los directores tienen estacionamiento.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "def-est-comport",
+    "grupo": "cultura",
+    "termino": "Comportamientos (mensajes culturales)",
+    "definicion": "Lo que hacen los líderes e influyentes, y si lo que dicen coincide con lo que hacen.",
+    "ejemplo": "Un gerente que habla de equilibrio y escribe a las 2 de la mañana.",
+    "libro": "est_cultura"
+  }
+]

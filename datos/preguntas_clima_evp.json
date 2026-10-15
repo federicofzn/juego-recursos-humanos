@@ -1,0 +1,344 @@
+[
+  {
+    "id": "cli-def-01",
+    "tipo": "concepto",
+    "titulo": "¿Cultura o clima?",
+    "situacion": "Un gerente usa «clima laboral» y «cultura organizacional» como si fueran lo mismo. Te pide que le expliques qué es el clima.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "El ambiente psicológico, organizacional y humano de las relaciones de trabajo",
+    "incorrectas": [
+      "Los valores y creencias que fundaron la empresa y se transmiten por historias",
+      "El conjunto de beneficios que la empresa ofrece a cambio del trabajo",
+      "La temperatura y la ventilación de la oficina, según las normas de seguridad",
+      "El plan estratégico que define dónde compite la empresa y cómo gana",
+      "La imagen que tiene la empresa como lugar para trabajar en el mercado"
+    ],
+    "pista": "Pensá en cómo se siente la gente en el día a día de su trabajo.",
+    "explicacion": "El clima laboral es el ambiente psicológico, organizacional y humano donde se desarrollan las relaciones laborales. Los valores y creencias compartidos son la cultura; los beneficios ofrecidos, el EVP.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "cli-carac-01",
+    "tipo": "clasificar",
+    "titulo": "Sin salida de emergencia",
+    "situacion": "En una oficina no hay ventilación, la salida de emergencia no está señalizada y faltan elementos de protección.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "correcta": "El espacio de trabajo adecuado",
+    "incorrectas": [
+      "La comunicación interna",
+      "Las relaciones laborales",
+      "La organización de procesos",
+      "El salario emocional",
+      "La filosofía institucional"
+    ],
+    "pista": "Todo lo que falla es físico y tiene que ver con la seguridad.",
+    "explicacion": "La ventilación, la iluminación, la seguridad, las rutas de evacuación y la protección son parte del espacio de trabajo adecuado.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "cli-carac-02",
+    "tipo": "clasificar",
+    "titulo": "Nadie sabe qué hacer",
+    "situacion": "En un área nueva nadie sabe bien quién hace cada tarea, no hay un organigrama y cada uno trabaja con sus propias planillas.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "correcta": "La organización y estandarización de procesos",
+    "incorrectas": [
+      "El espacio de trabajo adecuado y seguro",
+      "La comunicación interna entre las áreas",
+      "Las relaciones laborales y el buen trato",
+      "El salario emocional del personal",
+      "La encuesta de clima de cada año"
+    ],
+    "pista": "Lo que falta es orden: quién hace cada cosa y cómo.",
+    "explicacion": "Definir un organigrama, roles y responsabilidades, y estandarizar los procesos con las herramientas necesarias, es la organización y estandarización de procesos.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "cli-carac-03",
+    "tipo": "clasificar",
+    "titulo": "Me enteré por el diario",
+    "situacion": "Los empleados de una empresa se enteran por los medios de que va a mudar su planta, y no tienen ningún canal para hacer preguntas.",
+    "pregunta": "¿Qué característica del clima laboral está fallando?",
+    "correcta": "La comunicación interna",
+    "incorrectas": [
+      "El espacio de trabajo adecuado",
+      "Las relaciones laborales",
+      "La organización de procesos",
+      "La política de compensaciones",
+      "La filosofía institucional"
+    ],
+    "pista": "La información no llegó a tiempo y no hay forma de responder.",
+    "explicacion": "La comunicación interna pide informar a tiempo, por los líderes, correos o boletines, y abrir canales para que la gente pueda opinar y recibir respuestas.",
+    "libro": "cli_clima"
+  },
+  {
+    "id": "cli-imp-01",
+    "tipo": "concepto",
+    "titulo": "¿Para qué gastar en clima?",
+    "situacion": "Un director dice que invertir en el clima laboral «es un gasto sin retorno». Te pide un argumento económico.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que un buen clima baja la rotación y el ausentismo, y con eso los costos",
+    "incorrectas": [
+      "Que tiene razón: el clima mejora el ánimo, pero no los resultados",
+      "Que un buen clima permite bajar los sueldos sin que nadie se queje",
+      "Que el clima solo importa para cumplir con las normas de seguridad",
+      "Que un buen clima elimina la necesidad de tener un área de RRHH",
+      "Que el clima solo influye en la imagen de la empresa en las redes"
+    ],
+    "pista": "Pensá qué cuesta cada vez que alguien se va y hay que reemplazarlo.",
+    "explicacion": "Un buen clima reduce la rotación y el ausentismo, y con eso baja los costos de contratar, entrevistar y capacitar gente nueva. Además mejora la productividad.",
+    "libro": "cli_importancia"
+  },
+  {
+    "id": "cli-imp-02",
+    "tipo": "clasificar",
+    "titulo": "Llevar a los chicos",
+    "situacion": "Una empresa permite que su gente entre más tarde dos días por semana para poder llevar a sus hijos a la escuela.",
+    "pregunta": "¿Qué factor del clima está trabajando?",
+    "correcta": "El salario emocional",
+    "incorrectas": [
+      "La política de compensaciones",
+      "La estructura organizativa",
+      "Los procesos y normativas",
+      "Los espacios y elementos físicos",
+      "La filosofía institucional"
+    ],
+    "pista": "No es plata, pero la gente lo valora mucho.",
+    "explicacion": "El salario emocional es lo que la persona valora más allá del sueldo, como poder combinar su trabajo con sus objetivos personales y familiares.",
+    "libro": "cli_importancia"
+  },
+  {
+    "id": "cli-imp-03",
+    "tipo": "clasificar",
+    "titulo": "Hacer partícipes",
+    "situacion": "Antes de cambiar el horario de atención, una empresa consulta a sus equipos y tiene en cuenta sus propuestas para decidir.",
+    "pregunta": "¿Qué factor del clima está trabajando?",
+    "correcta": "Los procesos de toma de decisiones",
+    "incorrectas": [
+      "El salario emocional",
+      "La política de compensaciones",
+      "Los espacios y elementos físicos",
+      "La estructura organizativa",
+      "Los procesos y normativas"
+    ],
+    "pista": "La clave está en a quién se consulta antes de resolver.",
+    "explicacion": "Hacer partícipes a las personas de las decisiones refuerza su sentido de pertenencia y mejora el clima: es el factor de los procesos de toma de decisiones.",
+    "libro": "cli_importancia"
+  },
+  {
+    "id": "cli-enc-01",
+    "tipo": "clasificar",
+    "titulo": "Del 1 al 10",
+    "situacion": "RRHH manda una encuesta donde cada empleado responde del 1 al 10 cuánto se siente parte de su equipo.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "correcta": "De escala numérica",
+    "incorrectas": [
+      "Con casillas",
+      "Formal",
+      "Específica",
+      "De salida",
+      "ENPS"
+    ],
+    "pista": "Fijate cómo se responde.",
+    "explicacion": "Responder con un número, por ejemplo del 1 al 10, es una encuesta de escala numérica: mide la opinión de forma cuantificable.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-enc-02",
+    "tipo": "clasificar",
+    "titulo": "Casi siempre",
+    "situacion": "En una encuesta, cada pregunta tiene opciones para marcar: «nunca», «a veces», «casi siempre» y «siempre».",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "correcta": "Con casillas",
+    "incorrectas": [
+      "De escala numérica",
+      "Formal",
+      "Específica",
+      "De desempeño",
+      "De selección"
+    ],
+    "pista": "Las respuestas no son números, sino opciones con un significado.",
+    "explicacion": "Marcar opciones con significado, como «casi siempre» o «estoy de acuerdo», es una encuesta con casillas: fácil de interpretar y con datos menos subjetivos.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-enc-03",
+    "tipo": "clasificar",
+    "titulo": "Cada año, todo",
+    "situacion": "Todos los años, en la misma fecha, una empresa hace un relevamiento completo de su organización con distintos tipos de preguntas, para comparar la evolución.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "correcta": "Formal",
+    "incorrectas": [
+      "Específica",
+      "Con casillas",
+      "De escala numérica",
+      "De ingreso",
+      "De competencia"
+    ],
+    "pista": "Es completa, programada y se repite para ver tendencias.",
+    "explicacion": "La encuesta formal busca un informe completo, se programa y se repite periódicamente para ver la evolución de la empresa.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-enc-04",
+    "tipo": "clasificar",
+    "titulo": "Solo sobre los jefes",
+    "situacion": "RRHH arma una encuesta virtual que pregunta únicamente qué opina el personal de sus jefes directos.",
+    "pregunta": "¿Qué tipo de encuesta de clima es?",
+    "correcta": "Específica",
+    "incorrectas": [
+      "Formal",
+      "Con casillas",
+      "De escala numérica",
+      "De salida",
+      "De desempeño"
+    ],
+    "pista": "Se concentra en un solo tema.",
+    "explicacion": "La encuesta específica se enfoca en un área puntual, como la opinión sobre los jefes, los directivos, las instalaciones o los compañeros.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-enc-05",
+    "tipo": "caso",
+    "titulo": "Nadie contesta",
+    "situacion": "En una empresa, casi nadie responde la encuesta de clima. En los pasillos se dice que «los jefes después saben quién escribió cada cosa».",
+    "pregunta": "¿Qué buena práctica de la encuesta de clima falta?",
+    "correcta": "Garantizar el anonimato de las respuestas",
+    "incorrectas": [
+      "Ofrecer incentivos más grandes para responder",
+      "Hacer la encuesta más larga y más completa",
+      "Que la encuesta la responda solo la Dirección",
+      "Hacer la encuesta una sola vez y no repetirla",
+      "Pedir a cada jefe que revise las respuestas"
+    ],
+    "pista": "El problema es el miedo a que se sepa qué respondió cada uno.",
+    "explicacion": "Garantizar el anonimato permite que la gente comparta su opinión sin miedo a represalias. Sin anonimato, nadie responde con sinceridad.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-enc-06",
+    "tipo": "caso",
+    "titulo": "¿Y los resultados?",
+    "situacion": "Hace tres años que una empresa hace la encuesta de clima, pero nunca contó los resultados ni cambió nada. Cada año responde menos gente.",
+    "pregunta": "¿Qué buena práctica le falta?",
+    "correcta": "Dar feedback de los resultados y actuar sobre ellos",
+    "incorrectas": [
+      "Garantizar que la encuesta sea anónima",
+      "Mandar más recordatorios para responder",
+      "Hacer la encuesta en papel en lugar de online",
+      "Cambiar el tipo de encuesta cada año",
+      "Hacer la encuesta fuera del horario laboral"
+    ],
+    "pista": "La gente responde, pero nunca ve que su opinión sirva para algo.",
+    "explicacion": "Dar feedback y actuar sobre los resultados muestra que las opiniones se valoran. Si nunca pasa nada, la gente deja de responder.",
+    "libro": "cli_encuesta"
+  },
+  {
+    "id": "cli-evp-01",
+    "tipo": "concepto",
+    "titulo": "Qué es el EVP",
+    "situacion": "Un candidato en una entrevista te pregunta qué significa que la empresa tenga un «EVP fuerte».",
+    "pregunta": "¿Qué es el EVP?",
+    "correcta": "El conjunto de beneficios y recompensas que se ofrece a cambio del trabajo",
+    "incorrectas": [
+      "La encuesta que mide cuánto recomendarían la empresa sus empleados",
+      "El ambiente psicológico y humano en el que se trabaja cada día",
+      "El reglamento interno con los derechos y deberes del personal",
+      "El plan estratégico que define dónde compite la empresa",
+      "El organigrama que muestra los puestos y sus jefaturas"
+    ],
+    "pista": "La sigla habla de «valor» para el empleado.",
+    "explicacion": "El EVP (propuesta de valor al empleado) es el conjunto único de beneficios y recompensas que la organización ofrece a cambio de las habilidades, capacidades y experiencia de su gente.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "cli-evp-02",
+    "tipo": "clasificar",
+    "titulo": "El bono anual",
+    "situacion": "Una empresa ofrece sueldos por encima del mercado y un bono anual según los resultados.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "correcta": "Compensación",
+    "incorrectas": [
+      "Beneficios",
+      "Oportunidades de desarrollo",
+      "Cultura y entorno laboral",
+      "Equilibrio vida-trabajo",
+      "Marca empleadora"
+    ],
+    "pista": "Es plata que se paga por el trabajo.",
+    "explicacion": "Los sueldos competitivos, los incentivos y los bonos son el pilar de compensación.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "cli-evp-03",
+    "tipo": "clasificar",
+    "titulo": "Viernes desde casa",
+    "situacion": "Una empresa permite trabajar desde casa dos días por semana y ofrece un programa de cuidado de la salud mental.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "correcta": "Equilibrio vida-trabajo",
+    "incorrectas": [
+      "Compensación",
+      "Beneficios",
+      "Oportunidades de desarrollo",
+      "Cultura y entorno laboral",
+      "Marca empleadora"
+    ],
+    "pista": "Tiene que ver con la flexibilidad y el bienestar fuera del puesto.",
+    "explicacion": "La flexibilidad, el trabajo remoto y el bienestar mental son el pilar de equilibrio vida-trabajo.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "cli-evp-04",
+    "tipo": "clasificar",
+    "titulo": "Plan de carrera",
+    "situacion": "Una empresa le paga a cada empleado un curso al año y arma con él un plan para llegar a un puesto mejor.",
+    "pregunta": "¿Qué pilar del EVP está fortaleciendo?",
+    "correcta": "Oportunidades de desarrollo",
+    "incorrectas": [
+      "Compensación",
+      "Beneficios",
+      "Cultura y entorno laboral",
+      "Equilibrio vida-trabajo",
+      "Salario emocional"
+    ],
+    "pista": "Todo apunta a que la persona aprenda y crezca.",
+    "explicacion": "La capacitación, los planes de carrera y el crecimiento profesional son el pilar de oportunidades de desarrollo.",
+    "libro": "cli_evp"
+  },
+  {
+    "id": "cli-evp-05",
+    "tipo": "caso",
+    "titulo": "Promesa incumplida",
+    "situacion": "Una empresa promociona su «equilibrio entre vida y trabajo», pero exige que su gente esté conectada todos los fines de semana. Los nuevos se van a los pocos meses.",
+    "pregunta": "¿Qué responsabilidad de RRHH sobre el EVP falló?",
+    "correcta": "Asegurar que el EVP sea auténtico y coincida con la experiencia real",
+    "incorrectas": [
+      "Diseñar un EVP con más beneficios económicos que la competencia",
+      "Comunicar el EVP en más redes sociales para atraer candidatos",
+      "Copiar el EVP de Google, que tiene beneficios excepcionales",
+      "Eliminar el EVP, porque solo sirve para empresas grandes",
+      "Cambiar el EVP todos los meses para sorprender a la gente"
+    ],
+    "pista": "Lo que se promete no es lo que la gente vive.",
+    "explicacion": "RRHH tiene que asegurar que el EVP sea auténtico y coincida con la experiencia real del empleado. Una promesa que no se cumple hace que la gente se vaya.",
+    "libro": "cli_evp_crear"
+  },
+  {
+    "id": "cli-evp-06",
+    "tipo": "concepto",
+    "titulo": "Por dónde empezar el EVP",
+    "situacion": "Una pyme quiere crear su EVP y no sabe por dónde arrancar. Te pide el primer paso.",
+    "pregunta": "¿Qué le recomendás?",
+    "correcta": "Conocer a los empleados con encuestas, entrevistas y datos",
+    "incorrectas": [
+      "Copiar el EVP de una empresa grande y exitosa del rubro",
+      "Comunicar un EVP en redes antes de definir su contenido",
+      "Subir todos los sueldos, que es lo único que importa",
+      "Esperar a que el mercado laboral se estabilice para hacerlo",
+      "Pedirle al directorio que lo escriba sin consultar a nadie"
+    ],
+    "pista": "Antes de ofrecer algo, hay que saber qué valora la gente.",
+    "explicacion": "El primer paso para crear un EVP efectivo es conocer a los empleados: encuestas, entrevistas y análisis de datos para saber qué valoran. Después se alinea con la cultura, se comunica y se revisa.",
+    "libro": "cli_evp_crear"
+  }
+]

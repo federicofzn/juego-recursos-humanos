@@ -1,0 +1,1776 @@
+[
+  {
+    "id": "def-int-atraer",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "acciones",
+    "ejemplo": "Participar de ferias de empleo en universidades.",
+    "titulo": "Atraer",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Atraer»?",
+    "respuestaCorrecta": "Conseguir que las personas que la organización necesita quieran sumarse a ella.",
+    "respuestasIncorrectas": [
+      "Lograr que las personas valiosas que ya trabajan en la organización quieran quedarse.",
+      "Generar condiciones para que las personas tengan ganas de dar lo mejor en su trabajo."
+    ],
+    "pista": "Pensá en este ejemplo: Participar de ferias de empleo en universidades.",
+    "explicacion": "Atraer: Conseguir que las personas que la organización necesita quieran sumarse a ella. Ejemplo: Participar de ferias de empleo en universidades.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "def-int-retener",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "acciones",
+    "ejemplo": "Mejorar la propuesta de carrera de los mejores vendedores para que no acepten otra oferta.",
+    "titulo": "Retener",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Retener»?",
+    "respuestaCorrecta": "Lograr que las personas valiosas que ya trabajan en la organización quieran quedarse.",
+    "respuestasIncorrectas": [
+      "Conseguir que las personas que la organización necesita quieran sumarse a ella.",
+      "Generar condiciones para que las personas tengan ganas de dar lo mejor en su trabajo."
+    ],
+    "pista": "Pensá en este ejemplo: Mejorar la propuesta de carrera de los mejores vendedores para que no acepten otra oferta.",
+    "explicacion": "Retener: Lograr que las personas valiosas que ya trabajan en la organización quieran quedarse. Ejemplo: Mejorar la propuesta de carrera de los mejores vendedores para que no acepten otra oferta.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "def-int-motivar",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "acciones",
+    "ejemplo": "Reconocer cada mes los mejores aportes de un equipo desganado.",
+    "titulo": "Motivar",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Motivar»?",
+    "respuestaCorrecta": "Generar condiciones para que las personas tengan ganas de dar lo mejor en su trabajo.",
+    "respuestasIncorrectas": [
+      "Conseguir que las personas que la organización necesita quieran sumarse a ella.",
+      "Lograr que las personas valiosas que ya trabajan en la organización quieran quedarse."
+    ],
+    "pista": "Pensá en este ejemplo: reconocer cada mes los aportes de un equipo desganado.",
+    "explicacion": "Motivar: Generar condiciones para que las personas tengan ganas de dar lo mejor en su trabajo. Ejemplo: Reconocer cada mes los mejores aportes de un equipo desganado.",
+    "referencia": {
+      "tipo": "Qué es RRHH",
+      "titulo": "Qué es la gestión de Recursos Humanos",
+      "entradaLibro": "intro_gestion"
+    }
+  },
+  {
+    "id": "def-int-socio",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "ulrich",
+    "ejemplo": "La gerenta de RRHH arma el plan del año con el directorio.",
+    "titulo": "Socio estratégico",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Socio estratégico»?",
+    "respuestaCorrecta": "Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen.",
+    "respuestasIncorrectas": [
+      "Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación.",
+      "Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento.",
+      "Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad."
+    ],
+    "pista": "Pensá en este ejemplo: la gerenta de RRHH participa de las reuniones del directorio.",
+    "explicacion": "Socio estratégico: Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen. Ejemplo: La gerenta de RRHH arma el plan del año con el directorio.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "def-int-agente",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "ulrich",
+    "ejemplo": "RRHH rediseña el organigrama de un área a partir de una encuesta.",
+    "titulo": "Agente de cambio",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Agente de cambio»?",
+    "respuestaCorrecta": "Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación.",
+    "respuestasIncorrectas": [
+      "Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen.",
+      "Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento.",
+      "Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad."
+    ],
+    "pista": "Pensá en este ejemplo: RRHH lidera el cambio en la forma de trabajar de un área completa.",
+    "explicacion": "Agente de cambio: Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación. Ejemplo: RRHH rediseña el organigrama de un área a partir de una encuesta.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "def-int-experto",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "ulrich",
+    "ejemplo": "El equipo que liquida los sueldos cada mes.",
+    "titulo": "Experto en administración y gestión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Experto en administración y gestión»?",
+    "respuestaCorrecta": "Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento.",
+    "respuestasIncorrectas": [
+      "Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen.",
+      "Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación.",
+      "Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad."
+    ],
+    "pista": "Pensá en este ejemplo: El equipo que liquida los sueldos cada mes.",
+    "explicacion": "Experto en administración y gestión: Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento. Ejemplo: El equipo que liquida los sueldos cada mes.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "def-int-lider",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "ulrich",
+    "ejemplo": "Una analista que coordina con el delegado del sindicato.",
+    "titulo": "Líder de efectividad y socio de trabajadores",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Líder de efectividad y socio de trabajadores»?",
+    "respuestaCorrecta": "Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad.",
+    "respuestasIncorrectas": [
+      "Rol de RRHH que mira al futuro desde los procesos: plan estratégico, apoyo a las áreas del negocio, cultura e imagen.",
+      "Rol de RRHH que mira al futuro desde las personas: reclutamiento, diseño organizacional, encuestas, desempeño y formación.",
+      "Rol de RRHH del día a día enfocado en procesos: compensación, beneficios, sistemas de información y cumplimiento."
+    ],
+    "pista": "Pensá en este ejemplo: Una analista que coordina con el delegado del sindicato.",
+    "explicacion": "Líder de efectividad y socio de trabajadores: Rol de RRHH del día a día enfocado en personas: relaciones con los trabajadores, relaciones laborales, seguridad y diversidad. Ejemplo: Una analista que coordina con el delegado del sindicato.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Los 4 roles de RRHH según Dave Ulrich",
+      "entradaLibro": "intro_ulrich"
+    }
+  },
+  {
+    "id": "def-int-quienes",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "mckinsey",
+    "ejemplo": "Una empresa revisa y explica a todos para qué existe.",
+    "titulo": "Quiénes somos (McKinsey)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Quiénes somos (McKinsey)»?",
+    "respuestaCorrecta": "Tener claro por qué existe la organización, qué hace y cómo funciona.",
+    "respuestasIncorrectas": [
+      "Aplanar la organización con equipos que deciden rápido y cuidan a las personas como el capital más escaso.",
+      "Adelantarse aprendiendo más rápido que otros, aprovechando los datos y la red de socios."
+    ],
+    "pista": "Pensá en este ejemplo: una empresa que le explica a su gente su razón de ser.",
+    "explicacion": "Quiénes somos (McKinsey): Tener claro por qué existe la organización, qué hace y cómo funciona. Ejemplo: Una empresa revisa y explica a todos para qué existe.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "def-int-operamos",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "mckinsey",
+    "ejemplo": "Eliminar dos niveles de jefaturas.",
+    "titulo": "Cómo operamos (McKinsey)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cómo operamos (McKinsey)»?",
+    "respuestaCorrecta": "Aplanar la organización con equipos que deciden rápido y cuidan a las personas como el capital más escaso.",
+    "respuestasIncorrectas": [
+      "Tener claro por qué existe la organización, qué hace y cómo funciona.",
+      "Adelantarse aprendiendo más rápido que otros, aprovechando los datos y la red de socios."
+    ],
+    "pista": "Pensá en este ejemplo: Eliminar dos niveles de jefaturas.",
+    "explicacion": "Cómo operamos (McKinsey): Aplanar la organización con equipos que deciden rápido y cuidan a las personas como el capital más escaso. Ejemplo: Eliminar dos niveles de jefaturas.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "def-int-crecemos",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "mckinsey",
+    "ejemplo": "Invertir para que los equipos aprendan antes que la competencia.",
+    "titulo": "Cómo crecemos (McKinsey)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cómo crecemos (McKinsey)»?",
+    "respuestaCorrecta": "Adelantarse aprendiendo más rápido que otros, aprovechando los datos y la red de socios.",
+    "respuestasIncorrectas": [
+      "Tener claro por qué existe la organización, qué hace y cómo funciona.",
+      "Aplanar la organización con equipos que deciden rápido y cuidan a las personas como el capital más escaso."
+    ],
+    "pista": "Pensá en este ejemplo: invertir para sacarle ventaja a la competencia con nuevos conocimientos.",
+    "explicacion": "Cómo crecemos (McKinsey): Adelantarse aprendiendo más rápido que otros, aprovechando los datos y la red de socios. Ejemplo: Invertir para que los equipos aprendan antes que la competencia.",
+    "referencia": {
+      "tipo": "Roles",
+      "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
+      "entradaLibro": "intro_mckinsey"
+    }
+  },
+  {
+    "id": "def-int-at",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "agile",
+    "ejemplo": "Un equipo de sistemas empieza a trabajar con Scrum.",
+    "titulo": "Agilidad técnica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Agilidad técnica»?",
+    "respuestaCorrecta": "Implantación ágil que cambia las metodologías y los procesos de trabajo; la lidera el área de tecnología.",
+    "respuestasIncorrectas": [
+      "Implantación ágil que cambia los valores y la forma de organizarse de toda la organización; la lidera RRHH.",
+      "Llevar a la gestión de personas una forma de trabajo flexible, colaborativa y rápida para responder a los cambios."
+    ],
+    "pista": "Pensá en este ejemplo: Un equipo de sistemas empieza a trabajar con Scrum.",
+    "explicacion": "Agilidad técnica: Implantación ágil que cambia las metodologías y los procesos de trabajo; la lidera el área de tecnología. Ejemplo: Un equipo de sistemas empieza a trabajar con Scrum.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "def-int-ao",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "agile",
+    "ejemplo": "Todas las áreas pasan a equipos que se organizan solos.",
+    "titulo": "Agilidad organizacional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Agilidad organizacional»?",
+    "respuestaCorrecta": "Implantación ágil que cambia los valores y la forma de organizarse de toda la organización; la lidera RRHH.",
+    "respuestasIncorrectas": [
+      "Implantación ágil que cambia las metodologías y los procesos de trabajo; la lidera el área de tecnología.",
+      "Llevar a la gestión de personas una forma de trabajo flexible, colaborativa y rápida para responder a los cambios."
+    ],
+    "pista": "Pensá en este ejemplo: Todas las áreas pasan a equipos que se organizan solos.",
+    "explicacion": "Agilidad organizacional: Implantación ágil que cambia los valores y la forma de organizarse de toda la organización; la lidera RRHH. Ejemplo: Todas las áreas pasan a equipos que se organizan solos.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "def-int-agile",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "agile",
+    "ejemplo": "RRHH revisa cada pocas semanas sus prácticas y las ajusta.",
+    "titulo": "RRHH Agile",
+    "situacion": "",
+    "pregunta": "¿Qué significa «RRHH Agile»?",
+    "respuestaCorrecta": "Llevar a la gestión de personas una forma de trabajo flexible, colaborativa y rápida para responder a los cambios.",
+    "respuestasIncorrectas": [
+      "Implantación ágil que cambia las metodologías y los procesos de trabajo; la lidera el área de tecnología.",
+      "Implantación ágil que cambia los valores y la forma de organizarse de toda la organización; la lidera RRHH."
+    ],
+    "pista": "Pensá en este ejemplo: RRHH revisa cada pocas semanas sus prácticas y las ajusta.",
+    "explicacion": "RRHH Agile: Llevar a la gestión de personas una forma de trabajo flexible, colaborativa y rápida para responder a los cambios. Ejemplo: RRHH revisa cada pocas semanas sus prácticas y las ajusta.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "RRHH Agile",
+      "entradaLibro": "intro_agile"
+    }
+  },
+  {
+    "id": "def-int-planif",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Calcular cuántos vendedores harán falta el año que viene.",
+    "titulo": "Planificación de RRHH",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Planificación de RRHH»?",
+    "respuestaCorrecta": "Primera etapa del proceso: definir qué personas va a necesitar la organización.",
+    "respuestasIncorrectas": [
+      "Buscar y atraer candidatos para un puesto.",
+      "Elegir, entre los candidatos, a quienes van a ingresar.",
+      "Recibir e integrar a quien ingresa a la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Calcular cuántos vendedores harán falta el año que viene.",
+    "explicacion": "Planificación de RRHH: Primera etapa del proceso: definir qué personas va a necesitar la organización. Ejemplo: Calcular cuántos vendedores harán falta el año que viene.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "def-int-reclut",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Publicar una búsqueda en una bolsa de empleo.",
+    "titulo": "Reclutamiento",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Reclutamiento»?",
+    "respuestaCorrecta": "Buscar y atraer candidatos para un puesto.",
+    "respuestasIncorrectas": [
+      "Primera etapa del proceso: definir qué personas va a necesitar la organización.",
+      "Elegir, entre los candidatos, a quienes van a ingresar.",
+      "Recibir e integrar a quien ingresa a la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Publicar una búsqueda en una bolsa de empleo.",
+    "explicacion": "Reclutamiento: Buscar y atraer candidatos para un puesto. Ejemplo: Publicar una búsqueda en una bolsa de empleo.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "def-int-selec",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Entrevistar a cinco postulantes y quedarse con uno.",
+    "titulo": "Selección",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Selección»?",
+    "respuestaCorrecta": "Elegir, entre los candidatos, a quienes van a ingresar.",
+    "respuestasIncorrectas": [
+      "Primera etapa del proceso: definir qué personas va a necesitar la organización.",
+      "Buscar y atraer candidatos para un puesto.",
+      "Recibir e integrar a quien ingresa a la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Entrevistar a cinco postulantes y quedarse con uno.",
+    "explicacion": "Selección: Elegir, entre los candidatos, a quienes van a ingresar. Ejemplo: Entrevistar a cinco postulantes y quedarse con uno.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "def-int-orient",
+    "unidad": "introduccion",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Presentarle la empresa y su equipo en la primera semana.",
+    "titulo": "Orientación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Orientación»?",
+    "respuestaCorrecta": "Recibir e integrar a quien ingresa a la organización.",
+    "respuestasIncorrectas": [
+      "Primera etapa del proceso: definir qué personas va a necesitar la organización.",
+      "Buscar y atraer candidatos para un puesto.",
+      "Elegir, entre los candidatos, a quienes van a ingresar."
+    ],
+    "pista": "Pensá en este ejemplo: Presentarle la empresa y su equipo en la primera semana.",
+    "explicacion": "Orientación: Recibir e integrar a quien ingresa a la organización. Ejemplo: Presentarle la empresa y su equipo en la primera semana.",
+    "referencia": {
+      "tipo": "Procesos",
+      "titulo": "El proceso de gestión de RRHH",
+      "entradaLibro": "intro_proceso"
+    }
+  },
+  {
+    "id": "def-est-aspiracion",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "preguntas",
+    "ejemplo": "«Existimos para que cualquier familia pueda conectarse a internet».",
+    "titulo": "Aspiración ganadora",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Aspiración ganadora»?",
+    "respuestaCorrecta": "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+    "respuestasIncorrectas": [
+      "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+      "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+      "Las actividades que permiten hacer realidad las decisiones de la estrategia.",
+      "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia."
+    ],
+    "pista": "Pensá en este ejemplo: «Queremos que cualquier familia pueda conectarse a internet».",
+    "explicacion": "Aspiración ganadora: El propósito que guía a la organización: para qué existe y qué significa ganar para ella. Ejemplo: «Existimos para que cualquier familia pueda conectarse a internet».",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-donde",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "preguntas",
+    "ejemplo": "Vender solo online y dejar los supermercados.",
+    "titulo": "Dónde jugar",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dónde jugar»?",
+    "respuestaCorrecta": "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+    "respuestasIncorrectas": [
+      "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+      "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+      "Las actividades que permiten hacer realidad las decisiones de la estrategia.",
+      "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia."
+    ],
+    "pista": "Pensá en este ejemplo: Vender solo online y dejar los supermercados.",
+    "explicacion": "Dónde jugar: La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción. Ejemplo: Vender solo online y dejar los supermercados.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-como",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "preguntas",
+    "ejemplo": "Ganarle a la competencia con el precio más bajo.",
+    "titulo": "Cómo jugar",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cómo jugar»?",
+    "respuestaCorrecta": "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+    "respuestasIncorrectas": [
+      "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+      "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+      "Las actividades que permiten hacer realidad las decisiones de la estrategia.",
+      "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia."
+    ],
+    "pista": "Pensá en este ejemplo: Ganarle a la competencia con el precio más bajo.",
+    "explicacion": "Cómo jugar: La forma de ganar en el campo elegido, es decir, la ventaja competitiva. Ejemplo: Ganarle a la competencia con el precio más bajo.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-capacidades",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "preguntas",
+    "ejemplo": "Armar una logística propia para los envíos.",
+    "titulo": "Capacidades",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Capacidades»?",
+    "respuestaCorrecta": "Las actividades que permiten hacer realidad las decisiones de la estrategia.",
+    "respuestasIncorrectas": [
+      "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+      "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+      "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+      "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia."
+    ],
+    "pista": "Pensá en este ejemplo: Armar una logística propia para los envíos.",
+    "explicacion": "Capacidades: Las actividades que permiten hacer realidad las decisiones de la estrategia. Ejemplo: Armar una logística propia para los envíos.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-sistemas",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "preguntas",
+    "ejemplo": "Un tablero de indicadores revisado cada mes.",
+    "titulo": "Sistemas de gestión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Sistemas de gestión»?",
+    "respuestaCorrecta": "Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia.",
+    "respuestasIncorrectas": [
+      "El propósito que guía a la organización: para qué existe y qué significa ganar para ella.",
+      "La elección del campo de competencia: clientes, canales, productos, zonas y etapa de producción.",
+      "La forma de ganar en el campo elegido, es decir, la ventaja competitiva.",
+      "Las actividades que permiten hacer realidad las decisiones de la estrategia."
+    ],
+    "pista": "Pensá en este ejemplo: Un tablero de indicadores revisado cada mes.",
+    "explicacion": "Sistemas de gestión: Los procesos, estructuras y reglas que construyen capacidades y miden la estrategia. Ejemplo: Un tablero de indicadores revisado cada mes.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-ventaja",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "ventaja",
+    "ejemplo": "Una marca que vende mucho más que el resto en su rubro.",
+    "titulo": "Ventaja competitiva",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ventaja competitiva»?",
+    "respuestaCorrecta": "Lo que hace que una organización le gane a sus competidores.",
+    "respuestasIncorrectas": [
+      "Ganar ofreciendo un precio más bajo que la competencia.",
+      "Ganar ofreciendo algo que los clientes perciben como único, aunque cueste más."
+    ],
+    "pista": "Pensá en este ejemplo: Una marca que vende mucho más que el resto en su rubro.",
+    "explicacion": "Ventaja competitiva: Lo que hace que una organización le gane a sus competidores. Ejemplo: Una marca que vende mucho más que el resto en su rubro.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-costo",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "ventaja",
+    "ejemplo": "Una cadena con los electrodomésticos más baratos del mercado.",
+    "titulo": "Ventaja por costo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ventaja por costo»?",
+    "respuestaCorrecta": "Ganar ofreciendo un precio más bajo que la competencia.",
+    "respuestasIncorrectas": [
+      "Lo que hace que una organización le gane a sus competidores.",
+      "Ganar ofreciendo algo que los clientes perciben como único, aunque cueste más."
+    ],
+    "pista": "Pensá en este ejemplo: Una cadena con los electrodomésticos más baratos del mercado.",
+    "explicacion": "Ventaja por costo: Ganar ofreciendo un precio más bajo que la competencia. Ejemplo: Una cadena con los electrodomésticos más baratos del mercado.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-diferenciacion",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "ventaja",
+    "ejemplo": "Zapatillas con un diseño que no se consigue en otro lado.",
+    "titulo": "Ventaja por diferenciación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ventaja por diferenciación»?",
+    "respuestaCorrecta": "Ganar ofreciendo algo que los clientes perciben como único, aunque cueste más.",
+    "respuestasIncorrectas": [
+      "Lo que hace que una organización le gane a sus competidores.",
+      "Ganar ofreciendo un precio más bajo que la competencia."
+    ],
+    "pista": "Pensá en este ejemplo: Zapatillas con un diseño que no se consigue en otro lado.",
+    "explicacion": "Ventaja por diferenciación: Ganar ofreciendo algo que los clientes perciben como único, aunque cueste más. Ejemplo: Zapatillas con un diseño que no se consigue en otro lado.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Qué es una estrategia y sus 5 preguntas",
+      "entradaLibro": "est_estrategia"
+    }
+  },
+  {
+    "id": "def-est-planif",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "fases",
+    "ejemplo": "Definir quiénes participan del plan y en qué fechas.",
+    "titulo": "Fase de planificación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Fase de planificación»?",
+    "respuestaCorrecta": "Diseñar el proceso de planeamiento estratégico.",
+    "respuestasIncorrectas": [
+      "Ver el impacto de RRHH, detectar brechas, definir acciones y comunicar el plan.",
+      "Controlar cómo avanza el plan estratégico."
+    ],
+    "pista": "Pensá en este ejemplo: Definir quiénes participan del plan y en qué fechas.",
+    "explicacion": "Fase de planificación: Diseñar el proceso de planeamiento estratégico. Ejemplo: Definir quiénes participan del plan y en qué fechas.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "def-est-constr",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "fases",
+    "ejemplo": "Descubrir que faltan programadores y armar un plan para conseguirlos.",
+    "titulo": "Fase de construcción",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Fase de construcción»?",
+    "respuestaCorrecta": "Ver el impacto de RRHH, detectar brechas, definir acciones y comunicar el plan.",
+    "respuestasIncorrectas": [
+      "Diseñar el proceso de planeamiento estratégico.",
+      "Controlar cómo avanza el plan estratégico."
+    ],
+    "pista": "Pensá en este ejemplo: Descubrir que faltan programadores y armar un plan para conseguirlos.",
+    "explicacion": "Fase de construcción: Ver el impacto de RRHH, detectar brechas, definir acciones y comunicar el plan. Ejemplo: Descubrir que faltan programadores y armar un plan para conseguirlos.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "def-est-seguim",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "fases",
+    "ejemplo": "Revisar cada mes si se cumplen las metas del plan.",
+    "titulo": "Fase de seguimiento",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Fase de seguimiento»?",
+    "respuestaCorrecta": "Controlar cómo avanza el plan estratégico.",
+    "respuestasIncorrectas": [
+      "Diseñar el proceso de planeamiento estratégico.",
+      "Ver el impacto de RRHH, detectar brechas, definir acciones y comunicar el plan."
+    ],
+    "pista": "Pensá en este ejemplo: Revisar cada mes si se cumplen las metas del plan.",
+    "explicacion": "Fase de seguimiento: Controlar cómo avanza el plan estratégico. Ejemplo: Revisar cada mes si se cumplen las metas del plan.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "La estrategia de RRHH y sus fases",
+      "entradaLibro": "est_rrhh"
+    }
+  },
+  {
+    "id": "def-est-cultura",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "cultura",
+    "ejemplo": "En una empresa, todos saben que «acá nadie se va sin ayudar a un compañero».",
+    "titulo": "Cultura organizacional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cultura organizacional»?",
+    "respuestaCorrecta": "Las creencias, valores y comportamientos que marcan cómo hay que actuar para pertenecer a una organización.",
+    "respuestasIncorrectas": [
+      "Señales visibles que muestran qué importa: oficinas, títulos, en qué se gasta y en qué se usa el tiempo.",
+      "Lo que hacen los líderes e influyentes, y si lo que dicen coincide con lo que hacen."
+    ],
+    "pista": "Pensá en este ejemplo: En una empresa, todos saben que «acá nadie se va sin ayudar a un compañero».",
+    "explicacion": "Cultura organizacional: Las creencias, valores y comportamientos que marcan cómo hay que actuar para pertenecer a una organización. Ejemplo: En una empresa, todos saben que «acá nadie se va sin ayudar a un compañero».",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "def-est-simbolos",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "cultura",
+    "ejemplo": "Solo los directores tienen estacionamiento.",
+    "titulo": "Símbolos (mensajes culturales)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Símbolos (mensajes culturales)»?",
+    "respuestaCorrecta": "Señales visibles que muestran qué importa: oficinas, títulos, en qué se gasta y en qué se usa el tiempo.",
+    "respuestasIncorrectas": [
+      "Las creencias, valores y comportamientos que marcan cómo hay que actuar para pertenecer a una organización.",
+      "Lo que hacen los líderes e influyentes, y si lo que dicen coincide con lo que hacen."
+    ],
+    "pista": "Pensá en este ejemplo: Solo los directores tienen estacionamiento.",
+    "explicacion": "Símbolos (mensajes culturales): Señales visibles que muestran qué importa: oficinas, títulos, en qué se gasta y en qué se usa el tiempo. Ejemplo: Solo los directores tienen estacionamiento.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "def-est-comport",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "cultura",
+    "ejemplo": "Un gerente que habla de equilibrio y escribe a las 2 de la mañana.",
+    "titulo": "Comportamientos (mensajes culturales)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Comportamientos (mensajes culturales)»?",
+    "respuestaCorrecta": "Lo que hacen los líderes e influyentes, y si lo que dicen coincide con lo que hacen.",
+    "respuestasIncorrectas": [
+      "Las creencias, valores y comportamientos que marcan cómo hay que actuar para pertenecer a una organización.",
+      "Señales visibles que muestran qué importa: oficinas, títulos, en qué se gasta y en qué se usa el tiempo."
+    ],
+    "pista": "Pensá en este ejemplo: Un gerente que habla de equilibrio y escribe a las 2 de la mañana.",
+    "explicacion": "Comportamientos (mensajes culturales): Lo que hacen los líderes e influyentes, y si lo que dicen coincide con lo que hacen. Ejemplo: Un gerente que habla de equilibrio y escribe a las 2 de la mañana.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Qué es la cultura y de dónde salen sus mensajes",
+      "entradaLibro": "est_cultura"
+    }
+  },
+  {
+    "id": "def-tra-seleccion",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "formacion",
+    "ejemplo": "Contratar solo a quienes comparten los valores de la empresa.",
+    "titulo": "Criterios de selección (cultura)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Criterios de selección (cultura)»?",
+    "respuestaCorrecta": "La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura.",
+    "respuestasIncorrectas": [
+      "Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja.",
+      "El proceso por el que quienes ingresan aprenden cómo funciona la organización.",
+      "Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Contratar solo a quienes comparten los valores de la empresa.",
+    "explicacion": "Criterios de selección (cultura): La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura. Ejemplo: Contratar solo a quienes comparten los valores de la empresa.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "def-tra-fundadores",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "formacion",
+    "ejemplo": "«El cliente siempre tiene la razón», repetido desde hace treinta años.",
+    "titulo": "Filosofía de los fundadores",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Filosofía de los fundadores»?",
+    "respuestaCorrecta": "Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja.",
+    "respuestasIncorrectas": [
+      "La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura.",
+      "El proceso por el que quienes ingresan aprenden cómo funciona la organización.",
+      "Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización."
+    ],
+    "pista": "Pensá en este ejemplo: «El cliente siempre tiene la razón», repetido desde hace treinta años.",
+    "explicacion": "Filosofía de los fundadores: Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja. Ejemplo: «El cliente siempre tiene la razón», repetido desde hace treinta años.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "def-tra-socializacion",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "formacion",
+    "ejemplo": "Una semana junto a un compañero que muestra cómo se hacen las cosas.",
+    "titulo": "Socialización",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Socialización»?",
+    "respuestaCorrecta": "El proceso por el que quienes ingresan aprenden cómo funciona la organización.",
+    "respuestasIncorrectas": [
+      "La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura.",
+      "Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja.",
+      "Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Una semana junto a un compañero que muestra cómo se hacen las cosas.",
+    "explicacion": "Socialización: El proceso por el que quienes ingresan aprenden cómo funciona la organización. Ejemplo: Una semana junto a un compañero que muestra cómo se hacen las cosas.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "def-tra-gerencia",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "formacion",
+    "ejemplo": "El directorio que festeja los errores que dejan aprendizaje.",
+    "titulo": "Alta gerencia (cultura)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Alta gerencia (cultura)»?",
+    "respuestaCorrecta": "Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización.",
+    "respuestasIncorrectas": [
+      "La forma en que la organización elige a quién incorporar, que moldea quiénes forman la cultura.",
+      "Las ideas de quienes crearon la organización, que siguen guiando cómo se trabaja.",
+      "El proceso por el que quienes ingresan aprenden cómo funciona la organización."
+    ],
+    "pista": "Pensá en este ejemplo: los dueños y gerentes que festejan los errores que dejan aprendizaje.",
+    "explicacion": "Alta gerencia (cultura): Los directivos, cuyo ejemplo y decisiones marcan la cultura de toda la organización. Ejemplo: El directorio que festeja los errores que dejan aprendizaje.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "entradaLibro": "tra_cultura"
+    }
+  },
+  {
+    "id": "def-tra-toda",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "estrategias",
+    "ejemplo": "Toda la empresa pasa al mismo tiempo a equipos ágiles.",
+    "titulo": "Transformar toda la organización",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Transformar toda la organización»?",
+    "respuestaCorrecta": "Estrategia de cambio que abarca a todas las áreas a la vez.",
+    "respuestasIncorrectas": [
+      "Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios.",
+      "Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas.",
+      "Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia."
+    ],
+    "pista": "Pensá en este ejemplo: Toda la empresa pasa al mismo tiempo a equipos ágiles.",
+    "explicacion": "Transformar toda la organización: Estrategia de cambio que abarca a todas las áreas a la vez. Ejemplo: Toda la empresa pasa al mismo tiempo a equipos ágiles.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "def-tra-area",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "estrategias",
+    "ejemplo": "Solo marketing pasa a trabajar en equipos ágiles.",
+    "titulo": "Transformar un área o unidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Transformar un área o unidad»?",
+    "respuestaCorrecta": "Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios.",
+    "respuestasIncorrectas": [
+      "Estrategia de cambio que abarca a todas las áreas a la vez.",
+      "Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas.",
+      "Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia."
+    ],
+    "pista": "Pensá en este ejemplo: solo marketing pasa a trabajar de forma ágil.",
+    "explicacion": "Transformar un área o unidad: Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios. Ejemplo: Solo marketing pasa a trabajar en equipos ágiles.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "def-tra-experimentos",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "estrategias",
+    "ejemplo": "Probar durante dos meses una forma de trabajo en un solo proyecto.",
+    "titulo": "Experimentos aislados",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Experimentos aislados»?",
+    "respuestaCorrecta": "Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas.",
+    "respuestasIncorrectas": [
+      "Estrategia de cambio que abarca a todas las áreas a la vez.",
+      "Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios.",
+      "Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia."
+    ],
+    "pista": "Pensá en este ejemplo: Probar durante dos meses una forma de trabajo en un solo proyecto.",
+    "explicacion": "Experimentos aislados: Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas. Ejemplo: Probar durante dos meses una forma de trabajo en un solo proyecto.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "def-tra-practicas",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "estrategias",
+    "ejemplo": "Primero las reuniones, después las evaluaciones, después los equipos.",
+    "titulo": "Actualizar las prácticas una a una",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Actualizar las prácticas una a una»?",
+    "respuestaCorrecta": "Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia.",
+    "respuestasIncorrectas": [
+      "Estrategia de cambio que abarca a todas las áreas a la vez.",
+      "Estrategia de cambio que se aplica a un sector, equipo o unidad de negocios.",
+      "Estrategia de cambio que prueba nuevas formas de trabajo en casos puntuales, para aprender antes de extenderlas."
+    ],
+    "pista": "Pensá en este ejemplo: Primero las reuniones, después las evaluaciones, después los equipos.",
+    "explicacion": "Actualizar las prácticas una a una: Estrategia de cambio que modifica de a una las formas de trabajar, en secuencia. Ejemplo: Primero las reuniones, después las evaluaciones, después los equipos.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "def-tra-transformacion",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Una cadena de farmacias que deja la jerarquía para pasar a la agilidad.",
+    "titulo": "Transformación organizacional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Transformación organizacional»?",
+    "respuestaCorrecta": "Método estratégico para llevar a una empresa desde el presente hasta sus proyecciones a futuro.",
+    "respuestasIncorrectas": [
+      "Aparentar que se cambia mientras todo sigue igual.",
+      "Entender la cultura actual antes de intervenir: qué transmite, qué refuerza y qué frena el cambio."
+    ],
+    "pista": "Pensá en este ejemplo: Una cadena de farmacias que deja la jerarquía para pasar a la agilidad.",
+    "explicacion": "Transformación organizacional: Método estratégico para llevar a una empresa desde el presente hasta sus proyecciones a futuro. Ejemplo: Una cadena de farmacias que deja la jerarquía para pasar a la agilidad.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "entradaLibro": "tra_transformar"
+    }
+  },
+  {
+    "id": "def-tra-gatopardismo",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Anunciar un programa de innovación sin modificar ningún proceso.",
+    "titulo": "Gatopardismo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Gatopardismo»?",
+    "respuestaCorrecta": "Aparentar que se cambia mientras todo sigue igual.",
+    "respuestasIncorrectas": [
+      "Método estratégico para llevar a una empresa desde el presente hasta sus proyecciones a futuro.",
+      "Entender la cultura actual antes de intervenir: qué transmite, qué refuerza y qué frena el cambio."
+    ],
+    "pista": "Pensá en este ejemplo: Anunciar un programa de innovación sin modificar ningún proceso.",
+    "explicacion": "Gatopardismo: Aparentar que se cambia mientras todo sigue igual. Ejemplo: Anunciar un programa de innovación sin modificar ningún proceso.",
+    "referencia": {
+      "tipo": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "entradaLibro": "tra_destruir"
+    }
+  },
+  {
+    "id": "def-tra-diagnostico",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Preguntar si los jefes generan confianza antes de lanzar un cambio.",
+    "titulo": "Diagnóstico cultural",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Diagnóstico cultural»?",
+    "respuestaCorrecta": "Entender la cultura actual antes de intervenir: qué transmite, qué refuerza y qué frena el cambio.",
+    "respuestasIncorrectas": [
+      "Método estratégico para llevar a una empresa desde el presente hasta sus proyecciones a futuro.",
+      "Aparentar que se cambia mientras todo sigue igual."
+    ],
+    "pista": "Pensá en este ejemplo: Preguntar si los jefes generan confianza antes de lanzar un cambio.",
+    "explicacion": "Diagnóstico cultural: Entender la cultura actual antes de intervenir: qué transmite, qué refuerza y qué frena el cambio. Ejemplo: Preguntar si los jefes generan confianza antes de lanzar un cambio.",
+    "referencia": {
+      "tipo": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "entradaLibro": "tra_diagnostico"
+    }
+  },
+  {
+    "id": "def-tra-upskilling",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "temas",
+    "ejemplo": "Enseñar nuevas herramientas a los analistas contables.",
+    "titulo": "Upskilling",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Upskilling»?",
+    "respuestaCorrecta": "Mejorar las habilidades de una persona para que haga mejor su mismo trabajo.",
+    "respuestasIncorrectas": [
+      "Enseñar habilidades nuevas a una persona para que pase a otro puesto.",
+      "Medición de cuánto recomendarían los empleados su organización como lugar para trabajar."
+    ],
+    "pista": "Pensá en este ejemplo: Enseñar nuevas herramientas a los analistas contables.",
+    "explicacion": "Upskilling: Mejorar las habilidades de una persona para que haga mejor su mismo trabajo. Ejemplo: Enseñar nuevas herramientas a los analistas contables.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "entradaLibro": "tra_temas"
+    }
+  },
+  {
+    "id": "def-tra-reskilling",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "temas",
+    "ejemplo": "Formar a cajeros para que atiendan la venta online.",
+    "titulo": "Reskilling",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Reskilling»?",
+    "respuestaCorrecta": "Enseñar habilidades nuevas a una persona para que pase a otro puesto.",
+    "respuestasIncorrectas": [
+      "Mejorar las habilidades de una persona para que haga mejor su mismo trabajo.",
+      "Medición de cuánto recomendarían los empleados su organización como lugar para trabajar."
+    ],
+    "pista": "Pensá en este ejemplo: Formar a cajeros para que atiendan la venta online.",
+    "explicacion": "Reskilling: Enseñar habilidades nuevas a una persona para que pase a otro puesto. Ejemplo: Formar a cajeros para que atiendan la venta online.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "entradaLibro": "tra_temas"
+    }
+  },
+  {
+    "id": "def-tra-enps",
+    "unidad": "transformacion",
+    "tipo": "definicion",
+    "grupo": "temas",
+    "ejemplo": "Preguntar del 0 al 10 si le dirías a un amigo que entre a tu empresa.",
+    "titulo": "ENPS",
+    "situacion": "",
+    "pregunta": "¿Qué significa «ENPS»?",
+    "respuestaCorrecta": "Medición de cuánto recomendarían los empleados su organización como lugar para trabajar.",
+    "respuestasIncorrectas": [
+      "Mejorar las habilidades de una persona para que haga mejor su mismo trabajo.",
+      "Enseñar habilidades nuevas a una persona para que pase a otro puesto."
+    ],
+    "pista": "Pensá en este ejemplo: Preguntar del 0 al 10 si le dirías a un amigo que entre a tu empresa.",
+    "explicacion": "ENPS: Medición de cuánto recomendarían los empleados su organización como lugar para trabajar. Ejemplo: Preguntar del 0 al 10 si le dirías a un amigo que entre a tu empresa.",
+    "referencia": {
+      "tipo": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "entradaLibro": "tra_temas"
+    }
+  },
+  {
+    "id": "def-cli-espacio",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "caracteristicas",
+    "ejemplo": "Rutas de evacuación señalizadas y equipos de protección para todos.",
+    "titulo": "Espacio de trabajo adecuado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Espacio de trabajo adecuado»?",
+    "respuestaCorrecta": "Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud.",
+    "respuestasIncorrectas": [
+      "Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias.",
+      "Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles.",
+      "Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones."
+    ],
+    "pista": "Pensá en este ejemplo: Rutas de evacuación señalizadas y equipos de protección para todos.",
+    "explicacion": "Espacio de trabajo adecuado: Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud. Ejemplo: Rutas de evacuación señalizadas y equipos de protección para todos.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "def-cli-procesos",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "caracteristicas",
+    "ejemplo": "Cada persona sabe qué tarea le toca y con qué planilla trabajar.",
+    "titulo": "Organización y estandarización de procesos",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Organización y estandarización de procesos»?",
+    "respuestaCorrecta": "Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias.",
+    "respuestasIncorrectas": [
+      "Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud.",
+      "Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles.",
+      "Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones."
+    ],
+    "pista": "Pensá en este ejemplo: Cada persona sabe qué tarea le toca y con qué planilla trabajar.",
+    "explicacion": "Organización y estandarización de procesos: Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias. Ejemplo: Cada persona sabe qué tarea le toca y con qué planilla trabajar.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "def-cli-relaciones",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "caracteristicas",
+    "ejemplo": "Un equipo que recibe reconocimiento y tiene sus vacaciones garantizadas.",
+    "titulo": "Relaciones laborales (clima)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Relaciones laborales (clima)»?",
+    "respuestaCorrecta": "Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles.",
+    "respuestasIncorrectas": [
+      "Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud.",
+      "Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias.",
+      "Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones."
+    ],
+    "pista": "Pensá en este ejemplo: Un equipo que recibe reconocimiento y tiene sus vacaciones garantizadas.",
+    "explicacion": "Relaciones laborales (clima): Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles. Ejemplo: Un equipo que recibe reconocimiento y tiene sus vacaciones garantizadas.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "def-cli-comunicacion",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "caracteristicas",
+    "ejemplo": "Un boletín semanal y un buzón de preguntas que se responden.",
+    "titulo": "Comunicación interna",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Comunicación interna»?",
+    "respuestaCorrecta": "Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones.",
+    "respuestasIncorrectas": [
+      "Lugar con buena iluminación y ventilación que cumple las normas de seguridad y salud.",
+      "Organigrama, roles y responsabilidades claros, con procesos ordenados y las herramientas necesarias.",
+      "Capacitación, buen trato y recompensas como sueldos justos, beneficios y horarios flexibles."
+    ],
+    "pista": "Pensá en este ejemplo: una carta semanal del gerente y un buzón de preguntas que se responden.",
+    "explicacion": "Comunicación interna: Información a tiempo por los líderes, correos o boletines, con canales para opinar y recibir devoluciones. Ejemplo: Un boletín semanal y un buzón de preguntas que se responden.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Qué es el clima laboral y qué lo compone",
+      "entradaLibro": "cli_clima"
+    }
+  },
+  {
+    "id": "def-cli-numerica",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "encuestas",
+    "ejemplo": "«Del 1 al 10, ¿cuánto te sentís parte de tu equipo?».",
+    "titulo": "Encuesta de escala numérica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Encuesta de escala numérica»?",
+    "respuestaCorrecta": "Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable.",
+    "respuestasIncorrectas": [
+      "Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva.",
+      "Relevamiento completo, programado y periódico, para ver tendencias de toda la organización.",
+      "Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones."
+    ],
+    "pista": "Pensá en este ejemplo: «Del 1 al 10, ¿qué tan parte de tu equipo te sentís?».",
+    "explicacion": "Encuesta de escala numérica: Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable. Ejemplo: «Del 1 al 10, ¿cuánto te sentís parte de tu equipo?».",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "def-cli-casillas",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "encuestas",
+    "ejemplo": "Marcar «nunca», «a veces», «casi siempre» o «siempre».",
+    "titulo": "Encuesta con casillas",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Encuesta con casillas»?",
+    "respuestaCorrecta": "Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva.",
+    "respuestasIncorrectas": [
+      "Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable.",
+      "Relevamiento completo, programado y periódico, para ver tendencias de toda la organización.",
+      "Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones."
+    ],
+    "pista": "Pensá en este ejemplo: Marcar «nunca», «a veces», «casi siempre» o «siempre».",
+    "explicacion": "Encuesta con casillas: Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva. Ejemplo: Marcar «nunca», «a veces», «casi siempre» o «siempre».",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "def-cli-formal",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "encuestas",
+    "ejemplo": "Un estudio anual, siempre en la misma fecha, que se compara con años anteriores.",
+    "titulo": "Encuesta formal",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Encuesta formal»?",
+    "respuestaCorrecta": "Relevamiento completo, programado y periódico, para ver tendencias de toda la organización.",
+    "respuestasIncorrectas": [
+      "Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable.",
+      "Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva.",
+      "Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones."
+    ],
+    "pista": "Pensá en este ejemplo: Un estudio anual, siempre en la misma fecha, que se compara con años anteriores.",
+    "explicacion": "Encuesta formal: Relevamiento completo, programado y periódico, para ver tendencias de toda la organización. Ejemplo: Un estudio anual, siempre en la misma fecha, que se compara con años anteriores.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "def-cli-especifica",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "encuestas",
+    "ejemplo": "Preguntar solo qué opina el personal de la nueva oficina.",
+    "titulo": "Encuesta específica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Encuesta específica»?",
+    "respuestaCorrecta": "Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones.",
+    "respuestasIncorrectas": [
+      "Encuesta que se responde con un número dentro de un rango, para medir de forma cuantificable.",
+      "Encuesta con opciones que tienen un significado, fácil de interpretar y menos subjetiva.",
+      "Relevamiento completo, programado y periódico, para ver tendencias de toda la organización."
+    ],
+    "pista": "Pensá en este ejemplo: Preguntar solo qué opina el personal de la nueva oficina.",
+    "explicacion": "Encuesta específica: Encuesta enfocada en un tema puntual, como los jefes, los directivos o las instalaciones. Ejemplo: Preguntar solo qué opina el personal de la nueva oficina.",
+    "referencia": {
+      "tipo": "Encuestas",
+      "titulo": "La encuesta de clima: para qué sirve, tipos y buenas prácticas",
+      "entradaLibro": "cli_encuesta"
+    }
+  },
+  {
+    "id": "def-cli-compensacion",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "pilares",
+    "ejemplo": "Un bono anual según los resultados.",
+    "titulo": "Compensación (EVP)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Compensación (EVP)»?",
+    "respuestaCorrecta": "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+    "respuestasIncorrectas": [
+      "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+      "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+      "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo.",
+      "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental."
+    ],
+    "pista": "Pensá en este ejemplo: Un bono anual según los resultados.",
+    "explicacion": "Compensación (EVP): Pilar del EVP formado por sueldos competitivos, incentivos y bonos. Ejemplo: Un bono anual según los resultados.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "def-cli-beneficios",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "pilares",
+    "ejemplo": "Una prepaga para toda la familia.",
+    "titulo": "Beneficios (EVP)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Beneficios (EVP)»?",
+    "respuestaCorrecta": "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+    "respuestasIncorrectas": [
+      "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+      "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+      "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo.",
+      "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental."
+    ],
+    "pista": "Pensá en este ejemplo: lo que la empresa da además del sueldo, para toda la familia.",
+    "explicacion": "Beneficios (EVP): Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar. Ejemplo: Una prepaga para toda la familia.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "def-cli-desarrollo",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "pilares",
+    "ejemplo": "Un curso pago por año y un plan para llegar a un puesto mejor.",
+    "titulo": "Oportunidades de desarrollo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Oportunidades de desarrollo»?",
+    "respuestaCorrecta": "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+    "respuestasIncorrectas": [
+      "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+      "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+      "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo.",
+      "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental."
+    ],
+    "pista": "Pensá en este ejemplo: Un curso pago por año y un plan para llegar a un puesto mejor.",
+    "explicacion": "Oportunidades de desarrollo: Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional. Ejemplo: Un curso pago por año y un plan para llegar a un puesto mejor.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "def-cli-cultura",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "pilares",
+    "ejemplo": "Una empresa reconocida por su ambiente diverso y respetuoso.",
+    "titulo": "Cultura y entorno laboral (EVP)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cultura y entorno laboral (EVP)»?",
+    "respuestaCorrecta": "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo.",
+    "respuestasIncorrectas": [
+      "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+      "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+      "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+      "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental."
+    ],
+    "pista": "Pensá en este ejemplo: una empresa reconocida por ser diversa y respetuosa.",
+    "explicacion": "Cultura y entorno laboral (EVP): Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo. Ejemplo: Una empresa reconocida por su ambiente diverso y respetuoso.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "def-cli-equilibrio",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "pilares",
+    "ejemplo": "Trabajar desde casa dos días por semana.",
+    "titulo": "Equilibrio vida-trabajo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Equilibrio vida-trabajo»?",
+    "respuestaCorrecta": "Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental.",
+    "respuestasIncorrectas": [
+      "Pilar del EVP formado por sueldos competitivos, incentivos y bonos.",
+      "Pilar del EVP formado por cobertura médica, vacaciones y programas de bienestar.",
+      "Pilar del EVP formado por capacitación, planes de carrera y crecimiento profesional.",
+      "Pilar del EVP formado por los valores, la inclusión y el ambiente de trabajo."
+    ],
+    "pista": "Pensá en este ejemplo: Trabajar desde casa dos días por semana.",
+    "explicacion": "Equilibrio vida-trabajo: Pilar del EVP formado por flexibilidad, trabajo remoto y cuidado de la salud mental. Ejemplo: Trabajar desde casa dos días por semana.",
+    "referencia": {
+      "tipo": "EVP",
+      "titulo": "La propuesta de valor al empleado (EVP)",
+      "entradaLibro": "cli_evp"
+    }
+  },
+  {
+    "id": "def-cli-rotacion",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Una empresa que cada año tiene que cubrir la mitad de sus puestos.",
+    "titulo": "Rotación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Rotación»?",
+    "respuestaCorrecta": "Cuánta gente se va de la organización y tiene que ser reemplazada.",
+    "respuestasIncorrectas": [
+      "Cuánto falta la gente a su trabajo.",
+      "Lo que una persona valora de su trabajo más allá del sueldo.",
+      "La imagen que tiene una organización como lugar para trabajar."
+    ],
+    "pista": "Pensá en este ejemplo: Una empresa que cada año tiene que cubrir la mitad de sus puestos.",
+    "explicacion": "Rotación: Cuánta gente se va de la organización y tiene que ser reemplazada. Ejemplo: Una empresa que cada año tiene que cubrir la mitad de sus puestos.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de clima y EVP",
+      "entradaLibro": "cli_glosario"
+    }
+  },
+  {
+    "id": "def-cli-ausentismo",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Un área donde todos los lunes falta una de cada cinco personas.",
+    "titulo": "Ausentismo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ausentismo»?",
+    "respuestaCorrecta": "Cuánto falta la gente a su trabajo.",
+    "respuestasIncorrectas": [
+      "Cuánta gente se va de la organización y tiene que ser reemplazada.",
+      "Lo que una persona valora de su trabajo más allá del sueldo.",
+      "La imagen que tiene una organización como lugar para trabajar."
+    ],
+    "pista": "Pensá en este ejemplo: un área donde todos los lunes hay sillas vacías.",
+    "explicacion": "Ausentismo: Cuánto falta la gente a su trabajo. Ejemplo: Un área donde todos los lunes falta una de cada cinco personas.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de clima y EVP",
+      "entradaLibro": "cli_glosario"
+    }
+  },
+  {
+    "id": "def-cli-salario",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Poder entrar más tarde para llevar a los chicos a la escuela.",
+    "titulo": "Salario emocional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Salario emocional»?",
+    "respuestaCorrecta": "Lo que una persona valora de su trabajo más allá del sueldo.",
+    "respuestasIncorrectas": [
+      "Cuánta gente se va de la organización y tiene que ser reemplazada.",
+      "Cuánto falta la gente a su trabajo.",
+      "La imagen que tiene una organización como lugar para trabajar."
+    ],
+    "pista": "Pensá en este ejemplo: Poder entrar más tarde para llevar a los chicos a la escuela.",
+    "explicacion": "Salario emocional: Lo que una persona valora de su trabajo más allá del sueldo. Ejemplo: Poder entrar más tarde para llevar a los chicos a la escuela.",
+    "referencia": {
+      "tipo": "Clima laboral",
+      "titulo": "Por qué importa el clima y qué lo influye",
+      "entradaLibro": "cli_importancia"
+    }
+  },
+  {
+    "id": "def-cli-marca",
+    "unidad": "clima_evp",
+    "tipo": "definicion",
+    "grupo": "conceptos",
+    "ejemplo": "Una empresa a la que todos los egresados quieren entrar.",
+    "titulo": "Marca empleadora",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Marca empleadora»?",
+    "respuestaCorrecta": "La imagen que tiene una organización como lugar para trabajar.",
+    "respuestasIncorrectas": [
+      "Cuánta gente se va de la organización y tiene que ser reemplazada.",
+      "Cuánto falta la gente a su trabajo.",
+      "Lo que una persona valora de su trabajo más allá del sueldo."
+    ],
+    "pista": "Pensá en este ejemplo: Una empresa a la que todos los egresados quieren entrar.",
+    "explicacion": "Marca empleadora: La imagen que tiene una organización como lugar para trabajar. Ejemplo: Una empresa a la que todos los egresados quieren entrar.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de clima y EVP",
+      "entradaLibro": "cli_glosario"
+    }
+  },
+  {
+    "id": "def-lct-indeterminado",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Un administrativo contratado sin fecha de fin ni causa especial.",
+    "titulo": "Contrato por tiempo indeterminado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato por tiempo indeterminado»?",
+    "respuestaCorrecta": "La regla general: un contrato de trabajo sin fecha de finalización.",
+    "respuestasIncorrectas": [
+      "Contrato con una duración pactada por escrito y una fecha de fin.",
+      "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+      "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+      "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+      "Contrato que incorpora a un conjunto de personas como una unidad."
+    ],
+    "pista": "Pensá en este ejemplo: Un administrativo contratado sin fecha de fin ni causa especial.",
+    "explicacion": "Contrato por tiempo indeterminado: La regla general: un contrato de trabajo sin fecha de finalización. Ejemplo: Un administrativo contratado sin fecha de fin ni causa especial.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-plazo",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Un contrato firmado por dieciocho meses para una obra.",
+    "titulo": "Contrato a plazo fijo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato a plazo fijo»?",
+    "respuestaCorrecta": "Contrato con una duración pactada por escrito y una fecha de fin.",
+    "respuestasIncorrectas": [
+      "La regla general: un contrato de trabajo sin fecha de finalización.",
+      "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+      "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+      "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+      "Contrato que incorpora a un conjunto de personas como una unidad."
+    ],
+    "pista": "Pensá en este ejemplo: Un contrato firmado por dieciocho meses para una obra.",
+    "explicacion": "Contrato a plazo fijo: Contrato con una duración pactada por escrito y una fecha de fin. Ejemplo: Un contrato firmado por dieciocho meses para una obra.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-temporada",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Los mozos de un hotel de Mar del Plata, cada verano.",
+    "titulo": "Contrato de temporada",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato de temporada»?",
+    "respuestaCorrecta": "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+    "respuestasIncorrectas": [
+      "La regla general: un contrato de trabajo sin fecha de finalización.",
+      "Contrato con una duración pactada por escrito y una fecha de fin.",
+      "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+      "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+      "Contrato que incorpora a un conjunto de personas como una unidad."
+    ],
+    "pista": "Pensá en este ejemplo: Los mozos de un hotel de Mar del Plata, cada verano.",
+    "explicacion": "Contrato de temporada: Contrato para actividades que se repiten solo en ciertas épocas del año. Ejemplo: Los mozos de un hotel de Mar del Plata, cada verano.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-eventual",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Reemplazar a una empleada durante su licencia por maternidad.",
+    "titulo": "Contrato eventual",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato eventual»?",
+    "respuestaCorrecta": "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+    "respuestasIncorrectas": [
+      "La regla general: un contrato de trabajo sin fecha de finalización.",
+      "Contrato con una duración pactada por escrito y una fecha de fin.",
+      "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+      "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+      "Contrato que incorpora a un conjunto de personas como una unidad."
+    ],
+    "pista": "Pensá en este ejemplo: Reemplazar a una empleada durante su licencia por maternidad.",
+    "explicacion": "Contrato eventual: Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa. Ejemplo: Reemplazar a una empleada durante su licencia por maternidad.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-parcial",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Un estudiante que trabaja cuatro horas por día en un comercio.",
+    "titulo": "Contrato a tiempo parcial",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato a tiempo parcial»?",
+    "respuestaCorrecta": "Contrato en el que la persona trabaja menos horas que la jornada habitual.",
+    "respuestasIncorrectas": [
+      "La regla general: un contrato de trabajo sin fecha de finalización.",
+      "Contrato con una duración pactada por escrito y una fecha de fin.",
+      "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+      "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+      "Contrato que incorpora a un conjunto de personas como una unidad."
+    ],
+    "pista": "Pensá en este ejemplo: un estudiante que atiende un comercio solo a la mañana.",
+    "explicacion": "Contrato a tiempo parcial: Contrato en el que la persona trabaja menos horas que la jornada habitual. Ejemplo: Un estudiante que trabaja cuatro horas por día en un comercio.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-equipo",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "modalidades",
+    "ejemplo": "Un teatro que contrata a una orquesta completa.",
+    "titulo": "Contrato de grupo o equipo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato de grupo o equipo»?",
+    "respuestaCorrecta": "Contrato que incorpora a un conjunto de personas como una unidad.",
+    "respuestasIncorrectas": [
+      "La regla general: un contrato de trabajo sin fecha de finalización.",
+      "Contrato con una duración pactada por escrito y una fecha de fin.",
+      "Contrato para actividades que se repiten solo en ciertas épocas del año.",
+      "Contrato para cubrir una necesidad extraordinaria o transitoria de la empresa.",
+      "Contrato en el que la persona trabaja menos horas que la jornada habitual."
+    ],
+    "pista": "Pensá en este ejemplo: Un teatro que contrata a una orquesta completa.",
+    "explicacion": "Contrato de grupo o equipo: Contrato que incorpora a un conjunto de personas como una unidad. Ejemplo: Un teatro que contrata a una orquesta completa.",
+    "referencia": {
+      "tipo": "Contratos",
+      "titulo": "Las modalidades del contrato de trabajo",
+      "entradaLibro": "lct_modalidades"
+    }
+  },
+  {
+    "id": "def-lct-sincausa",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "extincion",
+    "ejemplo": "Una empresa que reduce personal por una reorganización.",
+    "titulo": "Despido sin justa causa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Despido sin justa causa»?",
+    "respuestaCorrecta": "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+    "respuestasIncorrectas": [
+      "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+      "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+      "La persona trabajadora se considera despedida por un incumplimiento grave del empleador.",
+      "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente."
+    ],
+    "pista": "Pensá en este ejemplo: Una empresa que reduce personal por una reorganización.",
+    "explicacion": "Despido sin justa causa: El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar. Ejemplo: Una empresa que reduce personal por una reorganización.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "def-lct-concausa",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "extincion",
+    "ejemplo": "Un empleado que roba mercadería del depósito.",
+    "titulo": "Despido con justa causa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Despido con justa causa»?",
+    "respuestaCorrecta": "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+    "respuestasIncorrectas": [
+      "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+      "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+      "La persona trabajadora se considera despedida por un incumplimiento grave del empleador.",
+      "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente."
+    ],
+    "pista": "Pensá en este ejemplo: Un empleado que roba mercadería del depósito.",
+    "explicacion": "Despido con justa causa: El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito. Ejemplo: Un empleado que roba mercadería del depósito.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "def-lct-renuncia",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "extincion",
+    "ejemplo": "Una empleada que consiguió otro empleo y avisa que se va.",
+    "titulo": "Renuncia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Renuncia»?",
+    "respuestaCorrecta": "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+    "respuestasIncorrectas": [
+      "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+      "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+      "La persona trabajadora se considera despedida por un incumplimiento grave del empleador.",
+      "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente."
+    ],
+    "pista": "Pensá en este ejemplo: Una empleada que consiguió otro empleo y avisa que se va.",
+    "explicacion": "Renuncia: La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo. Ejemplo: Una empleada que consiguió otro empleo y avisa que se va.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "def-lct-indirecto",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "extincion",
+    "ejemplo": "Un empleado que no cobra su sueldo hace tres meses.",
+    "titulo": "Despido indirecto",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Despido indirecto»?",
+    "respuestaCorrecta": "La persona trabajadora se considera despedida por un incumplimiento grave del empleador.",
+    "respuestasIncorrectas": [
+      "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+      "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+      "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+      "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente."
+    ],
+    "pista": "Pensá en este ejemplo: Un empleado que no cobra su sueldo hace tres meses.",
+    "explicacion": "Despido indirecto: La persona trabajadora se considera despedida por un incumplimiento grave del empleador. Ejemplo: Un empleado que no cobra su sueldo hace tres meses.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "def-lct-mutuo",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "extincion",
+    "ejemplo": "Empresa y empleado firman juntos el fin de la relación ante la autoridad laboral.",
+    "titulo": "Mutuo acuerdo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Mutuo acuerdo»?",
+    "respuestaCorrecta": "Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente.",
+    "respuestasIncorrectas": [
+      "El empleador termina la relación sin un incumplimiento del trabajador; debe dar preaviso e indemnizar.",
+      "El empleador termina la relación por un incumplimiento grave del trabajador, explicado por escrito.",
+      "La persona trabajadora decide terminar la relación, por telegrama laboral o ante la autoridad del trabajo.",
+      "La persona trabajadora se considera despedida por un incumplimiento grave del empleador."
+    ],
+    "pista": "Pensá en este ejemplo: Empresa y empleado firman juntos el fin de la relación ante la autoridad laboral.",
+    "explicacion": "Mutuo acuerdo: Las dos partes deciden terminar la relación, ante escribano o ante la autoridad, con el trabajador presente. Ejemplo: Empresa y empleado firman juntos el fin de la relación ante la autoridad laboral.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina la persona trabajadora, o las dos partes",
+      "entradaLibro": "lct_renuncia"
+    }
+  },
+  {
+    "id": "def-lct-preaviso",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "terminos",
+    "ejemplo": "Avisar con dos meses de anticipación a alguien con siete años en la empresa.",
+    "titulo": "Preaviso",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Preaviso»?",
+    "respuestaCorrecta": "Aviso anticipado de que la relación laboral va a terminar.",
+    "respuestasIncorrectas": [
+      "Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa.",
+      "El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía.",
+      "Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad."
+    ],
+    "pista": "Pensá en este ejemplo: decirle a alguien con siete años en la empresa que su último día será dentro de dos meses.",
+    "explicacion": "Preaviso: Aviso anticipado de que la relación laboral va a terminar. Ejemplo: Avisar con dos meses de anticipación a alguien con siete años en la empresa.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "def-lct-indemnizacion",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "terminos",
+    "ejemplo": "Cinco sueldos para alguien con cuatro años y cinco meses.",
+    "titulo": "Indemnización por antigüedad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Indemnización por antigüedad»?",
+    "respuestaCorrecta": "Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa.",
+    "respuestasIncorrectas": [
+      "Aviso anticipado de que la relación laboral va a terminar.",
+      "El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía.",
+      "Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad."
+    ],
+    "pista": "Pensá en este ejemplo: lo que se le debe a alguien con cuatro años en la empresa cuando lo echan sin motivo.",
+    "explicacion": "Indemnización por antigüedad: Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa. Ejemplo: Cinco sueldos para alguien con cuatro años y cinco meses.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "def-lct-sustitutiva",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "terminos",
+    "ejemplo": "Pagar un mes de sueldo por despedir de un día para el otro.",
+    "titulo": "Indemnización sustitutiva",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Indemnización sustitutiva»?",
+    "respuestaCorrecta": "El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía.",
+    "respuestasIncorrectas": [
+      "Aviso anticipado de que la relación laboral va a terminar.",
+      "Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa.",
+      "Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad."
+    ],
+    "pista": "Pensá en este ejemplo: Pagar un mes de sueldo por despedir de un día para el otro.",
+    "explicacion": "Indemnización sustitutiva: El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía. Ejemplo: Pagar un mes de sueldo por despedir de un día para el otro.",
+    "referencia": {
+      "tipo": "Fin de la relación",
+      "titulo": "Cuando la relación la termina el empleador",
+      "entradaLibro": "lct_despido"
+    }
+  },
+  {
+    "id": "def-lct-licencia",
+    "unidad": "contrato_trabajo",
+    "tipo": "definicion",
+    "grupo": "terminos",
+    "ejemplo": "Veintiún días corridos para alguien con ocho años en la empresa.",
+    "titulo": "Licencia ordinaria",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Licencia ordinaria»?",
+    "respuestaCorrecta": "Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad.",
+    "respuestasIncorrectas": [
+      "Aviso anticipado de que la relación laboral va a terminar.",
+      "Un sueldo por cada año trabajado o fracción mayor de tres meses, que se paga al despedir sin causa.",
+      "El dinero que el empleador paga cuando despide sin dar el preaviso que correspondía."
+    ],
+    "pista": "Pensá en este ejemplo: el descanso pago de tres semanas de alguien con ocho años en la empresa.",
+    "explicacion": "Licencia ordinaria: Las vacaciones anuales pagas, cuya cantidad de días depende de la antigüedad. Ejemplo: Veintiún días corridos para alguien con ocho años en la empresa.",
+    "referencia": {
+      "tipo": "Vacaciones",
+      "titulo": "Las vacaciones (licencia ordinaria)",
+      "entradaLibro": "lct_vacaciones"
+    }
+  }
+]

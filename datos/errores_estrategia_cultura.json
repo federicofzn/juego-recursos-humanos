@@ -1,0 +1,82 @@
+[
+  {
+    "id": "err-est-preguntas",
+    "titulo": "Las 5 preguntas de la estrategia",
+    "oraciones": [
+      "La aspiración ganadora responde para qué existe la organización.",
+      "Dónde jugar incluye elegir clientes, canales, productos y zonas.",
+      "Cómo jugar define la ventaja competitiva de la organización.",
+      "Las capacidades son las reglas que miden si la estrategia avanza.",
+      "Los sistemas de gestión son procesos, estructuras y reglas."
+    ],
+    "incorrecta": 3,
+    "correccion": "Las capacidades son las actividades que permiten hacer realidad la estrategia.",
+    "pista": "Dos de las preguntas se suelen confundir entre sí.",
+    "explicacion": "Las capacidades son las actividades que dan vida a dónde jugar y cómo ganar. Las reglas que miden la estrategia son parte de los sistemas de gestión.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "err-est-ventaja",
+    "titulo": "Ventaja competitiva",
+    "oraciones": [
+      "La ventaja competitiva es lo que hace que una organización le gane a la competencia.",
+      "La ventaja por diferenciación consiste en vender más barato que el resto.",
+      "Una marca que cobra más porque su producto es único compite por diferenciación.",
+      "Elegir dónde no competir también es una decisión estratégica.",
+      "Para Mintzberg, la estrategia ordena la secuencia de acciones de una organización."
+    ],
+    "incorrecta": 1,
+    "correccion": "La ventaja por costo consiste en vender más barato que el resto.",
+    "pista": "Hay dos tipos de ventaja y una oración los intercambia.",
+    "explicacion": "Vender más barato es la ventaja por costo. La diferenciación es ganar con algo que el cliente percibe como único.",
+    "libro": "est_estrategia"
+  },
+  {
+    "id": "err-est-fases",
+    "titulo": "La estrategia de RRHH",
+    "oraciones": [
+      "La estrategia de RRHH convierte la estrategia del negocio en acciones sobre las personas.",
+      "La fase de planificación diseña el proceso de planeamiento estratégico.",
+      "Comunicar el plan a los stakeholders es parte de la fase de seguimiento.",
+      "Una brecha es la diferencia entre lo que se necesita y lo que hay.",
+      "Usar datos y analytics es un componente clave de la estrategia de RRHH."
+    ],
+    "incorrecta": 2,
+    "correccion": "Comunicar el plan a los stakeholders es parte de la fase de construcción.",
+    "pista": "Revisá en qué fase termina de armarse el plan.",
+    "explicacion": "Comunicar el plan es el último paso de la construcción. El seguimiento es monitorear el progreso del plan.",
+    "libro": "est_rrhh"
+  },
+  {
+    "id": "err-est-cultura",
+    "titulo": "Qué es la cultura",
+    "oraciones": [
+      "La cultura es lo que las personas sienten cuando trabajan en una organización.",
+      "La cultura muestra cómo hay que comportarse para pertenecer.",
+      "La cultura se diseña en un documento y después se comunica al personal.",
+      "Aunque no se diseña, la cultura se puede entender y modelar.",
+      "Para Carolyn Taylor, los líderes son una de las fuentes de la cultura."
+    ],
+    "incorrecta": 2,
+    "correccion": "La cultura no se diseña: emerge del día a día de la organización.",
+    "pista": "Pensá de dónde sale la cultura.",
+    "explicacion": "La cultura no se diseña, emerge. Un documento de valores no alcanza si el día a día muestra otra cosa.",
+    "libro": "est_cultura"
+  },
+  {
+    "id": "err-est-mensajes",
+    "titulo": "Los mensajes culturales",
+    "oraciones": [
+      "Los líderes transmiten cultura con lo que hacen, no solo con lo que dicen.",
+      "Los sistemas de desempeño y reconocimiento mandan mensajes culturales.",
+      "Las oficinas, los títulos y el estacionamiento son símbolos.",
+      "Para Drucker, la estrategia se come a la cultura en el desayuno.",
+      "Sin una cultura que la sostenga, una buena estrategia puede fallar."
+    ],
+    "incorrecta": 3,
+    "correccion": "Para Drucker, la cultura se come a la estrategia en el desayuno.",
+    "pista": "Una frase famosa está dada vuelta.",
+    "explicacion": "La frase de Drucker es «la cultura se come a la estrategia en el desayuno»: la cultura pesa más que el plan.",
+    "libro": "est_cultura_estrategia"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "int-gestion-01",
+    "tipo": "concepto",
+    "titulo": "Más que sueldos",
+    "situacion": "En una reunión, un gerente comercial dice que el área de Recursos Humanos «es la que liquida los sueldos y nada más».",
+    "pregunta": "¿Qué le respondés sobre qué es la gestión de RRHH?",
+    "correcta": "Un sistema de estrategias y actividades para conducir a las personas hacia los objetivos",
+    "incorrectas": [
+      "Un área administrativa que se ocupa solo de liquidar sueldos, licencias y legajos del personal",
+      "Un conjunto de reglas de disciplina para controlar que los empleados cumplan su horario de trabajo",
+      "Un servicio externo que la empresa contrata solo cuando necesita despedir a alguien del personal",
+      "Una oficina que representa a los trabajadores frente a la empresa en los reclamos de sueldo",
+      "Un sistema de premios en dinero que se reparte entre los empleados al final de cada año"
+    ],
+    "pista": "Pensá si RRHH trabaja solo en los trámites o también en hacia dónde va la empresa.",
+    "explicacion": "La gestión de RRHH es un sistema de estrategias y actividades para conducir con éxito a los empleados, en todos los niveles, hacia los objetivos de la organización. Liquidar sueldos es una de sus tareas, pero no la única.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "int-gestion-02",
+    "tipo": "clasificar",
+    "titulo": "Ferias de empleo",
+    "situacion": "Una empresa de software empieza a participar en ferias de empleo de universidades y publica sus búsquedas en redes sociales.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "correcta": "Atraer",
+    "incorrectas": [
+      "Retener",
+      "Motivar",
+      "Desvincular",
+      "Compensar",
+      "Evaluar"
+    ],
+    "pista": "Las personas a las que apunta todavía no trabajan en la empresa.",
+    "explicacion": "Busca que personas de afuera quieran sumarse a la empresa: eso es atraer talento.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "int-gestion-03",
+    "tipo": "clasificar",
+    "titulo": "Que no se vayan",
+    "situacion": "Los mejores vendedores de una empresa reciben ofertas de la competencia. RRHH mejora su propuesta de carrera y beneficios para que se queden.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "correcta": "Retener",
+    "incorrectas": [
+      "Atraer",
+      "Motivar",
+      "Reclutar",
+      "Capacitar",
+      "Seleccionar"
+    ],
+    "pista": "Los vendedores ya trabajan en la empresa. ¿Qué quiere evitar RRHH?",
+    "explicacion": "Busca que personas valiosas que ya están en la empresa no se vayan: eso es retener talento.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "int-gestion-04",
+    "tipo": "clasificar",
+    "titulo": "El reconocimiento del mes",
+    "situacion": "Un equipo de atención al cliente está desganado. RRHH propone reconocer cada mes los mejores aportes y dar más autonomía para organizar el trabajo.",
+    "pregunta": "¿Cuál de las tres acciones centrales de RRHH está trabajando?",
+    "correcta": "Motivar",
+    "incorrectas": [
+      "Atraer",
+      "Retener",
+      "Seleccionar",
+      "Planificar",
+      "Desvincular"
+    ],
+    "pista": "Nadie amenaza con irse: el problema son las ganas de trabajar.",
+    "explicacion": "Busca que las personas tengan más ganas de dar lo mejor en su trabajo: eso es motivar.",
+    "libro": "intro_gestion"
+  },
+  {
+    "id": "int-ulrich-01",
+    "tipo": "clasificar",
+    "titulo": "En la mesa del directorio",
+    "situacion": "La gerenta de RRHH participa de las reuniones de directorio para armar el plan del año, trabaja junto a los gerentes de cada área y cuida la imagen de la empresa.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "correcta": "Socio estratégico",
+    "incorrectas": [
+      "Agente de cambio",
+      "Experto en administración y gestión",
+      "Líder de efectividad y socio de trabajadores",
+      "Consultor externo de la organización",
+      "Representante gremial del personal"
+    ],
+    "pista": "Mira al futuro de la empresa y trabaja sobre el plan, no sobre personas puntuales.",
+    "explicacion": "Participar del plan estratégico, trabajar como socio de las áreas del negocio y cuidar la cultura y la imagen son tareas del socio estratégico: enfoque estratégico y orientado a procesos.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "int-ulrich-02",
+    "tipo": "clasificar",
+    "titulo": "Encuesta y plan de acción",
+    "situacion": "RRHH hace una encuesta entre los empleados, arma un plan de acción con los resultados y rediseña el organigrama de un área que no funcionaba.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "correcta": "Agente de cambio",
+    "incorrectas": [
+      "Socio estratégico",
+      "Experto en administración y gestión",
+      "Líder de efectividad y socio de trabajadores",
+      "Auditor externo de la organización",
+      "Administrador de sueldos y legajos"
+    ],
+    "pista": "Está transformando cómo trabaja la gente, con la mirada puesta en lo que viene.",
+    "explicacion": "Las encuestas con su plan de acción y el diseño organizacional son responsabilidades del agente de cambio: enfoque estratégico y orientado a personas.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "int-ulrich-03",
+    "tipo": "clasificar",
+    "titulo": "Sueldos y beneficios",
+    "situacion": "Un equipo de RRHH liquida los sueldos todos los meses, administra los beneficios del personal y mantiene al día el sistema de información de los empleados.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "correcta": "Experto en administración y gestión",
+    "incorrectas": [
+      "Socio estratégico",
+      "Agente de cambio",
+      "Líder de efectividad y socio de trabajadores",
+      "Responsable de cultura e imagen",
+      "Coordinador de formación y desarrollo"
+    ],
+    "pista": "Son tareas del día a día que dependen de que los sistemas funcionen bien.",
+    "explicacion": "Compensación, beneficios, sistemas de información y cumplimiento son responsabilidades del experto en administración y gestión: enfoque operativo y orientado a procesos.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "int-ulrich-04",
+    "tipo": "clasificar",
+    "titulo": "Los reclamos de la planta",
+    "situacion": "Una analista de RRHH recibe los reclamos de los operarios, coordina con el delegado del sindicato y revisa con ellos las medidas de seguridad de la planta.",
+    "pregunta": "¿Qué rol de RRHH, según Dave Ulrich, está cumpliendo?",
+    "correcta": "Líder de efectividad y socio de trabajadores",
+    "incorrectas": [
+      "Socio estratégico",
+      "Agente de cambio",
+      "Experto en administración y gestión",
+      "Responsable del plan estratégico",
+      "Diseñador de la estructura organizacional"
+    ],
+    "pista": "Es tarea del día a día, y en el centro están la gente y sus vínculos.",
+    "explicacion": "Las relaciones con los trabajadores, las relaciones laborales y la seguridad y prevención son responsabilidades del líder de efectividad y socio de trabajadores: enfoque operativo y orientado a personas.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "int-ulrich-05",
+    "tipo": "concepto",
+    "titulo": "Ubicar el cuadrante",
+    "situacion": "Un compañero dibuja el modelo de Ulrich y pone al socio estratégico en el cuadrante de abajo a la derecha: enfoque operativo y orientación a personas.",
+    "pregunta": "¿Qué le corregís?",
+    "correcta": "Que el socio estratégico tiene enfoque estratégico y está orientado a procesos",
+    "incorrectas": [
+      "Nada: el socio estratégico resuelve el día a día de las personas",
+      "Que el socio estratégico tiene enfoque operativo y orientación a procesos",
+      "Que el socio estratégico está fuera del modelo, porque es un consultor externo",
+      "Que el modelo de Ulrich no tiene ejes: los cuatro roles están al mismo nivel",
+      "Que el socio estratégico ocupa los cuatro cuadrantes a la vez, según el caso"
+    ],
+    "pista": "El nombre del rol ya dice hacia dónde mira en el eje vertical.",
+    "explicacion": "El socio estratégico está arriba a la izquierda: enfoque estratégico (mira al futuro) y orientación a procesos. Abajo a la derecha está el líder de efectividad y socio de trabajadores.",
+    "libro": "intro_ulrich"
+  },
+  {
+    "id": "int-mckinsey-01",
+    "tipo": "concepto",
+    "titulo": "El centro del modelo",
+    "situacion": "Estás estudiando el modelo de McKinsey sobre cómo los líderes de RRHH preparan a la organización para el cambio.",
+    "pregunta": "¿Qué tres ideas están en el centro de ese modelo?",
+    "correcta": "El propósito, el valor y la cultura",
+    "incorrectas": [
+      "El control, la disciplina y el horario",
+      "El sueldo, los premios y las sanciones",
+      "La tecnología, los datos y la plataforma",
+      "Los clientes, los precios y las ventas",
+      "La estructura, el talento y el ecosistema"
+    ],
+    "pista": "Son tres ideas sobre para qué existe la organización y cómo vive su gente.",
+    "explicacion": "McKinsey plantea que los líderes de RRHH preparan a la organización para el cambio enfocándose en el propósito, el valor y la cultura. Estructura, talento, ecosistema y plataforma son elementos que están alrededor.",
+    "libro": "intro_mckinsey"
+  },
+  {
+    "id": "int-mckinsey-02",
+    "tipo": "clasificar",
+    "titulo": "Menos jefes, más equipos",
+    "situacion": "Una empresa elimina dos niveles de jefaturas y arma equipos que deciden rápido por su cuenta. Su lema es que las personas son el capital más escaso.",
+    "pregunta": "¿Sobre qué dimensión del modelo de McKinsey está trabajando?",
+    "correcta": "Cómo operamos",
+    "incorrectas": [
+      "Quiénes somos",
+      "Cómo crecemos",
+      "Qué vendemos",
+      "Dónde competimos",
+      "Cuánto pagamos"
+    ],
+    "pista": "El cambio está en la forma de organizarse y de tomar decisiones.",
+    "explicacion": "Aplanar la organización con equipos que deciden rápido y tratan a las personas como el capital más escaso es la dimensión «cómo operamos».",
+    "libro": "intro_mckinsey"
+  },
+  {
+    "id": "int-mckinsey-03",
+    "tipo": "clasificar",
+    "titulo": "Aprender antes que el resto",
+    "situacion": "Una empresa invierte en que sus equipos aprendan más rápido que la competencia, usa los datos para decidir y trabaja en red con proveedores y socios.",
+    "pregunta": "¿Sobre qué dimensión del modelo de McKinsey está trabajando?",
+    "correcta": "Cómo crecemos",
+    "incorrectas": [
+      "Cómo operamos",
+      "Quiénes somos",
+      "Cómo cobramos",
+      "Dónde vendemos",
+      "Qué fabricamos"
+    ],
+    "pista": "El foco está en adelantarse a los demás y sostener esa ventaja.",
+    "explicacion": "Adelantarse aprendiendo más rápido, sacar valor de los datos y aprovechar el ecosistema es la dimensión «cómo crecemos».",
+    "libro": "intro_mckinsey"
+  },
+  {
+    "id": "int-proceso-01",
+    "tipo": "concepto",
+    "titulo": "Por dónde empezar",
+    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH de la cursada.",
+    "pregunta": "¿Con qué etapa empieza ese proceso?",
+    "correcta": "Con la planificación de RRHH",
+    "incorrectas": [
+      "Con el reclutamiento de candidatos",
+      "Con la evaluación de desempeño",
+      "Con la capacitación del personal",
+      "Con la desvinculación de empleados",
+      "Con la compensación y los beneficios"
+    ],
+    "pista": "Antes de buscar a alguien, hay que saber qué personas se necesitan.",
+    "explicacion": "El proceso empieza por la planificación de RRHH: definir qué personas va a necesitar la organización. De ahí salen dos caminos: incorporar gente (reclutamiento) o desvincularla.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "int-proceso-02",
+    "tipo": "concepto",
+    "titulo": "Recién elegidos",
+    "situacion": "Una empresa terminó de elegir a las tres personas que van a ingresar el mes que viene.",
+    "pregunta": "Según el proceso de gestión de RRHH, ¿qué etapas siguen?",
+    "correcta": "La orientación y después la capacitación",
+    "incorrectas": [
+      "El reclutamiento y después la selección",
+      "La evaluación de desempeño y la desvinculación",
+      "La planificación de RRHH y el reclutamiento",
+      "El desarrollo de carrera y la compensación",
+      "La desvinculación y después la orientación"
+    ],
+    "pista": "Ya está elegida la gente: ahora hay que recibirla y prepararla.",
+    "explicacion": "Después de la selección viene la orientación (recibir e integrar a quien ingresa) y la capacitación (enseñarle lo que necesita). El resultado son empleados adaptados y competentes.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "int-proceso-03",
+    "tipo": "concepto",
+    "titulo": "El último tramo",
+    "situacion": "Una empresa evalúa el desempeño de su gente, arma planes de carrera y ajusta la compensación y los beneficios.",
+    "pregunta": "¿Qué resultado busca ese tramo del proceso de gestión de RRHH?",
+    "correcta": "Empleados competentes y de alto rendimiento",
+    "incorrectas": [
+      "Candidatos identificados para una búsqueda",
+      "Empleados recién adaptados a su puesto",
+      "Una planificación de puestos para el año",
+      "Personas desvinculadas sin conflictos",
+      "Un listado de postulantes preseleccionados"
+    ],
+    "pista": "Es la última parte del proceso: la gente ya está adentro y capacitada.",
+    "explicacion": "Evaluación de desempeño, desarrollo de carrera y compensación y beneficios buscan empleados competentes y de alto rendimiento. Antes, la selección da empleados competentes, y la orientación y la capacitación, empleados adaptados.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "int-proceso-04",
+    "tipo": "concepto",
+    "titulo": "Buscar y elegir",
+    "situacion": "Un compañero dice que «reclutar» y «seleccionar» son lo mismo y que se pueden hacer en cualquier orden.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que reclutar es buscar candidatos y seleccionar es elegir entre ellos, en ese orden",
+    "incorrectas": [
+      "Que tiene razón: son dos nombres para la misma etapa del proceso",
+      "Que seleccionar es buscar candidatos y reclutar es elegir entre ellos",
+      "Que la selección va primero y el reclutamiento se hace después de contratar",
+      "Que reclutar es capacitar a los nuevos y seleccionar es evaluar su desempeño",
+      "Que reclutar solo se usa para puestos jerárquicos y seleccionar para el resto"
+    ],
+    "pista": "Para poder elegir, primero tiene que haber entre quiénes elegir.",
+    "explicacion": "Primero se recluta (se buscan y atraen candidatos) y después se selecciona (se elige entre ellos). El resultado es identificar y elegir empleados competentes.",
+    "libro": "intro_proceso"
+  },
+  {
+    "id": "int-agile-01",
+    "tipo": "concepto",
+    "titulo": "Quién lidera el cambio",
+    "situacion": "Una empresa quiere que todas sus áreas trabajen en equipos que se organizan solos, cambiando sus valores y su forma de organizarse.",
+    "pregunta": "Según el material de RRHH Agile, ¿quién lidera este tipo de agilidad?",
+    "correcta": "RRHH, porque es agilidad organizacional",
+    "incorrectas": [
+      "El CIO o el CTO, porque es agilidad técnica",
+      "El área de ventas, porque trata con clientes",
+      "Un consultor externo, porque es un proyecto",
+      "El CEO solo, sin intervención de las áreas",
+      "Cada empleado por su cuenta, sin un líder"
+    ],
+    "pista": "No se trata de cambiar métodos de trabajo, sino valores y forma de organizarse.",
+    "explicacion": "Cuando lo que cambia son los valores y la forma de organizarse, es agilidad organizacional, y la lidera RRHH. La agilidad técnica, que cambia metodologías, la lideran el CIO o el CTO.",
+    "libro": "intro_agile"
+  },
+  {
+    "id": "int-agile-02",
+    "tipo": "concepto",
+    "titulo": "Qué genera el valor",
+    "situacion": "En una charla sobre RRHH Agile, te preguntan qué genera el valor en la agilidad organizacional, a diferencia de la agilidad técnica.",
+    "pregunta": "¿Qué respondés?",
+    "correcta": "Las personas, que se organizan solas; en la técnica, seguir los procesos",
+    "incorrectas": [
+      "Seguir los procesos; en la técnica, las personas que se organizan solas",
+      "Los jefes que controlan; en la técnica, los sistemas de información",
+      "El presupuesto del área; en la técnica, la cantidad de empleados",
+      "La antigüedad del personal; en la técnica, las horas trabajadas",
+      "Los manuales de puestos; en la técnica, las órdenes del directorio"
+    ],
+    "pista": "Una de las dos agilidades pone a las personas en el centro.",
+    "explicacion": "En la agilidad organizacional el valor lo generan las personas, con autogobierno. En la agilidad técnica, el valor viene de seguir los procesos y las metodologías.",
+    "libro": "intro_agile"
+  }
+]

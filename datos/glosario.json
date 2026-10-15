@@ -1,0 +1,134 @@
+[
+  {
+    "id": "directorio",
+    "termino": "Directorio",
+    "definicion": "El grupo de personas que conduce una empresa y toma sus decisiones más importantes.",
+    "patron": "\\bdirectorio\\b"
+  },
+  {
+    "id": "organigrama",
+    "termino": "Organigrama",
+    "definicion": "El dibujo que muestra cómo está organizada una empresa: sus áreas, sus puestos y quién depende de quién.",
+    "patron": "\\borganigramas?\\b"
+  },
+  {
+    "id": "legajo",
+    "termino": "Legajo",
+    "definicion": "La carpeta con los datos y documentos de cada empleado: contrato, licencias, sanciones, etc.",
+    "patron": "\\blegajos?\\b"
+  },
+  {
+    "id": "sindicato",
+    "termino": "Sindicato",
+    "definicion": "La organización que agrupa y representa a la gente de un mismo oficio o rubro.",
+    "patron": "\\bsindicatos?\\b"
+  },
+  {
+    "id": "delegado",
+    "termino": "Delegado",
+    "definicion": "La persona elegida por sus compañeros para representarlos dentro de la empresa.",
+    "patron": "\\bdelegados?\\b"
+  },
+  {
+    "id": "stakeholders",
+    "termino": "Stakeholders",
+    "definicion": "Todas las personas o grupos interesados en una organización: empleados, clientes, dueños, proveedores.",
+    "patron": "\\bstakeholders?\\b"
+  },
+  {
+    "id": "analytics",
+    "termino": "Analytics",
+    "definicion": "Analizar datos para tomar mejores decisiones.",
+    "patron": "\\banalytics\\b"
+  },
+  {
+    "id": "feedback",
+    "termino": "Feedback",
+    "definicion": "Una devolución sobre cómo hizo alguien su trabajo, para que pueda mejorar.",
+    "patron": "\\bfeedback\\b"
+  },
+  {
+    "id": "cio-cto",
+    "termino": "CIO y CTO",
+    "definicion": "Siglas en inglés de los responsables de tecnología de una empresa: el director de sistemas (CIO) y el director técnico (CTO).",
+    "patron": "\\bCIO\\b"
+  },
+  {
+    "id": "ceo",
+    "termino": "CEO",
+    "definicion": "Sigla en inglés del máximo responsable de una empresa, el director general.",
+    "patron": "\\bCEO\\b"
+  },
+  {
+    "id": "pyme",
+    "termino": "Pyme",
+    "definicion": "Una empresa pequeña o mediana.",
+    "patron": "\\bpymes?\\b"
+  },
+  {
+    "id": "bono",
+    "termino": "Bono",
+    "definicion": "Un pago extra que se da, por ejemplo, cuando se cumplen ciertos resultados.",
+    "patron": "\\bbonos?\\b"
+  },
+  {
+    "id": "prepaga",
+    "termino": "Prepaga",
+    "definicion": "Una empresa privada de cobertura médica que se paga todos los meses.",
+    "patron": "\\bprepagas?\\b"
+  },
+  {
+    "id": "jornada",
+    "termino": "Jornada",
+    "definicion": "La cantidad de horas que se trabaja por día o por semana.",
+    "patron": "\\bjornadas?\\b"
+  },
+  {
+    "id": "remuneracion",
+    "termino": "Remuneración",
+    "definicion": "Lo que se paga por el trabajo; otra forma de decir sueldo.",
+    "patron": "\\bremuneraci(?:ón|ones)\\b"
+  },
+  {
+    "id": "periodo-prueba",
+    "termino": "Período de prueba",
+    "definicion": "Los primeros meses de un trabajo, en los que la ley permite terminar la relación con menos costos.",
+    "patron": "\\bper[ií]odo de prueba\\b"
+  },
+  {
+    "id": "telegrama",
+    "termino": "Telegrama laboral",
+    "definicion": "Un telegrama gratuito, en papel o digital, que se usa para comunicaciones formales entre trabajador y empleador.",
+    "patron": "\\btelegramas? laboral(?:es)?\\b"
+  },
+  {
+    "id": "escritura",
+    "termino": "Escritura pública",
+    "definicion": "Un documento que se firma ante un escribano y que tiene valor oficial.",
+    "patron": "\\bescritura pública\\b"
+  },
+  {
+    "id": "autoridad-trabajo",
+    "termino": "Autoridad del trabajo",
+    "definicion": "El organismo del Estado que controla que se cumplan las leyes laborales, como el Ministerio de Trabajo.",
+    "patron": "\\bautoridad (?:administrativa )?del trabajo\\b"
+  },
+  {
+    "id": "licencia",
+    "termino": "Licencia",
+    "definicion": "Un permiso para no trabajar durante un tiempo, por ejemplo por maternidad o enfermedad.",
+    "patron": "\\blicencias?\\b(?=\\s+(?:por|de maternidad))"
+  },
+  {
+    "id": "mentor",
+    "termino": "Mentor",
+    "definicion": "Alguien con experiencia que acompaña a otra persona para que crezca, en lugar de darle órdenes.",
+    "patron": "\\bmentor(?:es|a)?\\b"
+  },
+  {
+    "id": "jerarquico",
+    "termino": "Jerárquico",
+    "definicion": "Organizado en niveles, donde cada jefe manda sobre los de abajo.",
+    "patron": "\\bjerárquic(?:o|a|os|as)\\b"
+  }
+]

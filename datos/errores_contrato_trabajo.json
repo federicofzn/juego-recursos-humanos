@@ -1,0 +1,82 @@
+[
+  {
+    "id": "err-lct-modalidades",
+    "titulo": "Las modalidades de contrato",
+    "oraciones": [
+      "La regla general es el contrato por tiempo indeterminado.",
+      "El contrato a plazo fijo tiene una duración pactada por escrito.",
+      "El contrato de temporada sirve para reemplazar a alguien de licencia.",
+      "El contrato a tiempo parcial tiene menos horas que la jornada habitual.",
+      "Sin causa ni plazo escrito, se presume que el contrato es por tiempo indeterminado."
+    ],
+    "incorrecta": 2,
+    "correccion": "El contrato eventual sirve para reemplazar a alguien de licencia.",
+    "pista": "Dos modalidades se suelen confundir: una es por época del año y otra por una necesidad transitoria.",
+    "explicacion": "Reemplazar a alguien de licencia es una necesidad transitoria: corresponde el contrato eventual. El de temporada es para actividades que se repiten en ciertas épocas del año.",
+    "libro": "lct_modalidades"
+  },
+  {
+    "id": "err-lct-preaviso",
+    "titulo": "El preaviso",
+    "oraciones": [
+      "Con hasta 5 años de antigüedad, el empleador debe dar 1 mes de preaviso.",
+      "Con más de 5 años de antigüedad, el preaviso del empleador es de 2 meses.",
+      "Si el empleador no da el preaviso, paga una indemnización sustitutiva.",
+      "El preaviso de la persona trabajadora que renuncia es de 2 meses.",
+      "La persona trabajadora puede renunciar con o sin preaviso."
+    ],
+    "incorrecta": 3,
+    "correccion": "El preaviso de la persona trabajadora que renuncia es de 15 días.",
+    "pista": "Revisá quién da cada preaviso.",
+    "explicacion": "El preaviso de la persona trabajadora es de 15 días. Los plazos de 1 y 2 meses son los del empleador, según la antigüedad.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "err-lct-despido",
+    "titulo": "El despido",
+    "oraciones": [
+      "En el despido con justa causa, la causa se comunica por escrito.",
+      "Una vez comunicada, la causa del despido se puede cambiar después.",
+      "La indemnización se calcula sobre la mejor remuneración mensual, normal y habitual.",
+      "Corresponde un sueldo por cada año o fracción mayor de tres meses.",
+      "La justa causa exige un incumplimiento que impida seguir la relación."
+    ],
+    "incorrecta": 1,
+    "correccion": "Una vez comunicada, la causa del despido no se puede cambiar después.",
+    "pista": "Pensá qué protege a la persona despedida.",
+    "explicacion": "La causa del despido se comunica por escrito, con claridad, y después no puede modificarse.",
+    "libro": "lct_despido"
+  },
+  {
+    "id": "err-lct-renuncia",
+    "titulo": "Renuncia y mutuo acuerdo",
+    "oraciones": [
+      "La renuncia se puede hacer por telegrama laboral gratuito.",
+      "El telegrama de renuncia se envía personalmente, con validación de identidad.",
+      "Si el empleador comete una injuria grave, el trabajador puede considerarse despedido.",
+      "El mutuo acuerdo se puede firmar por mail, sin la presencia del trabajador.",
+      "El despido indirecto también se comunica por escrito."
+    ],
+    "incorrecta": 3,
+    "correccion": "El mutuo acuerdo se formaliza ante escribano o autoridad, con la presencia personal del trabajador.",
+    "pista": "Una forma de terminar la relación pide más formalidad que la que dice el texto.",
+    "explicacion": "El mutuo acuerdo se formaliza por escritura pública o ante la autoridad judicial o administrativa del trabajo, con la presencia personal de la persona trabajadora.",
+    "libro": "lct_renuncia"
+  },
+  {
+    "id": "err-lct-vacaciones",
+    "titulo": "Las vacaciones",
+    "oraciones": [
+      "Las vacaciones dependen de la antigüedad al 31 de diciembre.",
+      "Con hasta 5 años de antigüedad corresponden 14 días corridos.",
+      "Con más de 10 y hasta 20 años corresponden 21 días corridos.",
+      "Con más de 20 años de antigüedad corresponden 35 días corridos.",
+      "Sin la mitad de los días hábiles trabajados, se da 1 día cada 20 de trabajo."
+    ],
+    "incorrecta": 2,
+    "correccion": "Con más de 10 y hasta 20 años corresponden 28 días corridos.",
+    "pista": "Revisá los escalones de la escala.",
+    "explicacion": "La escala es 14, 21, 28 y 35 días corridos. Con más de 10 y hasta 20 años corresponden 28 días; los 21 días son para más de 5 y hasta 10 años.",
+    "libro": "lct_vacaciones"
+  }
+]

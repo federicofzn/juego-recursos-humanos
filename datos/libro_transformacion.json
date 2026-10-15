@@ -1,0 +1,144 @@
+{
+  "unidad": {
+    "key": "transformacion",
+    "titulo": "Transformación organizacional"
+  },
+  "entradas": {
+    "tra_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de transformación",
+      "intro": [
+        "Esta unidad retoma la cultura y la conecta con el cambio: cómo pasa una organización de trabajar de una manera a trabajar de otra.",
+        "Estas palabras aparecen en todas las entradas de la unidad."
+      ],
+      "notas": [
+        "Transformación organizacional: un cambio profundo en la forma de trabajar de una organización, no un ajuste chico.",
+        "Jerarquía: la organización en niveles, donde cada jefe manda sobre los de abajo. Una estructura muy jerárquica tiene muchos niveles.",
+        "Agilidad: trabajar en equipos más chicos y autónomos, que deciden rápido y se adaptan a los cambios.",
+        "Equipo autoorganizado: un equipo que decide por sí mismo cómo hacer su trabajo, sin un jefe que reparta cada tarea.",
+        "Diagnóstico: mirar con atención cómo está la organización hoy antes de cambiar algo, como hace un médico antes de recetar.",
+        "Feedback: devolución sobre cómo hizo alguien su trabajo, para que pueda mejorar.",
+        "Mentoría: acompañar a otra persona para que crezca, compartiendo experiencia, en lugar de darle órdenes."
+      ],
+      "ejemplos": [
+        "Una empresa con siete niveles de jefes (muy jerárquica) pasa a equipos autoorganizados de cinco personas: es una transformación."
+      ],
+      "ojo": "Cambiar el organigrama no alcanza: la transformación de verdad pasa por cómo trabaja y se relaciona la gente."
+    },
+    "tra_cultura": {
+      "categoria": "Cultura",
+      "titulo": "El iceberg de la cultura: cómo se forma y cómo se aprende",
+      "intro": [
+        "La cultura se puede dibujar como un iceberg: una parte pequeña se ve sobre el agua, pero la mayor parte está debajo y no se ve.",
+        "Lo que no se ve es justamente lo que más pesa en cómo se comporta la gente."
+      ],
+      "notas": [
+        "Lo que la gente ve (la punta): las personas, los beneficios, el entorno físico, las prácticas, las conductas y las estrategias.",
+        "Lo que la gente NO ve (debajo del agua): oportunidades, reconocimiento, flexibilidad, relaciones, tradiciones, creencias, diversidad, propósito, liderazgo, normas, actitudes, valores, respeto y misión.",
+        "Cómo se forma la cultura: por los criterios de selección (a quién se elige), la filosofía de los fundadores, la socialización (cómo se integra a los nuevos) y la alta gerencia (los directivos).",
+        "Cómo la aprenden los colaboradores: por las historias que se cuentan, los rituales, los símbolos y el lenguaje que se usa."
+      ],
+      "pasos": [
+        "¿Es algo que se puede observar o tocar (beneficios, oficinas, conductas)? → parte visible.",
+        "¿Es algo que se cree o se valora (valores, creencias, propósito)? → parte que no se ve."
+      ],
+      "ejemplos": [
+        "Una empresa tiene una oficina moderna (se ve), pero su gente cree que equivocarse se castiga (no se ve): esa creencia pesa más que la oficina."
+      ],
+      "ojo": "Socialización no es «hacer amigos»: es el proceso por el que los nuevos aprenden cómo se hacen las cosas en la organización."
+    },
+    "tra_destruir": {
+      "categoria": "Cultura",
+      "titulo": "Cómo destruir la cultura en 5 pasos (Hatum)",
+      "intro": [
+        "Andrés Hatum, un especialista en organizaciones, lo explica con ironía: estos son cinco pasos «para destruir la cultura de una empresa».",
+        "Sirven para reconocer conductas que dañan la cultura aunque parezcan inofensivas."
+      ],
+      "notas": [
+        "1. Premiar al que se queda hasta tarde: promocionar a quien se queda hasta las 10 de la noche, aunque no lidere a nadie. Se premia parecer ocupado, no los resultados.",
+        "2. Frases sin escucha: llenar la oficina de frases como «somos un equipo», pero después no escuchar a nadie.",
+        "3. Feedback como reto público: usar la palabra «feedback» como excusa para retar a la gente delante de todos.",
+        "4. Hablar de innovación sin cambiar nada: que parezca que todo cambia, pero que todo siga igual. A eso se le dice gatopardismo.",
+        "5. El after para las redes: si todo falla, hacer una fiesta con DJ y fotos para las redes sociales, «para que no se diga que no hay cultura»."
+      ],
+      "ejemplos": [
+        "Una empresa anuncia un «programa de innovación», pero ningún proceso cambia y todas las ideas quedan en un cajón: es gatopardismo."
+      ],
+      "ojo": "La cultura no se arregla con eventos ni frases en la pared: se arregla cambiando lo que de verdad se premia y se hace."
+    },
+    "tra_transformar": {
+      "categoria": "Transformación",
+      "titulo": "Qué es transformarse, por qué y cómo",
+      "intro": [
+        "La transformación organizacional es un método estratégico para llevar a una empresa desde el presente hasta lo que proyecta para el futuro. Para lograrla hay que mirar de cerca el comportamiento de la organización, es decir, cómo interactúan las personas entre sí.",
+        "La pregunta de la clase no es solo si hay que transformarse, sino por qué hacerlo y qué cambios reales hacen falta. El caso IBM se usa para debatirlo."
+      ],
+      "notas": [
+        "Sobre qué se trabaja: la cultura, la estructura y la tecnología.",
+        "Cuatro estrategias para transformarse: cambiar toda la organización a la vez; cambiar un área, equipo o unidad de negocios; hacer experimentos aislados; o actualizar las prácticas una a una.",
+        "Transformación estructural: pasar de una pirámide con un jefe de proyecto arriba a equipos que se organizan solos, con un líder que sirve y facilita en lugar de mandar.",
+        "Las personas primero: «Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones»."
+      ],
+      "ejemplos": [
+        "Una empresa cambia primero cómo hace sus reuniones, después cómo evalúa el desempeño y después cómo arma los equipos: actualiza las prácticas una a una."
+      ],
+      "ojo": "Un organigrama nuevo con la misma gente trabajando igual no es una transformación."
+    },
+    "tra_diagnostico": {
+      "categoria": "Transformación",
+      "titulo": "El cambio cultural empieza por un diagnóstico",
+      "intro": [
+        "Antes de intervenir, la organización necesita entender qué cultura tiene, qué mensajes transmite, qué prácticas refuerza y qué cosas frenan el cambio.",
+        "El diagnóstico se ordena en seis ejes, cada uno con sus preguntas."
+      ],
+      "notas": [
+        "Ambiente: ¿cómo se vive el día a día?, ¿el clima es parecido entre los equipos?, ¿cómo son los vínculos entre las personas?",
+        "Creencias: ¿qué se valora y se reconoce?, ¿se permite la transparencia?, ¿las personas pueden desarrollarse?",
+        "Actitudes y comportamientos: ¿se trabaja con autonomía?, ¿hay colaboración entre personas y equipos?, ¿hay formas de trabajo compartidas?",
+        "Liderazgo: ¿los líderes son cercanos o distantes?, ¿generan confianza?, ¿son transformacionales o conservadores?",
+        "Comunicación: ¿la comunicación es fluida?, ¿hay un estilo común?, ¿la gente conoce la estrategia de la empresa?",
+        "Estructura y procesos: ¿la estructura es más horizontal o vertical?, ¿hay procesos que ordenen el trabajo?, ¿los roles y lo que se espera de cada uno están claros?"
+      ],
+      "ejemplos": [
+        "RRHH pregunta en una encuesta si los jefes generan confianza: está diagnosticando el eje de liderazgo."
+      ],
+      "ojo": "Primero se diagnostica y después se interviene, como un médico que no receta sin revisar al paciente."
+    },
+    "tra_farmacity": {
+      "categoria": "Casos",
+      "titulo": "El caso Farmacity: de la jerarquía a la agilidad",
+      "intro": [
+        "Farmacity es una cadena argentina de farmacias que transformó su forma de organizarse. Es el caso que se estudia en la unidad.",
+        "Pasó de una estructura tradicional y jerárquica a un enfoque ágil y basado en las habilidades de las personas."
+      ],
+      "notas": [
+        "Nuevos roles: el modelo incorporó los roles de sponsor, owner, miembro de equipo y mentor.",
+        "Implementación gradual: empezó por algunos sectores y después avanzó hacia una transformación de toda la empresa.",
+        "Propósito e impacto: se puso en el centro un propósito de crear oportunidades y bienestar, con compromiso con la inclusión y el impacto social y ambiental.",
+        "Cambio de liderazgo: pasó de un liderazgo de control a uno de mentoría y autonomía de los equipos. En palabras de la empresa: un líder que, en vez de ubicarse arriba, acompaña para que el otro pueda desarrollarse."
+      ],
+      "ejemplos": [
+        "Un jefe que antes revisaba cada tarea pasa a ser mentor: acompaña y deja que el equipo decida."
+      ],
+      "ojo": "La transformación de Farmacity no fue de un día para el otro: fue gradual, de algunos sectores a toda la empresa."
+    },
+    "tra_temas": {
+      "categoria": "Casos",
+      "titulo": "Temas actuales de gestión de personas",
+      "intro": [
+        "La unidad cierra con una tarea grupal para investigar cuatro temas actuales de la gestión de personas. La clase solo los nombra; acá va una explicación básica de cada uno.",
+        "Clima laboral y EVP tienen su propia unidad en este juego."
+      ],
+      "notas": [
+        "Clima laboral y encuestas de clima: cómo se siente la gente en su trabajo y cómo se mide.",
+        "Employee Value Proposition (EVP): lo que la organización le ofrece a su gente a cambio de su trabajo.",
+        "ENPS (Employee Net Promoter Score): una medición de cuánto recomendarían los empleados su organización como lugar para trabajar.",
+        "Upskilling y reskilling: upskilling es mejorar las habilidades para hacer mejor el mismo trabajo; reskilling es aprender habilidades nuevas para pasar a otro puesto."
+      ],
+      "ejemplos": [
+        "Una empresa enseña inteligencia artificial a sus analistas para que hagan mejor su tarea (upskilling) y forma a cajeros para pasar a atención online (reskilling)."
+      ],
+      "ojo": "Upskilling = mismo puesto, mejores habilidades. Reskilling = habilidades nuevas para otro puesto."
+    }
+  }
+}
