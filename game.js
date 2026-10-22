@@ -1677,12 +1677,9 @@ function openBookSection(unitKey, highlightKey = null) {
 const FIGURES = {
   cuadrantes: renderQuadrants,
   flujo: renderFlow,
-  escala: renderScale,
   capas: renderLayers,
   antesdespues: renderBeforeAfter,
-  cascada: renderCascade,
-  grupos: renderGroups,
-  comparacion: renderComparison
+  grupos: renderGroups
 };
 
 function renderFigure(figure) {
@@ -1728,16 +1725,6 @@ function renderFlow(figure, t) {
     </li>`).join("")}</ol>`;
 }
 
-// Escala de menos a mas: cada escalon es mas intenso que el anterior.
-function renderScale(figure, t) {
-  const last = Math.max(1, figure.tramos.length - 1);
-  return `<div class="fig-scale" style="--steps:${figure.tramos.length}">${figure.tramos.map((tramo, index) => `
-    <div class="fig-scale-step s-${Math.round((index * 3) / last)}">
-      <span class="fig-scale-range">${t(tramo.rango)}</span>
-      <strong class="fig-scale-value">${t(tramo.valor)}</strong>
-    </div>`).join("")}</div>`;
-}
-
 // Iceberg: arriba lo que se ve (claro), abajo lo que no se ve (oscuro).
 function renderLayers(figure, t) {
   const layer = (data, className) => `<div class="fig-layer ${className}"><strong>${t(data.titulo)}</strong>${figureList(data.items, t)}</div>`;
@@ -1759,12 +1746,6 @@ function renderBeforeAfter(figure, t) {
   return `<div class="fig-before-after">${side(figure.antes, pyramid, "is-before")}<span class="fig-arrow" aria-hidden="true">→</span>${side(figure.despues, ring, "is-after")}</div>`;
 }
 
-// Pasos que se apoyan uno en otro: cada escalon corre un poco y se intensifica.
-function renderCascade(figure, t) {
-  return `<ol class="fig-cascade">${figure.pasos.map((paso, index) => `
-    <li class="c-${Math.min(index, 4)}" style="--i:${index}"><strong>${t(paso.titulo)}</strong><span>${t(paso.texto)}</span></li>`).join("")}</ol>`;
-}
-
 // Como en el grafico de McKinsey: el centro (quienes somos) y un anillo con los elementos de las otras dimensiones,
 // intercalados. El color de cada circulo dice a que dimension pertenece, y la lista de al lado explica cada una.
 function renderGroups(figure, t) {
@@ -1784,17 +1765,6 @@ function renderGroups(figure, t) {
     <div class="fig-groups">
       <div class="fig-ring6" aria-hidden="true">${core}${nodes}</div>
       <ul class="fig-dims">${dims}</ul>
-    </div>`;
-}
-
-// Tabla de dos columnas: cada columna con su color.
-function renderComparison(figure, t) {
-  return `
-    <div class="fig-table-wrap">
-      <table class="fig-table">
-        <thead><tr><th></th>${figure.columnas.map((column, index) => `<th class="col-${index}">${t(column)}</th>`).join("")}</tr></thead>
-        <tbody>${figure.filas.map((row) => `<tr><th scope="row">${t(row.aspecto)}</th>${row.valores.map((value, index) => `<td class="col-${index}">${t(value)}</td>`).join("")}</tr>`).join("")}</tbody>
-      </table>
     </div>`;
 }
 

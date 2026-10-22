@@ -184,8 +184,8 @@ console.log("rotulos del libro validados");
 
 // Esquemas del libro: tipo conocido, titulo y los datos que cada tipo necesita.
 const FIGURE_FIELDS = {
-  cuadrantes: ["ejes", "cuadrantes"], flujo: ["tramos"], escala: ["tramos"], capas: ["visible", "oculto"],
-  antesdespues: ["antes", "despues"], cascada: ["pasos"], grupos: ["centro", "grupos"], comparacion: ["columnas", "filas"]
+  cuadrantes: ["ejes", "cuadrantes"], flujo: ["tramos"], capas: ["visible", "oculto"],
+  antesdespues: ["antes", "despues"], grupos: ["centro", "grupos"]
 };
 assert(gameSource.includes("function renderFigure"), "el juego debe dibujar los esquemas del libro");
 for (const [key, entry] of Object.entries(reference.entradas)) {

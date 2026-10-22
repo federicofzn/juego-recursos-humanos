@@ -1309,10 +1309,6 @@ button.match-item:not(:disabled):hover {
 .k-oculto { --key: #1e3a8a; }
 .k-control { --key: #e11d48; }
 .k-facilitador { --key: #059669; }
-.k-at { --key: #4338ca; }
-.k-ao { --key: #c2410c; }
-.k-menos { --key: #eef2ff; }
-.k-mas { --key: #3730a3; }
 
 .fig-arrow {
   color: #64748b;
@@ -1423,30 +1419,6 @@ button.match-item:not(:disabled):hover {
   font-size: 0.72rem;
   font-weight: 700;
 }
-
-/* Escala (vacaciones, preaviso): mas antiguedad = color mas intenso. */
-.fig-scale {
-  display: grid;
-  grid-template-columns: repeat(var(--steps), minmax(0, 1fr));
-  gap: 4px;
-}
-
-.fig-scale-step {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 4px;
-  border-radius: 8px;
-  padding: 8px 6px;
-  text-align: center;
-}
-
-.fig-scale-range { font-size: 0.7rem; font-weight: 800; line-height: 1.2; }
-.fig-scale-value { font-size: 0.95rem; font-weight: 900; }
-.s-0 { background: #eef2ff; color: #312e81; }
-.s-1 { background: #c7d2fe; color: #1e1b4b; }
-.s-2 { background: #6366f1; color: white; }
-.s-3 { background: #3730a3; color: white; }
 
 /* Capas (iceberg): claro lo que se ve, oscuro lo que no se ve. */
 .fig-iceberg {
@@ -1598,32 +1570,6 @@ button.match-item:not(:disabled):hover {
 .is-before .fig-role::before { background: #e11d48; }
 .is-after .fig-role::before { background: #059669; }
 
-/* Cascada (5 preguntas): cada pregunta se apoya en la anterior y se intensifica. */
-.fig-cascade {
-  display: grid;
-  gap: 5px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.fig-cascade li {
-  display: flex;
-  flex-direction: column;
-  margin-left: calc(var(--i) * 12px);
-  border-radius: 8px;
-  padding: 6px 9px;
-  font-size: 0.76rem;
-  line-height: 1.3;
-}
-
-.fig-cascade strong { font-size: 0.8rem; }
-.c-0 { background: #eef2ff; color: #312e81; }
-.c-1 { background: #e0e7ff; color: #312e81; }
-.c-2 { background: #c7d2fe; color: #1e1b4b; }
-.c-3 { background: #6366f1; color: white; }
-.c-4 { background: #3730a3; color: white; }
-
 /* Anillo (McKinsey): como en el grafico original, el color de cada circulo es su dimension. */
 .book-figure { container-type: inline-size; }
 
@@ -1728,53 +1674,10 @@ button.match-item:not(:disabled):hover {
   }
 }
 
-/* Comparacion (agilidad tecnica u organizacional): una columna por color. */
-.fig-table-wrap { overflow-x: auto; }
-
-.fig-table {
-  width: 100%;
-  table-layout: fixed;
-  overflow-wrap: break-word;
-  hyphens: auto;
-  border-collapse: separate;
-  border-spacing: 3px;
-  font-size: 0.76rem;
-  line-height: 1.3;
-}
-
-.fig-table th,
-.fig-table td {
-  border-radius: 6px;
-  padding: 6px 8px;
-  text-align: left;
-  vertical-align: top;
-}
-
-.fig-table tbody th { width: 26%; background: #f1f5f9; color: #334155; font-weight: 900; }
-.fig-table td.col-0 { background: #e0e7ff; color: #312e81; }
-.fig-table td.col-1 { background: #ffedd5; color: #7c2d12; }
-.fig-table thead th.col-0 { background: #4338ca; color: white; }
-.fig-table thead th.col-1 { background: #c2410c; color: white; }
-
-/* En el celular la tabla pasa a filas: el aspecto arriba y las dos columnas abajo, sin cortar palabras. */
+/* En el celular los cuadrantes se achican un poco para que entren los textos. */
 @media (max-width: 480px) {
   .fig-quad { padding: 6px; font-size: 0.72rem; }
   .fig-quad ul { padding-left: 12px; }
-
-  .fig-table,
-  .fig-table thead,
-  .fig-table tbody { display: block; }
-
-  .fig-table thead tr,
-  .fig-table tbody tr {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 3px;
-    margin-bottom: 3px;
-  }
-
-  .fig-table thead th:first-child { display: none; }
-  .fig-table tbody th { grid-column: 1 / -1; width: auto; padding: 4px 8px; }
 }
 
 @media (max-width: 420px) {

@@ -320,59 +320,7 @@
       "ejemplos": [
         "Una empresa decide que todas sus áreas trabajen en equipos que se organizan solos, y RRHH lidera el cambio: es agilidad organizacional."
       ],
-      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura).",
-      "figura": {
-        "tipo": "comparacion",
-        "titulo": "Dos formas de implantar Agile",
-        "columnas": [
-          "Agilidad técnica (AT)",
-          "Agilidad organizacional (AO)"
-        ],
-        "filas": [
-          {
-            "aspecto": "Quién lidera",
-            "valores": [
-              "CIO o CTO (tecnología)",
-              "RRHH"
-            ]
-          },
-          {
-            "aspecto": "Se apoya en",
-            "valores": [
-              "Metodologías y procesos",
-              "Valores y comportamientos"
-            ]
-          },
-          {
-            "aspecto": "Genera valor",
-            "valores": [
-              "Seguir los procesos",
-              "Las personas que se organizan solas"
-            ]
-          },
-          {
-            "aspecto": "Equipos",
-            "valores": [
-              "Autogestionados",
-              "Autogobernados; el rol clásico de RRHH se diluye"
-            ]
-          },
-          {
-            "aspecto": "Valores",
-            "valores": [
-              "Aportar valor, recibir bien el cambio, transparencia",
-              "Respeto, confianza, horizontalidad, autogobierno"
-            ]
-          },
-          {
-            "aspecto": "Ejemplos",
-            "valores": [
-              "Scrum, Kanban",
-              "Holocracia, organizaciones Teal"
-            ]
-          }
-        ]
-      }
+      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura)."
     },
     "est_glosario": {
       "unidad": "estrategia_cultura",
@@ -421,34 +369,7 @@
         "Coca-Cola y Pepsi venden productos parecidos, pero eligen formas distintas de diferenciarse: es la pregunta de cómo jugar.",
         "Una empresa decide vender solo online y no en supermercados: está respondiendo dónde jugar."
       ],
-      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos.",
-      "figura": {
-        "tipo": "cascada",
-        "titulo": "Las 5 preguntas de la estrategia",
-        "pasos": [
-          {
-            "titulo": "1. ¿Cuál es nuestra aspiración ganadora?",
-            "texto": "El propósito: para qué existe y qué es ganar."
-          },
-          {
-            "titulo": "2. ¿Dónde jugaremos?",
-            "texto": "Clientes, canales, productos, zonas y etapa de la producción."
-          },
-          {
-            "titulo": "3. ¿Cómo jugaremos?",
-            "texto": "La ventaja competitiva: costo o diferenciación."
-          },
-          {
-            "titulo": "4. ¿Qué capacidades debemos tener?",
-            "texto": "Lo que hay que saber hacer para cumplir lo anterior."
-          },
-          {
-            "titulo": "5. ¿Qué sistemas de gestión necesitamos?",
-            "texto": "Procesos, estructuras y reglas que lo sostienen y lo miden."
-          }
-        ],
-        "nota": "Se responden en orden: cada pregunta se apoya en la anterior, por eso el color se va haciendo más fuerte."
-      }
+      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos."
     },
     "est_rrhh": {
       "unidad": "estrategia_cultura",
@@ -934,32 +855,7 @@
       "ejemplos": [
         "Una persona con 4 años y 5 meses de antigüedad es despedida sin causa: le corresponden 5 sueldos de indemnización, porque los 5 meses son más de 3."
       ],
-      "ojo": "Si el empleador despide con causa, tiene que decir por escrito cuál es, y no puede cambiarla después.",
-      "figura": {
-        "tipo": "escala",
-        "titulo": "Preaviso que debe dar el empleador",
-        "tramos": [
-          {
-            "rango": "Hasta 5 años de antigüedad",
-            "valor": "1 mes"
-          },
-          {
-            "rango": "Más de 5 años de antigüedad",
-            "valor": "2 meses"
-          }
-        ],
-        "nota": "Si no avisa, paga una indemnización sustitutiva que reemplaza ese aviso.",
-        "leyenda": [
-          {
-            "clase": "k-menos",
-            "texto": "Menos antigüedad"
-          },
-          {
-            "clase": "k-mas",
-            "texto": "Más antigüedad"
-          }
-        ]
-      }
+      "ojo": "Si el empleador despide con causa, tiene que decir por escrito cuál es, y no puede cambiarla después."
     },
     "lct_renuncia": {
       "unidad": "contrato_trabajo",
@@ -1003,40 +899,7 @@
       "ejemplos": [
         "Una persona que al 31 de diciembre cumple 8 años de antigüedad tiene 21 días corridos de vacaciones."
       ],
-      "ojo": "La antigüedad se mira al 31 de diciembre, no el día en que la persona pide las vacaciones.",
-      "figura": {
-        "tipo": "escala",
-        "titulo": "Días de vacaciones según la antigüedad",
-        "tramos": [
-          {
-            "rango": "Hasta 5 años",
-            "valor": "14 días"
-          },
-          {
-            "rango": "Más de 5 y hasta 10",
-            "valor": "21 días"
-          },
-          {
-            "rango": "Más de 10 y hasta 20",
-            "valor": "28 días"
-          },
-          {
-            "rango": "Más de 20 años",
-            "valor": "35 días"
-          }
-        ],
-        "nota": "Días corridos, según la antigüedad al 31 de diciembre del año.",
-        "leyenda": [
-          {
-            "clase": "k-menos",
-            "texto": "Menos antigüedad"
-          },
-          {
-            "clase": "k-mas",
-            "texto": "Más antigüedad"
-          }
-        ]
-      }
+      "ojo": "La antigüedad se mira al 31 de diciembre, no el día en que la persona pide las vacaciones."
     }
   }
 }

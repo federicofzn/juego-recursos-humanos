@@ -296,59 +296,7 @@
       "ejemplos": [
         "Una empresa decide que todas sus áreas trabajen en equipos que se organizan solos, y RRHH lidera el cambio: es agilidad organizacional."
       ],
-      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura).",
-      "figura": {
-        "tipo": "comparacion",
-        "titulo": "Dos formas de implantar Agile",
-        "columnas": [
-          "Agilidad técnica (AT)",
-          "Agilidad organizacional (AO)"
-        ],
-        "filas": [
-          {
-            "aspecto": "Quién lidera",
-            "valores": [
-              "CIO o CTO (tecnología)",
-              "RRHH"
-            ]
-          },
-          {
-            "aspecto": "Se apoya en",
-            "valores": [
-              "Metodologías y procesos",
-              "Valores y comportamientos"
-            ]
-          },
-          {
-            "aspecto": "Genera valor",
-            "valores": [
-              "Seguir los procesos",
-              "Las personas que se organizan solas"
-            ]
-          },
-          {
-            "aspecto": "Equipos",
-            "valores": [
-              "Autogestionados",
-              "Autogobernados; el rol clásico de RRHH se diluye"
-            ]
-          },
-          {
-            "aspecto": "Valores",
-            "valores": [
-              "Aportar valor, recibir bien el cambio, transparencia",
-              "Respeto, confianza, horizontalidad, autogobierno"
-            ]
-          },
-          {
-            "aspecto": "Ejemplos",
-            "valores": [
-              "Scrum, Kanban",
-              "Holocracia, organizaciones Teal"
-            ]
-          }
-        ]
-      }
+      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura)."
     }
   }
 }
