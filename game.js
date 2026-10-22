@@ -1501,7 +1501,7 @@ function addAchievementProgress(increments) {
   }
   writeStorage(STORAGE.achievements, state.achievements);
   renderAchievements(leveled.map((item) => item.key));
-  if (leveled.length) showAchievementToast(leveled[leveled.length - 1]);
+  if (leveled.length) queueAchievementToasts(leveled);
 }
 
 function renderAchievements(leveledKeys = []) {
@@ -1527,6 +1527,22 @@ function renderAchievements(leveledKeys = []) {
   }).join("");
 }
 
+// Los avisos de logro van en fila: si se desbloquean varios juntos, se ven uno despues del otro,
+// cada uno con sus fuegos artificiales.
+const achievementQueue = [];
+let achievementToastBusy = false;
+
+function queueAchievementToasts(achievements) {
+  achievementQueue.push(...achievements);
+  if (!achievementToastBusy) showNextAchievementToast();
+}
+
+function showNextAchievementToast() {
+  const next = achievementQueue.shift();
+  achievementToastBusy = Boolean(next);
+  if (next) showAchievementToast(next);
+}
+
 function showAchievementToast(achievement) {
   const tier = tierOf(achievement, state.achievements[achievement.key] || 0);
   els.achievementToast.innerHTML = `
@@ -1541,6 +1557,8 @@ function showAchievementToast(achievement) {
 
 function hideAchievementToast() {
   els.achievementToast.classList.add("hidden");
+  clearTimeout(state.toastTimer);
+  state.toastTimer = setTimeout(showNextAchievementToast, 400);
 }
 
 // ---------- Fuegos artificiales del logro ----------
