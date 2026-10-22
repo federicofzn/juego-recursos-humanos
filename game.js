@@ -1534,12 +1534,111 @@ function showAchievementToast(achievement) {
     <span>¡Logro desbloqueado! ${escapeHtml(achievement.name)} · nivel ${TIER_NAMES[tier - 1]}</span>
   `;
   els.achievementToast.classList.remove("hidden");
+  launchFireworks(els.achievementToast, tier);
   clearTimeout(state.toastTimer);
   state.toastTimer = setTimeout(hideAchievementToast, 8500);
 }
 
 function hideAchievementToast() {
   els.achievementToast.classList.add("hidden");
+}
+
+// ---------- Fuegos artificiales del logro ----------
+// Como al ganar en el Spider Solitario de Windows: cohetes que salen del aviso y estallan en puntitos que caen.
+// Los puntitos son del color del nivel alcanzado, con algunos del nivel siguiente; en el dorado, todos dorados.
+// Se dibujan en un canvas que no recibe clics; con «reducir movimiento» activado no se muestran.
+const TIER_FIREWORK_COLORS = ["#10b981", "#2563eb", "#7c3aed", "#e11d48", "#facc15"];
+const GOLD_FIREWORK_COLORS = ["#facc15", "#d4a017"];
+const NEXT_TIER_SHARE = 0.25;
+const FIREWORK_ROCKETS = 5;
+const FIREWORK_DOTS = 70;
+const fireworks = { canvas: null, context: null, rockets: [], dots: [], frame: 0 };
+
+function launchFireworks(origin, tier) {
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  if (!fireworks.canvas) {
+    fireworks.canvas = document.createElement("canvas");
+    fireworks.canvas.className = "fireworks-canvas";
+    fireworks.canvas.setAttribute("aria-hidden", "true");
+    document.body.appendChild(fireworks.canvas);
+    fireworks.context = fireworks.canvas.getContext("2d");
+  }
+  const ratio = window.devicePixelRatio || 1;
+  fireworks.canvas.width = Math.round(window.innerWidth * ratio);
+  fireworks.canvas.height = Math.round(window.innerHeight * ratio);
+  fireworks.context.setTransform(ratio, 0, 0, ratio, 0, 0);
+
+  const rect = origin.getBoundingClientRect();
+  const spread = Math.min(640, window.innerWidth * 0.8);
+  for (let index = 0; index < FIREWORK_ROCKETS; index += 1) {
+    const x = rect.left + rect.width * (0.2 + Math.random() * 0.6);
+    const targetX = Math.min(window.innerWidth - 40, Math.max(40, rect.left + rect.width / 2 + (Math.random() - 0.5) * spread));
+    const targetY = Math.max(40, rect.top - 120 - Math.random() * Math.min(360, Math.max(0, rect.top - 160)));
+    fireworks.rockets.push({
+      x, y: rect.top, startX: x, startY: rect.top, targetX, targetY,
+      wait: index * 30, step: 0, steps: 80 + Math.round(Math.random() * 25),
+      ...fireworkColors(tier)
+    });
+  }
+  if (!fireworks.frame) fireworks.frame = requestAnimationFrame(drawFireworks);
+}
+
+// Color principal y secundario de cada cohete segun el nivel (1 a 5).
+function fireworkColors(tier) {
+  const level = Math.min(Math.max(tier || 1, 1), TIER_FIREWORK_COLORS.length);
+  if (level === TIER_FIREWORK_COLORS.length) return { color: GOLD_FIREWORK_COLORS[0], accent: GOLD_FIREWORK_COLORS[1] };
+  return { color: TIER_FIREWORK_COLORS[level - 1], accent: TIER_FIREWORK_COLORS[level] };
+}
+
+function burstFirework(rocket) {
+  for (let index = 0; index < FIREWORK_DOTS; index += 1) {
+    const angle = Math.random() * Math.PI * 2;
+    const speed = 0.8 + Math.random() * 2.6;
+    const life = 170 + Math.round(Math.random() * 70);
+    fireworks.dots.push({
+      x: rocket.x, y: rocket.y, vx: Math.cos(angle) * speed, vy: Math.sin(angle) * speed,
+      life, left: life, color: Math.random() < NEXT_TIER_SHARE ? rocket.accent : rocket.color
+    });
+  }
+}
+
+function drawFireworks() {
+  const context = fireworks.context;
+  context.clearRect(0, 0, window.innerWidth, window.innerHeight);
+  fireworks.rockets = fireworks.rockets.filter((rocket) => {
+    if (rocket.wait > 0) {
+      rocket.wait -= 1;
+      return true;
+    }
+    rocket.step += 1;
+    const progress = rocket.step / rocket.steps;
+    const eased = 1 - (1 - progress) ** 2;
+    rocket.x = rocket.startX + (rocket.targetX - rocket.startX) * eased;
+    rocket.y = rocket.startY + (rocket.targetY - rocket.startY) * eased;
+    context.fillStyle = rocket.color;
+    context.fillRect(rocket.x - 2, rocket.y - 2, 4, 4);
+    if (rocket.step < rocket.steps) return true;
+    burstFirework(rocket);
+    return false;
+  });
+  fireworks.dots = fireworks.dots.filter((dot) => {
+    dot.left -= 1;
+    dot.vx *= 0.98;
+    dot.vy = dot.vy * 0.98 + 0.025;
+    dot.x += dot.vx;
+    dot.y += dot.vy;
+    context.globalAlpha = Math.min(1, Math.max(0, (dot.left / dot.life) * 2));
+    context.fillStyle = dot.color;
+    context.fillRect(dot.x - 2, dot.y - 2, 4, 4);
+    context.globalAlpha = 1;
+    return dot.left > 0 && dot.y < window.innerHeight + 10;
+  });
+  if (fireworks.rockets.length || fireworks.dots.length) {
+    fireworks.frame = requestAnimationFrame(drawFireworks);
+  } else {
+    context.clearRect(0, 0, window.innerWidth, window.innerHeight);
+    fireworks.frame = 0;
+  }
 }
 
 // La fila superior puede cambiar de alto (por ejemplo, si los logros ocupan dos lineas).
