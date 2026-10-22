@@ -310,6 +310,37 @@
     }
   },
   {
+    "id": "err-est-mision",
+    "unidad": "estrategia_cultura",
+    "tipo": "error",
+    "titulo": "Misión, visión y valores",
+    "situacion": "Un colega te pasa este resumen sobre «Misión, visión y valores» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Misión, visión y valores forman la filosofía institucional de una organización.",
+      "La misión dice qué hace la organización hoy, para quién y para qué.",
+      "La visión describe lo que la organización hace hoy por sus clientes.",
+      "Los valores son los principios que guían cómo actúa la gente.",
+      "La estrategia es el camino para pasar de la misión a la visión."
+    ],
+    "incorrecta": 2,
+    "correccion": "La visión describe lo que la organización quiere llegar a ser en el futuro.",
+    "respuestaCorrecta": "La visión describe lo que la organización hace hoy por sus clientes.",
+    "respuestasIncorrectas": [
+      "Misión, visión y valores forman la filosofía institucional de una organización.",
+      "La misión dice qué hace la organización hoy, para quién y para qué.",
+      "Los valores son los principios que guían cómo actúa la gente.",
+      "La estrategia es el camino para pasar de la misión a la visión."
+    ],
+    "pista": "Una de las oraciones mezcla el presente con el futuro.",
+    "explicacion": "Lo correcto es: «La visión describe lo que la organización quiere llegar a ser en el futuro.» La visión mira al futuro: es lo que la organización quiere llegar a ser. Lo que hace hoy, para quién y para qué, es la misión.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Misión, visión y valores",
+      "entradaLibro": "est_mision"
+    }
+  },
+  {
     "id": "err-tra-iceberg",
     "unidad": "transformacion",
     "tipo": "error",

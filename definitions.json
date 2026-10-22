@@ -700,6 +700,72 @@
     }
   },
   {
+    "id": "def-est-mision",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "filosofia",
+    "ejemplo": "«Llevamos agua potable a cada hogar del pueblo a un precio justo».",
+    "titulo": "Misión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Misión»?",
+    "respuestaCorrecta": "Para qué existe la organización hoy: qué hace, para quién y con qué propósito.",
+    "respuestasIncorrectas": [
+      "Lo que la organización quiere llegar a ser en el futuro: una meta a largo plazo que marca la dirección.",
+      "Los principios que guían cómo se comporta la gente de la organización."
+    ],
+    "pista": "Mira al presente, no a lo que vendrá.",
+    "explicacion": "Misión: Para qué existe la organización hoy: qué hace, para quién y con qué propósito. Ejemplo: «Llevamos agua potable a cada hogar del pueblo a un precio justo».",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Misión, visión y valores",
+      "entradaLibro": "est_mision"
+    }
+  },
+  {
+    "id": "def-est-vision",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "filosofia",
+    "ejemplo": "«Que en 2035 ningún vecino de la región se quede sin agua».",
+    "titulo": "Visión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Visión»?",
+    "respuestaCorrecta": "Lo que la organización quiere llegar a ser en el futuro: una meta a largo plazo que marca la dirección.",
+    "respuestasIncorrectas": [
+      "Para qué existe la organización hoy: qué hace, para quién y con qué propósito.",
+      "Los principios que guían cómo se comporta la gente de la organización."
+    ],
+    "pista": "Habla de un destino al que todavía no se llegó.",
+    "explicacion": "Visión: Lo que la organización quiere llegar a ser en el futuro: una meta a largo plazo que marca la dirección. Ejemplo: «Que en 2035 ningún vecino de la región se quede sin agua».",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Misión, visión y valores",
+      "entradaLibro": "est_mision"
+    }
+  },
+  {
+    "id": "def-est-valores",
+    "unidad": "estrategia_cultura",
+    "tipo": "definicion",
+    "grupo": "filosofia",
+    "ejemplo": "Transparencia, solidaridad y cuidado del ambiente.",
+    "titulo": "Valores",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Valores»?",
+    "respuestaCorrecta": "Los principios que guían cómo se comporta la gente de la organización.",
+    "respuestasIncorrectas": [
+      "Para qué existe la organización hoy: qué hace, para quién y con qué propósito.",
+      "Lo que la organización quiere llegar a ser en el futuro: una meta a largo plazo que marca la dirección."
+    ],
+    "pista": "No dice qué se hace ni adónde se va, sino de qué manera.",
+    "explicacion": "Valores: Los principios que guían cómo se comporta la gente de la organización. Ejemplo: Transparencia, solidaridad y cuidado del ambiente.",
+    "referencia": {
+      "tipo": "Estrategia",
+      "titulo": "Misión, visión y valores",
+      "entradaLibro": "est_mision"
+    }
+  },
+  {
     "id": "def-tra-seleccion",
     "unidad": "transformacion",
     "tipo": "definicion",

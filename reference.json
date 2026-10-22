@@ -375,6 +375,31 @@
       ],
       "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos."
     },
+    "est_mision": {
+      "unidad": "estrategia_cultura",
+      "categoria": "Estrategia",
+      "titulo": "Misión, visión y valores",
+      "intro": [
+        "Misión, visión y valores son tres definiciones que una organización escribe para decir quién es: para qué existe, adónde quiere llegar y cómo quiere comportarse en el camino.",
+        "Juntas forman su filosofía institucional. Son el punto de partida de la estrategia y una guía para la cultura."
+      ],
+      "notas": [
+        "Misión: dice para qué existe la organización hoy: qué hace, para quién y con qué propósito. Mira al presente.",
+        "Visión: describe lo que la organización quiere llegar a ser en el futuro. Es una meta a largo plazo que marca la dirección.",
+        "Valores: son los principios que guían cómo actúa la gente de la organización, por ejemplo la honestidad, el respeto o el trabajo en equipo. Son la base de la cultura.",
+        "Relación con la estrategia: la estrategia es el camino para pasar de la misión de hoy a la visión del futuro, respetando los valores.",
+        "Relación con la cultura: los valores escritos valen solo si se ven en el día a día. Si lo que se premia va en contra de ellos, la gente cree en lo que ve y no en lo que dice el cartel."
+      ],
+      "pasos": [
+        "¿Dice qué hace hoy la organización, para quién y para qué? → misión.",
+        "¿Describe lo que quiere llegar a ser más adelante? → visión.",
+        "¿Nombra principios sobre cómo comportarse? → valores."
+      ],
+      "ejemplos": [
+        "Una cooperativa de agua. Misión: «Llevamos agua potable a cada hogar del pueblo a un precio justo». Visión: «Que en 2035 ningún vecino de la región se quede sin agua». Valores: transparencia, solidaridad y cuidado del ambiente."
+      ],
+      "ojo": "Misión y visión se confunden fácil: la misión es el presente (lo que hace hoy) y la visión es el futuro (lo que quiere llegar a ser)."
+    },
     "est_rrhh": {
       "unidad": "estrategia_cultura",
       "categoria": "Estrategia",

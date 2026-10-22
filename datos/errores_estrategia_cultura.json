@@ -78,5 +78,21 @@
     "pista": "Una frase famosa está dada vuelta.",
     "explicacion": "La frase de Drucker es «la cultura se come a la estrategia en el desayuno»: la cultura pesa más que el plan.",
     "libro": "est_cultura_estrategia"
+  },
+  {
+    "id": "err-est-mision",
+    "titulo": "Misión, visión y valores",
+    "oraciones": [
+      "Misión, visión y valores forman la filosofía institucional de una organización.",
+      "La misión dice qué hace la organización hoy, para quién y para qué.",
+      "La visión describe lo que la organización hace hoy por sus clientes.",
+      "Los valores son los principios que guían cómo actúa la gente.",
+      "La estrategia es el camino para pasar de la misión a la visión."
+    ],
+    "incorrecta": 2,
+    "correccion": "La visión describe lo que la organización quiere llegar a ser en el futuro.",
+    "pista": "Una de las oraciones mezcla el presente con el futuro.",
+    "explicacion": "La visión mira al futuro: es lo que la organización quiere llegar a ser. Lo que hace hoy, para quién y para qué, es la misión.",
+    "libro": "est_mision"
   }
 ]

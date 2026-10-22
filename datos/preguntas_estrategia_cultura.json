@@ -322,5 +322,77 @@
     "pista": "Fijate qué aprende la gente cuando ve lo que pasa con quien se equivoca.",
     "explicacion": "La estrategia pide innovar, pero la cultura castiga el error. La gente cree en lo que ve que pasa, así que deja de proponer: la cultura se come a la estrategia.",
     "libro": "est_cultura_estrategia"
+  },
+  {
+    "id": "est-mision-01",
+    "tipo": "clasificar",
+    "titulo": "La frase de la web",
+    "situacion": "En la web de una empresa de colectivos se lee: «Trasladamos a los vecinos del conurbano de forma segura, puntual y accesible todos los días».",
+    "pregunta": "¿Qué parte de la filosofía institucional es esa frase?",
+    "correcta": "La misión",
+    "incorrectas": [
+      "La visión",
+      "Los valores",
+      "La ventaja competitiva",
+      "El clima laboral",
+      "El EVP"
+    ],
+    "pista": "Fijate el tiempo: ¿cuenta lo que hace o lo que quiere ser?",
+    "explicacion": "La frase dice qué hace la empresa hoy, para quién y para qué: es su misión. La visión hablaría de lo que quiere llegar a ser, y los valores, de cómo quiere comportarse.",
+    "libro": "est_mision"
+  },
+  {
+    "id": "est-vision-01",
+    "tipo": "clasificar",
+    "titulo": "Dentro de diez años",
+    "situacion": "Un laboratorio publica: «Queremos ser, dentro de diez años, el laboratorio de referencia en vacunas de América Latina».",
+    "pregunta": "¿Qué parte de la filosofía institucional es esa frase?",
+    "correcta": "La visión",
+    "incorrectas": [
+      "La misión",
+      "Los valores",
+      "El presupuesto anual",
+      "El organigrama",
+      "El plan de capacitación"
+    ],
+    "pista": "La frase no cuenta lo que el laboratorio hace hoy.",
+    "explicacion": "Describe lo que el laboratorio quiere llegar a ser en el futuro: es su visión. La misión diría qué hace hoy y para quién.",
+    "libro": "est_mision"
+  },
+  {
+    "id": "est-valores-01",
+    "tipo": "caso",
+    "titulo": "Valores de adorno",
+    "situacion": "Una empresa tiene pintado en la pared «Respeto y trabajo en equipo», pero asciende una y otra vez a quien se queda con el mérito de sus compañeros. Los empleados dicen que esos valores «son de adorno».",
+    "pregunta": "¿Qué está fallando?",
+    "correcta": "Que los valores escritos no se ven en lo que la empresa premia",
+    "incorrectas": [
+      "Que faltan más frases en la pared para que se cumplan",
+      "Que los valores tendrían que cambiar todos los años",
+      "Que la misión está mal redactada y por eso nadie la sigue",
+      "Que los valores no tienen ninguna relación con la cultura",
+      "Que los empleados no leyeron bien el cartel de la entrada"
+    ],
+    "pista": "La gente cree más en lo que ve que en lo que se dice.",
+    "explicacion": "Los valores valen cuando se ven en el día a día. Si la empresa asciende a quien hace lo contrario de lo que dice el cartel, el mensaje real es el ascenso, no la frase de la pared.",
+    "libro": "est_mision"
+  },
+  {
+    "id": "est-mision-02",
+    "tipo": "concepto",
+    "titulo": "¿Son lo mismo?",
+    "situacion": "Un compañero dice que la misión y la visión de una organización son lo mismo, solo que escritas con otras palabras.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que la misión es lo que la organización hace hoy y la visión, lo que quiere llegar a ser",
+    "incorrectas": [
+      "Que tiene razón: son sinónimos y se pueden usar indistintamente",
+      "Que la misión es lo que quiere llegar a ser y la visión, lo que hace hoy",
+      "Que la visión la escribe RRHH y la misión la escribe el área de ventas",
+      "Que la misión son los valores y la visión es el presupuesto del año",
+      "Que la visión solo la tienen las empresas públicas, no las privadas"
+    ],
+    "pista": "Una mira al hoy y la otra, al mañana.",
+    "explicacion": "La misión dice qué hace la organización hoy, para quién y para qué. La visión describe lo que quiere llegar a ser en el futuro. La estrategia es el camino entre una y otra.",
+    "libro": "est_mision"
   }
 ]
