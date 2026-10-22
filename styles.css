@@ -1309,9 +1309,6 @@ button.match-item:not(:disabled):hover {
 .k-oculto { --key: #1e3a8a; }
 .k-control { --key: #e11d48; }
 .k-facilitador { --key: #059669; }
-.k-quienes { --key: #0f172a; }
-.k-operamos { --key: #1d4ed8; }
-.k-crecemos { --key: #bfdbfe; }
 .k-at { --key: #4338ca; }
 .k-ao { --key: #c2410c; }
 .k-menos { --key: #eef2ff; }
@@ -1627,57 +1624,109 @@ button.match-item:not(:disabled):hover {
 .c-3 { background: #6366f1; color: white; }
 .c-4 { background: #3730a3; color: white; }
 
-/* Grupos (McKinsey): cada dimension con su color. */
-.fig-groups { display: grid; gap: 8px; }
+/* Anillo (McKinsey): como en el grafico original, el color de cada circulo es su dimension. */
+.book-figure { container-type: inline-size; }
 
-.fig-center {
+.fig-groups {
+  display: grid;
+  justify-items: center;
+  gap: 12px;
+}
+
+.fig-ring6 {
+  position: relative;
+  width: 250px;
+  height: 250px;
+}
+
+.fig-ring6::before {
+  content: "";
+  position: absolute;
+  inset: 35px;
+  border: 1px dashed #94a3b8;
+  border-radius: 50%;
+}
+
+.fig-node,
+.fig-core {
+  position: absolute;
+  top: 50%;
+  left: 50%;
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 6px;
-  border-radius: 12px;
-  background: #0f172a;
-  padding: 10px;
-  color: white;
-}
-
-.fig-center span {
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.14);
-  padding: 3px 10px;
-  font-size: 0.8rem;
+  border-radius: 50%;
   font-weight: 900;
-}
-
-.fig-center small {
-  flex-basis: 100%;
-  opacity: 0.85;
-  font-size: 0.72rem;
-  font-weight: 800;
+  line-height: 1.1;
   text-align: center;
 }
 
-.fig-group {
+.fig-node {
+  width: 68px;
+  height: 68px;
+  margin: -34px 0 0 -34px;
+  padding: 4px;
+  font-size: 0.64rem;
+  transform: rotate(var(--a)) translateY(-90px) rotate(calc(-1 * var(--a)));
+}
+
+.fig-core {
+  width: 56px;
+  height: 56px;
+  margin: -28px 0 0 -28px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background: #0f172a;
+  color: white;
+  font-size: 0.6rem;
+}
+
+.core-0 { transform: translate(0, -22px); }
+.core-1 { transform: translate(-23px, 15px); }
+.core-2 { transform: translate(23px, 15px); }
+.fig-node.dim-1 { background: #1d4ed8; color: white; }
+.fig-node.dim-2 { background: #93c5fd; color: #1e3a8a; }
+
+.fig-dims {
+  display: grid;
+  gap: 6px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.fig-dims li {
+  position: relative;
   border-radius: 10px;
-  padding: 8px 10px;
+  background: #f8fafc;
+  padding: 7px 10px 7px 27px;
   font-size: 0.76rem;
+  line-height: 1.35;
 }
 
-.fig-group p { margin: 3px 0 6px; font-weight: 700; }
-.fig-chips { display: flex; flex-wrap: wrap; gap: 4px; }
-
-.fig-chips span {
-  border-radius: 999px;
-  background: white;
-  padding: 2px 8px;
-  font-weight: 800;
+.fig-dims li::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--dim);
 }
 
-.g-0 { background: #1d4ed8; color: white; }
-.g-0 .fig-chips span { color: #1d4ed8; }
-.g-1 { background: #bfdbfe; color: #1e3a8a; }
-.g-1 .fig-chips span { color: #1e3a8a; }
+.fig-dims p { margin: 2px 0; color: #334155; font-weight: 700; }
+.fig-dims small { color: #64748b; font-size: 0.72rem; font-weight: 800; }
+.dim-0 { --dim: #0f172a; }
+.dim-1 { --dim: #1d4ed8; }
+.dim-2 { --dim: #93c5fd; }
+
+@container (min-width: 560px) {
+  .fig-groups {
+    grid-template-columns: 250px minmax(0, 1fr);
+    align-items: center;
+  }
+}
 
 /* Comparacion (agilidad tecnica u organizacional): una columna por color. */
 .fig-table-wrap { overflow-x: auto; }

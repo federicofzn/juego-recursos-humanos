@@ -177,7 +177,7 @@
       "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
       "intro": [
         "McKinsey es una consultora internacional. En el material de la cursada aparece su idea de que los líderes de RRHH pueden preparar a la organización para el cambio enfocándose en tres cosas: el propósito, el valor y la cultura.",
-        "Alrededor de ese centro aparecen seis elementos: toma de decisiones, aprendizaje, estructura, plataforma, talento y ecosistema."
+        "El gráfico ordena todo en tres dimensiones, cada una con su color: «quiénes somos» es el centro (propósito, valor y cultura); alrededor, «cómo operamos» reúne la toma de decisiones, la estructura y el talento, y «cómo crecemos», el aprendizaje, la plataforma de datos y el ecosistema."
       ],
       "notas": [
         "Propósito, valor y cultura: son el centro del modelo. El líder de RRHH ya no solo administra: ayuda a la organización a saber para qué existe y cómo trabaja.",
@@ -191,9 +191,10 @@
       "ojo": "La idea general es que el liderazgo de RRHH cambia junto con las necesidades de la organización y necesita una mirada estratégica.",
       "figura": {
         "tipo": "grupos",
-        "titulo": "El rol del líder de RRHH según McKinsey",
+        "titulo": "Las tres dimensiones de McKinsey",
         "centro": {
-          "titulo": "Quiénes somos: el centro del modelo",
+          "titulo": "Quiénes somos",
+          "texto": "Tener claro por qué existe la organización, qué hace y cómo funciona.",
           "items": [
             "Propósito",
             "Valor",
@@ -203,16 +204,16 @@
         "grupos": [
           {
             "titulo": "Cómo operamos",
-            "texto": "Organización más plana, equipos que deciden rápido y las personas como el capital más escaso.",
+            "texto": "Una organización más plana, con equipos que deciden rápido y que tratan a las personas como el capital más escaso.",
             "items": [
-              "Estructura",
               "Toma de decisiones",
+              "Estructura",
               "Talento"
             ]
           },
           {
             "titulo": "Cómo crecemos",
-            "texto": "Aprender más rápido que los demás, sacar valor de los datos y usar la red de socios.",
+            "texto": "Adelantarse a los demás aprendiendo más rápido, sacando valor de los datos y usando el ecosistema (socios, clientes y proveedores).",
             "items": [
               "Aprendizaje",
               "Plataforma",
@@ -220,20 +221,7 @@
             ]
           }
         ],
-        "leyenda": [
-          {
-            "clase": "k-quienes",
-            "texto": "Quiénes somos"
-          },
-          {
-            "clase": "k-operamos",
-            "texto": "Cómo operamos"
-          },
-          {
-            "clase": "k-crecemos",
-            "texto": "Cómo crecemos"
-          }
-        ]
+        "nota": "Como en el gráfico original de McKinsey, el color de cada círculo indica a qué dimensión pertenece."
       }
     },
     "intro_proceso": {

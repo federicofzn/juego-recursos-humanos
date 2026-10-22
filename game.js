@@ -1765,16 +1765,25 @@ function renderCascade(figure, t) {
     <li class="c-${Math.min(index, 4)}" style="--i:${index}"><strong>${t(paso.titulo)}</strong><span>${t(paso.texto)}</span></li>`).join("")}</ol>`;
 }
 
-// Un centro y grupos alrededor; cada grupo tiene su color.
+// Como en el grafico de McKinsey: el centro (quienes somos) y un anillo con los elementos de las otras dimensiones,
+// intercalados. El color de cada circulo dice a que dimension pertenece, y la lista de al lado explica cada una.
 function renderGroups(figure, t) {
+  const ring = [];
+  const longest = Math.max(...figure.grupos.map((group) => group.items.length));
+  for (let index = 0; index < longest; index += 1) {
+    figure.grupos.forEach((group, groupIndex) => {
+      if (group.items[index]) ring.push({ texto: group.items[index], dim: groupIndex + 1 });
+    });
+  }
+  const step = 360 / ring.length;
+  const nodes = ring.map((item, index) => `<span class="fig-node dim-${item.dim}" style="--a:${index * step}deg">${t(item.texto)}</span>`).join("");
+  const core = figure.centro.items.map((item, index) => `<span class="fig-core core-${index}">${t(item)}</span>`).join("");
+  const dims = [figure.centro, ...figure.grupos].map((dim, index) => `
+    <li class="dim-${index}"><strong>${t(dim.titulo)}</strong><p>${t(dim.texto)}</p><small>${t(`Elementos: ${dim.items.join(", ")}`)}</small></li>`).join("");
   return `
     <div class="fig-groups">
-      <div class="fig-center">${figure.centro.items.map((item) => `<span>${t(item)}</span>`).join("")}<small>${t(figure.centro.titulo)}</small></div>
-      ${figure.grupos.map((group, index) => `
-        <div class="fig-group g-${index}">
-          <strong>${t(group.titulo)}</strong><p>${t(group.texto)}</p>
-          <div class="fig-chips">${group.items.map((item) => `<span>${t(item)}</span>`).join("")}</div>
-        </div>`).join("")}
+      <div class="fig-ring6" aria-hidden="true">${core}${nodes}</div>
+      <ul class="fig-dims">${dims}</ul>
     </div>`;
 }
 
