@@ -1282,9 +1282,12 @@ function updateUnitPicker() {
   els.unitPickerHint.classList.toggle("hidden", !none);
 }
 
-// Expandir: el libro ocupa todo el ancho y el panel de juego se oculta. Contraer vuelve a las dos columnas.
+// Expandir: el libro ocupa toda la pantalla y se ocultan el panel de juego y la fila de arriba (responsable y recorrido).
+// Contraer vuelve a la vista normal.
 function setBookExpanded(expanded) {
   els.bottomRow.classList.toggle("book-expanded", expanded);
+  document.querySelector(".app-shell").classList.toggle("book-fullscreen", expanded);
+  if (expanded) window.scrollTo(0, 0);
   els.bookExpandBtn.setAttribute("aria-pressed", String(expanded));
   const label = expanded ? "Contraer el libro" : "Expandir el libro";
   els.bookExpandBtn.setAttribute("aria-label", label);

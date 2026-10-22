@@ -1798,13 +1798,18 @@ button.match-item:not(:disabled):hover {
   background: white;
 }
 
-/* Libro expandido: ocupa todo el ancho y el panel de juego se oculta. */
+/* Libro expandido: ocupa toda la pantalla; se ocultan el panel de juego y la fila de arriba. */
 .bottom-row.book-expanded {
   grid-template-columns: minmax(0, 1fr);
 }
 
-.bottom-row.book-expanded .game-panel {
+.bottom-row.book-expanded .game-panel,
+.app-shell.book-fullscreen .top-row {
   display: none;
+}
+
+.app-shell.book-fullscreen .book-sidebar {
+  height: max(460px, calc(100vh - 40px));
 }
 
 .book-sidebar {

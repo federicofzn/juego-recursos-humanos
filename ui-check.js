@@ -141,3 +141,4 @@ assert(js.includes("TOOL_ICONS[reward]"), "la recompensa del jefe muestra el ico
 assert(html.includes('id="streak"') && js.includes("state.streak += 1") && js.includes("state.streak = 0;"), "debe existir un contador de racha que se corta al errar");
 assert((html.match(/class="badge-tooltip"/g) || []).length >= 5 && html.includes("has-tooltip") && !html.includes('title="Puntos"'), "los indicadores y borrar partida usan tooltips como los de los logros");
 assert(js.includes("searchHitIndex: -1") && js.includes("step > 0 ? 0 : hits.length - 1"), "el primer clic de busqueda hacia abajo debe ir al primer resultado");
+assert(js.includes('classList.toggle("book-fullscreen", expanded)') && css.includes(".app-shell.book-fullscreen .top-row"), "el libro expandido debe ocultar tambien la fila de arriba");
