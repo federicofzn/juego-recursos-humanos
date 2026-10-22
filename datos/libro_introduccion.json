@@ -8,8 +8,7 @@
       "categoria": "Empezá por acá",
       "titulo": "Palabras básicas de Recursos Humanos",
       "intro": [
-        "Estas palabras aparecen en toda la materia. Si en otra entrada encontrás una que no entendés, volvé acá.",
-        "Muchas vienen del inglés, porque las empresas las usan así todos los días."
+        "Muchas de estas palabras vienen del inglés, porque las empresas las usan así todos los días."
       ],
       "notas": [
         "Recursos Humanos (RRHH): el área de una organización que se ocupa de las personas que trabajan en ella: buscarlas, incorporarlas, formarlas, pagarles, cuidarlas y acompañar su salida.",
@@ -31,8 +30,8 @@
       "categoria": "Qué es RRHH",
       "titulo": "Qué es la gestión de Recursos Humanos",
       "intro": [
-        "La materia arranca con una pregunta: ¿qué tiene que hacer el equipo de RRHH en una organización?",
-        "La respuesta de la cursada es que RRHH no se ocupa solo de trámites: conduce a las personas para que la organización logre sus objetivos."
+        "Una pregunta de partida: ¿qué tiene que hacer el equipo de RRHH en una organización?",
+        "La respuesta es que RRHH no se ocupa solo de trámites: conduce a las personas para que la organización logre sus objetivos."
       ],
       "notas": [
         "Gestión de RRHH: es el sistema de estrategias y actividades que busca conducir con éxito a los empleados, en todos los niveles de la organización, para lograr los objetivos de la organización.",
@@ -154,7 +153,7 @@
       "categoria": "Roles",
       "titulo": "Cómo evoluciona el rol del líder de RRHH (McKinsey)",
       "intro": [
-        "McKinsey es una consultora internacional. En el material de la cursada aparece su idea de que los líderes de RRHH pueden preparar a la organización para el cambio enfocándose en tres cosas: el propósito, el valor y la cultura.",
+        "McKinsey es una consultora internacional. Su idea es que los líderes de RRHH pueden preparar a la organización para el cambio enfocándose en tres cosas: el propósito, el valor y la cultura.",
         "El gráfico ordena todo en tres dimensiones, cada una con su color: «quiénes somos» es el centro (propósito, valor y cultura); alrededor, «cómo operamos» reúne la toma de decisiones, la estructura y el talento, y «cómo crecemos», el aprendizaje, la plataforma de datos y el ecosistema."
       ],
       "notas": [
@@ -283,7 +282,7 @@
       "titulo": "RRHH Agile",
       "intro": [
         "«Agile» (ágil) es una forma de trabajar más flexible: equipos que se organizan solos, colaboran más y responden rápido a los cambios. Nació en los equipos de tecnología y después se llevó al resto de la organización.",
-        "El material de la cursada compara dos formas de implantarla: la agilidad técnica (AT), que cambia las metodologías de trabajo, y la agilidad organizacional (AO), que cambia los valores y la forma de organizarse."
+        "Hay dos formas de implantarla: la agilidad técnica (AT), que cambia las metodologías de trabajo, y la agilidad organizacional (AO), que cambia los valores y la forma de organizarse."
       ],
       "notas": [
         "Quién lidera: en la agilidad técnica, el responsable de tecnología (CIO o CTO); en la agilidad organizacional, RRHH.",

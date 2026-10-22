@@ -280,7 +280,7 @@
     "unidad": "introduccion",
     "tipo": "concepto",
     "titulo": "Por dónde empezar",
-    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH de la cursada.",
+    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH paso a paso.",
     "pregunta": "¿Con qué etapa empieza ese proceso?",
     "respuestaCorrecta": "Con la planificación de RRHH",
     "respuestasIncorrectas": [
@@ -373,7 +373,7 @@
     "tipo": "concepto",
     "titulo": "Quién lidera el cambio",
     "situacion": "Una empresa quiere que todas sus áreas trabajen en equipos que se organizan solos, cambiando sus valores y su forma de organizarse.",
-    "pregunta": "Según el material de RRHH Agile, ¿quién lidera este tipo de agilidad?",
+    "pregunta": "En RRHH Agile, ¿quién lidera este tipo de agilidad?",
     "respuestaCorrecta": "RRHH, porque es agilidad organizacional",
     "respuestasIncorrectas": [
       "El CIO o el CTO, porque es agilidad técnica",
@@ -971,7 +971,7 @@
     "tipo": "concepto",
     "titulo": "Todo cambia, nada cambia",
     "situacion": "Una empresa habla todo el tiempo de innovación en sus comunicados, pero ningún proceso cambia y las ideas nuevas quedan en un cajón.",
-    "pregunta": "¿Cómo se llama esa conducta en el material de la cursada?",
+    "pregunta": "¿Cómo se llama esa conducta?",
     "respuestaCorrecta": "Gatopardismo",
     "respuestasIncorrectas": [
       "Socialización",
@@ -1039,7 +1039,7 @@
     "unidad": "transformacion",
     "tipo": "concepto",
     "titulo": "Sobre qué trabajar",
-    "situacion": "Una empresa quiere transformarse y te pide que le digas sobre qué tres aspectos tiene que trabajar, según la clase.",
+    "situacion": "Una empresa quiere transformarse y te pide que le digas sobre qué tres aspectos tiene que trabajar.",
     "pregunta": "¿Cuáles son?",
     "respuestaCorrecta": "Cultura, estructura y tecnología",
     "respuestasIncorrectas": [
@@ -1095,7 +1095,7 @@
       "Esperar más tiempo: los organigramas tardan años en funcionar",
       "Nada: cambiar el organigrama ya es una transformación completa"
     ],
-    "pista": "Pensá en la frase de la clase sobre quiénes se transforman.",
+    "pista": "Un organigrama es solo un dibujo: ¿quién tiene que cambiar para que haya transformación?",
     "explicacion": "«Las organizaciones no se transforman, son las personas las que se transforman para cambiar las organizaciones.» Cambiar el organigrama no alcanza si la gente trabaja igual.",
     "referencia": {
       "tipo": "Transformación",
@@ -1132,7 +1132,7 @@
     "tipo": "concepto",
     "titulo": "Antes de cambiar",
     "situacion": "El directorio quiere lanzar ya mismo un cambio cultural en toda la empresa. Te piden opinión sobre por dónde empezar.",
-    "pregunta": "Según la clase, ¿qué hay que hacer primero?",
+    "pregunta": "¿Qué conviene hacer primero?",
     "respuestaCorrecta": "Un diagnóstico de la cultura actual",
     "respuestasIncorrectas": [
       "Un evento de lanzamiento para todo el personal",
@@ -1256,7 +1256,7 @@
       "Que la transformación la hizo una consultora sin el personal",
       "Que volvió a la estructura jerárquica después de un mes"
     ],
-    "pista": "La clase destaca cómo se implementó, no solo qué se cambió.",
+    "pista": "Fijate en cómo se implementó, no solo en qué se cambió.",
     "explicacion": "La implementación en Farmacity fue gradual: comenzó en sectores específicos y avanzó hacia una transformación de toda la empresa.",
     "referencia": {
       "tipo": "Casos",

@@ -219,7 +219,7 @@
     "id": "int-proceso-01",
     "tipo": "concepto",
     "titulo": "Por dónde empezar",
-    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH de la cursada.",
+    "situacion": "Una empresa nueva va a armar su área de RRHH desde cero y quiere seguir el proceso de gestión de RRHH paso a paso.",
     "pregunta": "¿Con qué etapa empieza ese proceso?",
     "correcta": "Con la planificación de RRHH",
     "incorrectas": [
@@ -292,7 +292,7 @@
     "tipo": "concepto",
     "titulo": "Quién lidera el cambio",
     "situacion": "Una empresa quiere que todas sus áreas trabajen en equipos que se organizan solos, cambiando sus valores y su forma de organizarse.",
-    "pregunta": "Según el material de RRHH Agile, ¿quién lidera este tipo de agilidad?",
+    "pregunta": "En RRHH Agile, ¿quién lidera este tipo de agilidad?",
     "correcta": "RRHH, porque es agilidad organizacional",
     "incorrectas": [
       "El CIO o el CTO, porque es agilidad técnica",
