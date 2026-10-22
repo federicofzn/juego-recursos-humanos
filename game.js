@@ -1640,6 +1640,7 @@ function openBookSection(unitKey, highlightKey = null) {
         <h3 class="font-display text-xl font-black">${highlightSearchText(entry.titulo)}</h3>
       </div>
       ${asList(entry.intro).map((paragraph) => `<p class="book-intro">${gloss(paragraph)}</p>`).join("")}
+      ${entry.figura ? renderFigure(entry.figura) : ""}
       <p class="book-section-label">Explicado de a uno</p>
       <ul class="book-notes ml-5 list-disc space-y-3 text-slate-700">
         ${entry.notas.map((note) => `<li>${renderNote(note, gloss)}</li>`).join("")}
@@ -1665,6 +1666,124 @@ function openBookSection(unitKey, highlightKey = null) {
   }
   updateSearchControls();
   markCurrentSearchHit();
+}
+
+// ---------- Esquemas del libro ----------
+// Cada seccion puede tener un esquema de la clase redibujado. El color siempre significa algo (orientacion,
+// enfoque, resultado, intensidad) y la leyenda lo dice con palabras; el texto queda escrito, asi se lee y se busca.
+const FIGURES = {
+  cuadrantes: renderQuadrants,
+  flujo: renderFlow,
+  escala: renderScale,
+  capas: renderLayers,
+  antesdespues: renderBeforeAfter,
+  cascada: renderCascade,
+  grupos: renderGroups,
+  comparacion: renderComparison
+};
+
+function renderFigure(figure) {
+  const render = FIGURES[figure.tipo];
+  if (!render) return "";
+  const t = highlightSearchText;
+  const legend = (figure.leyenda || []).map((item) => `<span class="fig-key ${item.clase}">${t(item.texto)}</span>`).join("");
+  return `
+    <figure class="book-figure fig-${figure.tipo}">
+      <figcaption class="fig-title">${t(figure.titulo)}</figcaption>
+      ${render(figure, t)}
+      ${figure.nota ? `<p class="fig-note">${t(figure.nota)}</p>` : ""}
+      ${legend ? `<p class="fig-legend">${legend}</p>` : ""}
+    </figure>`;
+}
+
+const figureList = (items, t) => `<ul>${items.map((item) => `<li>${t(item)}</li>`).join("")}</ul>`;
+
+// Dos ejes y cuatro cuadrantes: el tono marca la columna y la intensidad, la fila.
+function renderQuadrants(figure, t) {
+  const cell = (fila, columna) => {
+    const quadrant = figure.cuadrantes.find((item) => item.fila === fila && item.columna === columna);
+    return `<div class="fig-quad q-${fila} q-${columna}"><strong>${t(quadrant.titulo)}</strong>${figureList(quadrant.items, t)}</div>`;
+  };
+  return `
+    <div class="fig-quadrants">
+      <span class="fig-axis">${t(figure.ejes.arriba)} ▲</span>
+      <div class="fig-quad-grid">
+        <span class="fig-col q-izquierda">${t(figure.ejes.izquierda)}</span><span class="fig-col q-derecha">${t(figure.ejes.derecha)}</span>
+        ${cell("arriba", "izquierda")}${cell("arriba", "derecha")}${cell("abajo", "izquierda")}${cell("abajo", "derecha")}
+      </div>
+      <span class="fig-axis">${t(figure.ejes.abajo)} ▼</span>
+    </div>`;
+}
+
+// Etapas en orden; cada tramo termina en su resultado. Un tramo "salida" va en otro color.
+function renderFlow(figure, t) {
+  return `<ol class="fig-flow">${figure.tramos.map((tramo) => `
+    <li class="fig-flow-row${tramo.tipo === "salida" ? " is-exit" : ""}">
+      ${tramo.etapas.map((etapa, index) => `<span class="fig-link">${index ? `<span class="fig-arrow" aria-hidden="true">${tramo.idaYVuelta === index ? "↔" : "→"}</span>` : ""}<span class="fig-step">${t(etapa)}</span></span>`).join("")}
+      ${tramo.resultado ? `<span class="fig-link"><span class="fig-arrow" aria-hidden="true">⇒</span><span class="fig-result">${t(tramo.resultado)}</span></span>` : ""}
+      ${tramo.nota ? `<span class="fig-flow-note">${t(tramo.nota)}</span>` : ""}
+    </li>`).join("")}</ol>`;
+}
+
+// Escala de menos a mas: cada escalon es mas intenso que el anterior.
+function renderScale(figure, t) {
+  const last = Math.max(1, figure.tramos.length - 1);
+  return `<div class="fig-scale" style="--steps:${figure.tramos.length}">${figure.tramos.map((tramo, index) => `
+    <div class="fig-scale-step s-${Math.round((index * 3) / last)}">
+      <span class="fig-scale-range">${t(tramo.rango)}</span>
+      <strong class="fig-scale-value">${t(tramo.valor)}</strong>
+    </div>`).join("")}</div>`;
+}
+
+// Iceberg: arriba lo que se ve (claro), abajo lo que no se ve (oscuro).
+function renderLayers(figure, t) {
+  const layer = (data, className) => `<div class="fig-layer ${className}"><strong>${t(data.titulo)}</strong>${figureList(data.items, t)}</div>`;
+  return `<div class="fig-iceberg">${layer(figure.visible, "is-visible")}<div class="fig-water" aria-hidden="true"></div>${layer(figure.oculto, "is-hidden")}</div>`;
+}
+
+// Antes y despues: la piramide con un jefe que controla y el equipo en ronda con un facilitador.
+function renderBeforeAfter(figure, t) {
+  const dot = (className = "") => `<span class="fig-dot ${className}"></span>`;
+  const pyramid = `<div class="fig-pyramid" aria-hidden="true">${dot("is-boss")}<div>${dot()}${dot()}${dot()}</div><div>${dot()}${dot()}${dot()}${dot()}</div></div>`;
+  const members = Array.from({ length: 7 }, (_, index) => `<span class="fig-dot is-member" style="--a:${Math.round(index * (360 / 7))}deg"></span>`).join("");
+  const ring = `<div class="fig-ring" aria-hidden="true">${members}${dot("is-facilitator")}</div>`;
+  const side = (data, drawing, className) => `
+    <div class="fig-side ${className}">
+      <strong>${t(data.titulo)}</strong>${drawing}
+      <p>${t(data.texto)}</p>
+      <span class="fig-role">${t(data.rol)}</span>
+    </div>`;
+  return `<div class="fig-before-after">${side(figure.antes, pyramid, "is-before")}<span class="fig-arrow" aria-hidden="true">→</span>${side(figure.despues, ring, "is-after")}</div>`;
+}
+
+// Pasos que se apoyan uno en otro: cada escalon corre un poco y se intensifica.
+function renderCascade(figure, t) {
+  return `<ol class="fig-cascade">${figure.pasos.map((paso, index) => `
+    <li class="c-${Math.min(index, 4)}" style="--i:${index}"><strong>${t(paso.titulo)}</strong><span>${t(paso.texto)}</span></li>`).join("")}</ol>`;
+}
+
+// Un centro y grupos alrededor; cada grupo tiene su color.
+function renderGroups(figure, t) {
+  return `
+    <div class="fig-groups">
+      <div class="fig-center">${figure.centro.items.map((item) => `<span>${t(item)}</span>`).join("")}<small>${t(figure.centro.titulo)}</small></div>
+      ${figure.grupos.map((group, index) => `
+        <div class="fig-group g-${index}">
+          <strong>${t(group.titulo)}</strong><p>${t(group.texto)}</p>
+          <div class="fig-chips">${group.items.map((item) => `<span>${t(item)}</span>`).join("")}</div>
+        </div>`).join("")}
+    </div>`;
+}
+
+// Tabla de dos columnas: cada columna con su color.
+function renderComparison(figure, t) {
+  return `
+    <div class="fig-table-wrap">
+      <table class="fig-table">
+        <thead><tr><th></th>${figure.columnas.map((column, index) => `<th class="col-${index}">${t(column)}</th>`).join("")}</tr></thead>
+        <tbody>${figure.filas.map((row) => `<tr><th scope="row">${t(row.aspecto)}</th>${row.valores.map((value, index) => `<td class="col-${index}">${t(value)}</td>`).join("")}</tr>`).join("")}</tbody>
+      </table>
+    </div>`;
 }
 
 function asList(value) {

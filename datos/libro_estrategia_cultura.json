@@ -49,7 +49,34 @@
         "Coca-Cola y Pepsi venden productos parecidos, pero eligen formas distintas de diferenciarse: es la pregunta de cómo jugar.",
         "Una empresa decide vender solo online y no en supermercados: está respondiendo dónde jugar."
       ],
-      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos."
+      "ojo": "Elegir dónde NO competir también es parte de la estrategia: evita dispersar esfuerzos.",
+      "figura": {
+        "tipo": "cascada",
+        "titulo": "Las 5 preguntas de la estrategia",
+        "pasos": [
+          {
+            "titulo": "1. ¿Cuál es nuestra aspiración ganadora?",
+            "texto": "El propósito: para qué existe y qué es ganar."
+          },
+          {
+            "titulo": "2. ¿Dónde jugaremos?",
+            "texto": "Clientes, canales, productos, zonas y etapa de la producción."
+          },
+          {
+            "titulo": "3. ¿Cómo jugaremos?",
+            "texto": "La ventaja competitiva: costo o diferenciación."
+          },
+          {
+            "titulo": "4. ¿Qué capacidades debemos tener?",
+            "texto": "Lo que hay que saber hacer para cumplir lo anterior."
+          },
+          {
+            "titulo": "5. ¿Qué sistemas de gestión necesitamos?",
+            "texto": "Procesos, estructuras y reglas que lo sostienen y lo miden."
+          }
+        ],
+        "nota": "Se responden en orden: cada pregunta se apoya en la anterior, por eso el color se va haciendo más fuerte."
+      }
     },
     "est_rrhh": {
       "categoria": "Estrategia",

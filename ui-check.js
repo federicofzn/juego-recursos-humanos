@@ -103,6 +103,7 @@ assert(js.includes('"kind:match"'), "debe existir el logro de emparejar");
 assert(js.includes("const MATCH_BONUS_SECONDS = 5") && js.includes("if (state.timerDeadline) addMatchBonusTime();"), "cada par correcto de emparejar con reloj suma 5 segundos");
 console.log("match checks ok");
 assert(js.includes("function activeMatchTerm") && !js.includes("selectMatchTerm") && css.includes(".match-item.upcoming"), "en emparejar solo esta activo el primer termino sin asignar");
+assert(js.includes("entry.figura ? renderFigure(entry.figura)") && css.includes(".book-figure") && css.includes(".q-arriba.q-izquierda") && css.includes(".fig-legend"), "el libro debe dibujar los esquemas con su leyenda de colores");
 
 // Jefe
 assert(js.includes('boss: { icon: "swords", label: "Jefe" }') && js.includes("every: 10") && js.includes("questions: 3"), "debe existir el jefe cada 10 eventos con 3 preguntas");

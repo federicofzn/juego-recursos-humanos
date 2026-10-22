@@ -74,7 +74,81 @@
         "La gerenta de RRHH participa del plan estratégico del año con el directorio: socio estratégico.",
         "El equipo que liquida sueldos y administra los beneficios: experto en administración y gestión."
       ],
-      "ojo": "Los dos roles de arriba son estratégicos; los dos de abajo, operativos. Los dos de la izquierda miran procesos; los dos de la derecha, personas."
+      "ojo": "Los dos roles de arriba son estratégicos; los dos de abajo, operativos. Los dos de la izquierda miran procesos; los dos de la derecha, personas.",
+      "figura": {
+        "tipo": "cuadrantes",
+        "titulo": "Los 4 roles de Ulrich",
+        "ejes": {
+          "arriba": "Estratégico: mira al futuro",
+          "abajo": "Operativo: el día a día",
+          "izquierda": "Procesos",
+          "derecha": "Personas"
+        },
+        "cuadrantes": [
+          {
+            "fila": "arriba",
+            "columna": "izquierda",
+            "titulo": "Socio estratégico",
+            "items": [
+              "Plan estratégico",
+              "Socio de las áreas (business partner)",
+              "Cultura e imagen"
+            ]
+          },
+          {
+            "fila": "arriba",
+            "columna": "derecha",
+            "titulo": "Agente de cambio",
+            "items": [
+              "Reclutamiento",
+              "Diseño organizacional",
+              "Encuestas y planes de acción",
+              "Mediciones de desempeño",
+              "Formación y desarrollo"
+            ]
+          },
+          {
+            "fila": "abajo",
+            "columna": "izquierda",
+            "titulo": "Experto en administración y gestión",
+            "items": [
+              "Compensación",
+              "Beneficios",
+              "Sistemas de información",
+              "Cumplimiento de normas"
+            ]
+          },
+          {
+            "fila": "abajo",
+            "columna": "derecha",
+            "titulo": "Líder de efectividad y socio de los trabajadores",
+            "items": [
+              "Relaciones con los trabajadores",
+              "Relaciones laborales",
+              "Seguridad y prevención",
+              "Diversidad"
+            ]
+          }
+        ],
+        "leyenda": [
+          {
+            "clase": "k-procesos",
+            "texto": "Violeta: orientado a procesos"
+          },
+          {
+            "clase": "k-personas",
+            "texto": "Naranja: orientado a personas"
+          },
+          {
+            "clase": "k-intenso",
+            "texto": "Color fuerte: estratégico"
+          },
+          {
+            "clase": "k-claro",
+            "texto": "Color claro: operativo"
+          }
+        ]
+      }
     },
     "intro_mckinsey": {
       "categoria": "Roles",
@@ -92,7 +166,53 @@
       "ejemplos": [
         "Una empresa elimina niveles jerárquicos y arma equipos que deciden solos: trabaja sobre «cómo operamos»."
       ],
-      "ojo": "La idea general es que el liderazgo de RRHH cambia junto con las necesidades de la organización y necesita una mirada estratégica."
+      "ojo": "La idea general es que el liderazgo de RRHH cambia junto con las necesidades de la organización y necesita una mirada estratégica.",
+      "figura": {
+        "tipo": "grupos",
+        "titulo": "El rol del líder de RRHH según McKinsey",
+        "centro": {
+          "titulo": "Quiénes somos: el centro del modelo",
+          "items": [
+            "Propósito",
+            "Valor",
+            "Cultura"
+          ]
+        },
+        "grupos": [
+          {
+            "titulo": "Cómo operamos",
+            "texto": "Organización más plana, equipos que deciden rápido y las personas como el capital más escaso.",
+            "items": [
+              "Estructura",
+              "Toma de decisiones",
+              "Talento"
+            ]
+          },
+          {
+            "titulo": "Cómo crecemos",
+            "texto": "Aprender más rápido que los demás, sacar valor de los datos y usar la red de socios.",
+            "items": [
+              "Aprendizaje",
+              "Plataforma",
+              "Ecosistema"
+            ]
+          }
+        ],
+        "leyenda": [
+          {
+            "clase": "k-quienes",
+            "texto": "Quiénes somos"
+          },
+          {
+            "clase": "k-operamos",
+            "texto": "Cómo operamos"
+          },
+          {
+            "clase": "k-crecemos",
+            "texto": "Cómo crecemos"
+          }
+        ]
+      }
     },
     "intro_proceso": {
       "categoria": "Procesos",
@@ -116,7 +236,59 @@
       "ejemplos": [
         "Una empresa elige a sus nuevos ingresantes (selección) y en su primera semana les presenta la empresa y a sus equipos (orientación)."
       ],
-      "ojo": "Reclutar es buscar candidatos; seleccionar es elegir entre ellos. Primero se recluta, después se selecciona."
+      "ojo": "Reclutar es buscar candidatos; seleccionar es elegir entre ellos. Primero se recluta, después se selecciona.",
+      "figura": {
+        "tipo": "flujo",
+        "titulo": "El proceso de gestión de RRHH",
+        "tramos": [
+          {
+            "etapas": [
+              "Planificación de RRHH",
+              "Reclutamiento",
+              "Selección"
+            ],
+            "resultado": "Empleados competentes identificados y elegidos"
+          },
+          {
+            "etapas": [
+              "Planificación de RRHH",
+              "Desvinculación"
+            ],
+            "tipo": "salida"
+          },
+          {
+            "etapas": [
+              "Orientación",
+              "Capacitación"
+            ],
+            "resultado": "Empleados adaptados, competentes y actualizados"
+          },
+          {
+            "etapas": [
+              "Evaluación de desempeño",
+              "Desarrollo de carrera",
+              "Compensación y beneficios"
+            ],
+            "idaYVuelta": 2,
+            "resultado": "Empleados competentes y de alto rendimiento"
+          }
+        ],
+        "nota": "Todo el proceso ocurre dentro del entorno: el contexto que rodea a la organización.",
+        "leyenda": [
+          {
+            "clase": "k-etapa",
+            "texto": "Etapa"
+          },
+          {
+            "clase": "k-resultado",
+            "texto": "Resultado del tramo"
+          },
+          {
+            "clase": "k-salida",
+            "texto": "Salida de la organización"
+          }
+        ]
+      }
     },
     "intro_agile": {
       "categoria": "Procesos",
@@ -136,7 +308,59 @@
       "ejemplos": [
         "Una empresa decide que todas sus áreas trabajen en equipos que se organizan solos, y RRHH lidera el cambio: es agilidad organizacional."
       ],
-      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura)."
+      "ojo": "Agilidad técnica = cambiar cómo se trabaja (métodos). Agilidad organizacional = cambiar cómo se organiza la gente (valores y estructura).",
+      "figura": {
+        "tipo": "comparacion",
+        "titulo": "Dos formas de implantar Agile",
+        "columnas": [
+          "Agilidad técnica (AT)",
+          "Agilidad organizacional (AO)"
+        ],
+        "filas": [
+          {
+            "aspecto": "Quién lidera",
+            "valores": [
+              "CIO o CTO (tecnología)",
+              "RRHH"
+            ]
+          },
+          {
+            "aspecto": "Se apoya en",
+            "valores": [
+              "Metodologías y procesos",
+              "Valores y comportamientos"
+            ]
+          },
+          {
+            "aspecto": "Genera valor",
+            "valores": [
+              "Seguir los procesos",
+              "Las personas que se organizan solas"
+            ]
+          },
+          {
+            "aspecto": "Equipos",
+            "valores": [
+              "Autogestionados",
+              "Autogobernados; el rol clásico de RRHH se diluye"
+            ]
+          },
+          {
+            "aspecto": "Valores",
+            "valores": [
+              "Aportar valor, recibir bien el cambio, transparencia",
+              "Respeto, confianza, horizontalidad, autogobierno"
+            ]
+          },
+          {
+            "aspecto": "Ejemplos",
+            "valores": [
+              "Scrum, Kanban",
+              "Holocracia, organizaciones Teal"
+            ]
+          }
+        ]
+      }
     }
   }
 }

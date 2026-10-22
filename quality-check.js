@@ -181,3 +181,21 @@ for (const [key, entry] of Object.entries(reference.entradas)) {
   }
 }
 console.log("rotulos del libro validados");
+
+// Esquemas del libro: tipo conocido, titulo y los datos que cada tipo necesita.
+const FIGURE_FIELDS = {
+  cuadrantes: ["ejes", "cuadrantes"], flujo: ["tramos"], escala: ["tramos"], capas: ["visible", "oculto"],
+  antesdespues: ["antes", "despues"], cascada: ["pasos"], grupos: ["centro", "grupos"], comparacion: ["columnas", "filas"]
+};
+assert(gameSource.includes("function renderFigure"), "el juego debe dibujar los esquemas del libro");
+for (const [key, entry] of Object.entries(reference.entradas)) {
+  if (!entry.figura) continue;
+  const fields = FIGURE_FIELDS[entry.figura.tipo];
+  assert(fields, `[${key}] tipo de esquema desconocido: ${entry.figura.tipo}`);
+  assert(entry.figura.titulo, `[${key}] el esquema necesita un titulo`);
+  for (const field of fields) assert(entry.figura[field], `[${key}] al esquema ${entry.figura.tipo} le falta «${field}»`);
+  if (entry.figura.tipo === "cuadrantes") {
+    assert.equal(entry.figura.cuadrantes.length, 4, `[${key}] los cuadrantes deben ser 4`);
+  }
+}
+console.log("esquemas del libro validados");

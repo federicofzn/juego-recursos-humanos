@@ -45,7 +45,51 @@
       "ejemplos": [
         "Una empresa tiene una oficina moderna (se ve), pero su gente cree que equivocarse se castiga (no se ve): esa creencia pesa más que la oficina."
       ],
-      "ojo": "Socialización no es «hacer amigos»: es el proceso por el que los nuevos aprenden cómo se hacen las cosas en la organización."
+      "ojo": "Socialización no es «hacer amigos»: es el proceso por el que los nuevos aprenden cómo se hacen las cosas en la organización.",
+      "figura": {
+        "tipo": "capas",
+        "titulo": "El iceberg de la cultura",
+        "visible": {
+          "titulo": "Lo que se ve",
+          "items": [
+            "Personas",
+            "Beneficios",
+            "Entorno físico",
+            "Prácticas",
+            "Conductas",
+            "Estrategias"
+          ]
+        },
+        "oculto": {
+          "titulo": "Lo que no se ve (y más pesa)",
+          "items": [
+            "Oportunidades",
+            "Reconocimiento",
+            "Flexibilidad",
+            "Relaciones",
+            "Tradiciones",
+            "Creencias",
+            "Diversidad",
+            "Propósito",
+            "Liderazgo",
+            "Normas",
+            "Actitudes",
+            "Valores",
+            "Respeto",
+            "Misión"
+          ]
+        },
+        "leyenda": [
+          {
+            "clase": "k-visible",
+            "texto": "Sobre el agua: se puede observar"
+          },
+          {
+            "clase": "k-oculto",
+            "texto": "Bajo el agua: se cree o se valora"
+          }
+        ]
+      }
     },
     "tra_destruir": {
       "categoria": "Cultura",
@@ -82,7 +126,31 @@
       "ejemplos": [
         "Una empresa cambia primero cómo hace sus reuniones, después cómo evalúa el desempeño y después cómo arma los equipos: actualiza las prácticas una a una."
       ],
-      "ojo": "Un organigrama nuevo con la misma gente trabajando igual no es una transformación."
+      "ojo": "Un organigrama nuevo con la misma gente trabajando igual no es una transformación.",
+      "figura": {
+        "tipo": "antesdespues",
+        "titulo": "La transformación estructural",
+        "antes": {
+          "titulo": "Antes: pirámide",
+          "texto": "Un jefe de proyecto arriba que reparte y controla.",
+          "rol": "Jefe que controla"
+        },
+        "despues": {
+          "titulo": "Después: equipo",
+          "texto": "Un equipo que se organiza solo, con un líder en el medio.",
+          "rol": "Líder que facilita"
+        },
+        "leyenda": [
+          {
+            "clase": "k-control",
+            "texto": "Liderazgo de control"
+          },
+          {
+            "clase": "k-facilitador",
+            "texto": "Liderazgo que facilita"
+          }
+        ]
+      }
     },
     "tra_diagnostico": {
       "categoria": "Transformación",
