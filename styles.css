@@ -1372,53 +1372,70 @@ button.match-item:not(:disabled):hover {
 .q-arriba.q-derecha { border-color: #ea580c; background: #fed7aa; color: #431407; }
 .q-abajo.q-derecha { border-color: #fed7aa; background: #fff7ed; color: #7c2d12; }
 
-/* Flujo (proceso de RRHH): etapas en indigo, resultados en verde, salida en rosa. */
-.fig-flow {
+/* Flujo (proceso de RRHH) en vertical: etapas en indigo, resultados en verde, salida en rosa.
+   La flecha verde va del resultado al primer paso de la etapa siguiente; el marco punteado es el entorno. */
+.fig-entorno {
+  position: relative;
+  border: 2px dashed #94a3b8;
+  border-radius: 12px;
+  padding: 16px 8px 8px;
+}
+
+.fig-entorno-label {
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: #fdfcff;
+  padding: 1px 10px;
+  color: #475569;
+  font-size: 0.72rem;
+  font-weight: 900;
+}
+
+.fig-vflow {
   display: grid;
-  gap: 8px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 420px;
+  margin: 0 auto;
+  column-gap: 10px;
 }
 
-.fig-flow-row {
+.fig-vflow.has-side { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.fig-vcell.is-wide { grid-column: 1 / -1; }
+
+.fig-vcell {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 5px;
-  border-left: 3px solid #a5b4fc;
-  border-radius: 8px;
-  background: #f8fafc;
-  padding: 6px;
-}
-
-.fig-flow-row.is-exit { border-left-color: #fda4af; }
-
-.fig-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
+  justify-content: center;
+  min-height: 0;
 }
 
 .fig-step,
 .fig-result {
+  width: 100%;
   border-radius: 8px;
-  padding: 5px 8px;
+  padding: 6px 8px;
   font-size: 0.78rem;
   font-weight: 800;
   line-height: 1.25;
+  text-align: center;
 }
 
 .fig-step { background: #e0e7ff; color: #312e81; }
 .fig-result { border: 1px solid #34d399; background: #d1fae5; color: #065f46; }
-.is-exit .fig-step { background: #ffe4e6; color: #9f1239; }
+.fig-step.is-exit-step { background: #ffe4e6; color: #9f1239; }
 
-.fig-flow-note {
-  flex-basis: 100%;
+.fig-varrow {
   color: #64748b;
-  font-size: 0.72rem;
-  font-weight: 700;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.3;
 }
+
+.fig-varrow.from-result { color: #059669; font-size: 1.15rem; }
+.fig-varrow.to-exit { color: #e11d48; }
 
 /* Capas (iceberg): claro lo que se ve, oscuro lo que no se ve. */
 .fig-iceberg {

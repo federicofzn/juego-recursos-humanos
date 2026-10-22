@@ -1715,14 +1715,45 @@ function renderQuadrants(figure, t) {
     </div>`;
 }
 
-// Etapas en orden; cada tramo termina en su resultado. Un tramo "salida" va en otro color.
+// Etapas en vertical, como un camino: cada paso va debajo del anterior y el resultado de una etapa cae directo en
+// el primer paso de la siguiente (flecha verde). Si una etapa se abre en dos caminos (ramas), ese paso ocupa todo el
+// ancho y de el bajan los dos caminos, uno al lado del otro; el de salida termina ahi. El marco punteado es el entorno.
 function renderFlow(figure, t) {
-  return `<ol class="fig-flow">${figure.tramos.map((tramo) => `
-    <li class="fig-flow-row${tramo.tipo === "salida" ? " is-exit" : ""}">
-      ${tramo.etapas.map((etapa, index) => `<span class="fig-link">${index ? `<span class="fig-arrow" aria-hidden="true">${tramo.idaYVuelta === index ? "↔" : "→"}</span>` : ""}<span class="fig-step">${t(etapa)}</span></span>`).join("")}
-      ${tramo.resultado ? `<span class="fig-link"><span class="fig-arrow" aria-hidden="true">⇒</span><span class="fig-result">${t(tramo.resultado)}</span></span>` : ""}
-      ${tramo.nota ? `<span class="fig-flow-note">${t(tramo.nota)}</span>` : ""}
-    </li>`).join("")}</ol>`;
+  const main = [];
+  const side = [];
+  const wide = new Set();
+  const box = (text, className) => `<span class="${className}">${t(text)}</span>`;
+  const arrow = (char, className = "") => `<span class="fig-varrow ${className}" aria-hidden="true">${char}</span>`;
+  figure.tramos.forEach((tramo, row) => {
+    const mainBranch = tramo.ramas ? tramo.ramas.find((rama) => rama.tipo !== "salida") : tramo;
+    const exitBranch = tramo.ramas ? tramo.ramas.find((rama) => rama.tipo === "salida") : null;
+    const steps = tramo.ramas ? [tramo.etapas[0], ...mainBranch.etapas] : tramo.etapas;
+    if (row) main.push(arrow("↓", "from-result"));
+    steps.forEach((step, index) => {
+      if (index) main.push(arrow(mainBranch.idaYVuelta === index ? "↕" : "↓"));
+      main.push(box(step, "fig-step"));
+      if (index === 0 && exitBranch) {
+        wide.add(main.length - 1);
+        const fork = main.length;
+        exitBranch.etapas.forEach((exitStep, exitIndex) => {
+          side[fork + exitIndex * 2] = arrow("↓", "to-exit");
+          side[fork + exitIndex * 2 + 1] = box(exitStep, "fig-step is-exit-step");
+        });
+      }
+    });
+    if (mainBranch.resultado) {
+      main.push(arrow("↓"));
+      main.push(box(mainBranch.resultado, "fig-result"));
+    }
+  });
+  const hasSide = side.some(Boolean);
+  const cells = main.map((cell, index) => wide.has(index)
+    ? `<div class="fig-vcell is-wide">${cell}</div>`
+    : `<div class="fig-vcell">${cell}</div>${hasSide ? `<div class="fig-vcell is-side">${side[index] || ""}</div>` : ""}`).join("");
+  const flow = `<div class="fig-vflow${hasSide ? " has-side" : ""}">${cells}</div>`;
+  return figure.entorno
+    ? `<div class="fig-entorno"><span class="fig-entorno-label">${t(figure.entorno)}</span>${flow}</div>`
+    : flow;
 }
 
 // Iceberg: arriba lo que se ve (claro), abajo lo que no se ve (oscuro).

@@ -250,28 +250,34 @@
       "figura": {
         "tipo": "flujo",
         "titulo": "El proceso de gestión de RRHH",
+        "entorno": "Entorno",
         "tramos": [
           {
             "etapas": [
-              "Planificación de RRHH",
-              "Reclutamiento",
-              "Selección"
+              "Planificación de RRHH"
             ],
-            "resultado": "Empleados competentes identificados y elegidos"
-          },
-          {
-            "etapas": [
-              "Planificación de RRHH",
-              "Desvinculación"
-            ],
-            "tipo": "salida"
+            "ramas": [
+              {
+                "etapas": [
+                  "Reclutamiento",
+                  "Selección"
+                ],
+                "resultado": "Identificación y selección de empleados competentes"
+              },
+              {
+                "etapas": [
+                  "Desvinculación"
+                ],
+                "tipo": "salida"
+              }
+            ]
           },
           {
             "etapas": [
               "Orientación",
               "Capacitación"
             ],
-            "resultado": "Empleados adaptados, competentes y actualizados"
+            "resultado": "Empleados adaptados, competentes, con habilidades y conocimientos actualizados"
           },
           {
             "etapas": [
@@ -283,7 +289,7 @@
             "resultado": "Empleados competentes y de alto rendimiento"
           }
         ],
-        "nota": "Todo el proceso ocurre dentro del entorno: el contexto que rodea a la organización.",
+        "nota": "La flecha verde lleva del resultado de cada etapa al primer paso de la siguiente. De la planificación salen dos caminos: el reclutamiento sigue el proceso y la desvinculación termina ahí. Desarrollo de carrera y compensación se influyen mutuamente (↕). Todo ocurre dentro del entorno: el contexto que rodea a la organización.",
         "leyenda": [
           {
             "clase": "k-etapa",
@@ -291,7 +297,7 @@
           },
           {
             "clase": "k-resultado",
-            "texto": "Resultado del tramo"
+            "texto": "Resultado"
           },
           {
             "clase": "k-salida",
