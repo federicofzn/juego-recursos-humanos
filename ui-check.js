@@ -142,3 +142,4 @@ assert(html.includes('id="streak"') && js.includes("state.streak += 1") && js.in
 assert((html.match(/class="badge-tooltip"/g) || []).length >= 5 && html.includes("has-tooltip") && !html.includes('title="Puntos"'), "los indicadores y borrar partida usan tooltips como los de los logros");
 assert(js.includes("searchHitIndex: -1") && js.includes("step > 0 ? 0 : hits.length - 1"), "el primer clic de busqueda hacia abajo debe ir al primer resultado");
 assert(js.includes('classList.toggle("book-fullscreen", expanded)') && css.includes(".app-shell.book-fullscreen .top-row"), "el libro expandido debe ocultar tambien la fila de arriba");
+assert(js.includes("hint: 3,") && js.includes("discard: 4,") && js.includes("swap: 5,") && html.includes("3 puntos · muestra una ayuda") && html.includes("4 puntos · elimina") && html.includes("5 puntos · reemplaza"), "la tienda cobra 3 la pista, 4 descartar y 5 cambiar");

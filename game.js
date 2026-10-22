@@ -1,7 +1,7 @@
 const COSTS = {
-  hint: 1,
-  discard: 2,
-  swap: 3,
+  hint: 3,
+  discard: 4,
+  swap: 5,
   erase: 10
 };
 
